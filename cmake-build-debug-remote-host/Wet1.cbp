@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Wet1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Wet1">
+				<Option output="/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Wet1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 Wet1"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Wet1/fast">
+				<Option output="/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Wet1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 Wet1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/home/omri/DataStructures/Final/Wet1/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/AVLTree.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/AVLTree.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/EmptyNode.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/EmptyNode.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/Group.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/Group.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/GroupNode.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/GroupNode.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/LevelNode.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/LevelNode.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/Node.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/Node.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/Player.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/Player.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/PlayerNode.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/PlayerNode.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/PlayersManager.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/PlayersManager.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/PlayersManagerExceptions.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/PlayersManagerExceptions.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/RankTree.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/RankTree.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/TreeExceptions.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/TreeExceptions.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/library1.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/library1.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/main.cpp">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/main.h">
+			<Option target="Wet1"/>
+		</Unit>
+		<Unit filename="/home/omri/DataStructures/Final/Wet1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

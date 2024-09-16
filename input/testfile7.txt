@@ -1,0 +1,9929 @@
+Init 
+GetHighestLevel -1
+GetAllPlayersByLevel -1
+ReplaceGroup 1 2
+AddGroup 0
+ReplaceGroup 3 4
+ReplaceGroup 2 3
+AddGroup 5
+IncreaseLevel 5 43
+RemovePlayer 99
+IncreaseLevel 1 8
+GetGroupsHighestLevel 2
+GetHighestLevel 3
+GetHighestLevel 5
+AddGroup 1
+GetGroupsHighestLevel 5
+ReplaceGroup 5 6
+RemovePlayer 45
+RemovePlayer 8
+ReplaceGroup 1 2
+RemovePlayer 99
+AddPlayer 36 4 22
+AddGroup 1
+ReplaceGroup 3 4
+ReplaceGroup 0 1
+AddGroup 3
+ReplaceGroup 4 5
+IncreaseLevel 2 78
+ReplaceGroup 1 2
+GetHighestLevel 2
+AddPlayer 58 0 33
+GetGroupsHighestLevel -1
+GetHighestLevel 1
+AddGroup 2
+AddPlayer 20 0 10
+IncreaseLevel 1 15
+GetHighestLevel 3
+GetAllPlayersByLevel -1
+GetHighestLevel 0
+IncreaseLevel 3 35
+ReplaceGroup 4 5
+AddGroup 1
+GetAllPlayersByLevel 5
+ReplaceGroup 4 5
+AddGroup 2
+AddPlayer 96 5 8
+ReplaceGroup -1 0
+GetGroupsHighestLevel 4
+RemovePlayer 88
+RemovePlayer 48
+RemovePlayer 36
+IncreaseLevel 4 62
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 4
+GetHighestLevel 1
+IncreaseLevel 3 4
+GetGroupsHighestLevel 4
+ReplaceGroup 5 6
+GetAllPlayersByLevel 5
+AddGroup 5
+GetAllPlayersByLevel 0
+AddGroup -1
+IncreaseLevel 4 69
+GetAllPlayersByLevel 1
+GetHighestLevel 5
+AddPlayer 77 1 14
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 2
+AddPlayer 86 5 48
+RemovePlayer 4
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel -1
+IncreaseLevel 1 4
+ReplaceGroup 4 5
+AddGroup 4
+AddPlayer 22 3 38
+GetAllPlayersByLevel 4
+AddGroup 1
+RemovePlayer 55
+ReplaceGroup 2 3
+GetHighestLevel 5
+ReplaceGroup 1 2
+AddPlayer 18 3 6
+AddPlayer 65 -1 23
+AddPlayer 61 2 35
+IncreaseLevel -1 8
+GetAllPlayersByLevel -1
+RemovePlayer 52
+AddGroup 1
+AddPlayer 29 1 19
+GetAllPlayersByLevel -1
+GetHighestLevel -1
+GetAllPlayersByLevel 0
+ReplaceGroup 4 5
+ReplaceGroup 3 4
+GetHighestLevel 1
+GetAllPlayersByLevel 5
+AddPlayer 50 -1 17
+RemovePlayer 91
+ReplaceGroup 2 3
+AddPlayer 50 0 -1
+RemovePlayer 10
+ReplaceGroup 0 1
+AddGroup 3
+GetHighestLevel -1
+AddPlayer 90 -1 48
+ReplaceGroup 0 1
+AddPlayer 25 1 45
+AddPlayer 14 4 45
+GetGroupsHighestLevel 5
+IncreaseLevel 4 92
+GetGroupsHighestLevel 4
+IncreaseLevel -1 -1
+GetGroupsHighestLevel 3
+AddPlayer 55 4 19
+GetGroupsHighestLevel 1
+RemovePlayer 72
+IncreaseLevel 5 89
+GetGroupsHighestLevel 1
+RemovePlayer 49
+ReplaceGroup 1 2
+AddPlayer 57 4 20
+ReplaceGroup 2 3
+AddPlayer 15 -1 39
+AddPlayer 20 4 48
+GetAllPlayersByLevel 2
+GetHighestLevel 3
+IncreaseLevel 3 71
+GetAllPlayersByLevel 1
+ReplaceGroup 3 4
+IncreaseLevel 5 74
+GetGroupsHighestLevel 3
+RemovePlayer 82
+RemovePlayer 74
+AddPlayer 3 -1 45
+ReplaceGroup -1 0
+AddGroup 4
+ReplaceGroup 2 3
+RemovePlayer 78
+GetHighestLevel 4
+GetHighestLevel -1
+AddPlayer 68 -1 11
+GetAllPlayersByLevel 1
+IncreaseLevel 3 89
+AddGroup -1
+RemovePlayer 52
+RemovePlayer 7
+GetHighestLevel 1
+AddGroup -1
+RemovePlayer 48
+AddGroup 3
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 4
+ReplaceGroup 2 3
+GetHighestLevel 4
+ReplaceGroup 3 4
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 3
+ReplaceGroup 2 3
+AddPlayer 36 1 19
+ReplaceGroup 2 3
+GetGroupsHighestLevel 5
+ReplaceGroup 4 5
+AddPlayer 11 -1 14
+AddPlayer 64 3 50
+ReplaceGroup 4 5
+RemovePlayer 88
+ReplaceGroup 1 2
+GetHighestLevel 3
+GetGroupsHighestLevel 0
+AddGroup 0
+GetGroupsHighestLevel 0
+IncreaseLevel 2 81
+GetGroupsHighestLevel 0
+AddGroup 1
+GetHighestLevel -1
+GetGroupsHighestLevel 5
+ReplaceGroup 4 5
+ReplaceGroup -1 0
+GetGroupsHighestLevel 4
+AddGroup 2
+GetHighestLevel 2
+GetAllPlayersByLevel 2
+AddGroup 0
+GetHighestLevel 1
+GetAllPlayersByLevel 2
+AddPlayer 14 2 7
+AddPlayer 18 5 13
+IncreaseLevel 2 42
+AddPlayer 39 0 39
+RemovePlayer 8
+RemovePlayer 83
+AddPlayer 59 2 20
+RemovePlayer 59
+AddGroup 4
+AddGroup -1
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 0
+ReplaceGroup -1 0
+IncreaseLevel 3 56
+GetAllPlayersByLevel 2
+AddGroup 4
+RemovePlayer 95
+RemovePlayer 66
+RemovePlayer 3
+IncreaseLevel 4 39
+GetGroupsHighestLevel 4
+RemovePlayer 21
+ReplaceGroup 4 5
+IncreaseLevel 0 4
+GetHighestLevel 5
+RemovePlayer 80
+AddGroup 1
+AddPlayer 69 3 19
+RemovePlayer 94
+AddGroup 4
+GetAllPlayersByLevel 2
+GetHighestLevel 1
+AddGroup 0
+GetHighestLevel 0
+GetHighestLevel 3
+IncreaseLevel 5 81
+AddPlayer 83 4 50
+RemovePlayer 49
+RemovePlayer 34
+ReplaceGroup 5 6
+GetAllPlayersByLevel 5
+ReplaceGroup -1 0
+AddGroup 1
+ReplaceGroup 4 5
+RemovePlayer 80
+AddGroup 3
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 4
+RemovePlayer 81
+AddPlayer 28 4 38
+AddPlayer 68 1 29
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 2
+AddGroup 3
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 1
+GetHighestLevel 0
+AddPlayer 89 1 24
+GetHighestLevel 0
+GetHighestLevel 2
+RemovePlayer 33
+ReplaceGroup 3 4
+IncreaseLevel 1 82
+AddGroup 1
+ReplaceGroup 2 3
+GetHighestLevel 5
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 2
+RemovePlayer 12
+RemovePlayer 50
+IncreaseLevel 1 9
+AddPlayer 53 4 7
+AddPlayer 2 3 34
+RemovePlayer 85
+GetGroupsHighestLevel 3
+GetHighestLevel -1
+ReplaceGroup 1 2
+IncreaseLevel 4 99
+GetGroupsHighestLevel 1
+ReplaceGroup 0 1
+GetHighestLevel 4
+IncreaseLevel -1 14
+AddPlayer 38 1 11
+GetAllPlayersByLevel 3
+ReplaceGroup 0 1
+GetHighestLevel 5
+AddPlayer 0 5 17
+RemovePlayer 12
+AddGroup 0
+GetHighestLevel -1
+AddPlayer 83 1 26
+IncreaseLevel 1 57
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 3
+AddPlayer 4 0 49
+AddPlayer 29 4 37
+GetHighestLevel 2
+AddGroup 5
+RemovePlayer 32
+AddPlayer 33 0 49
+AddPlayer 26 2 37
+RemovePlayer 47
+IncreaseLevel 3 25
+GetHighestLevel 5
+AddPlayer 57 5 49
+GetHighestLevel -1
+GetHighestLevel 5
+RemovePlayer 24
+AddPlayer 45 5 44
+RemovePlayer 22
+GetHighestLevel 0
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel -1
+AddPlayer 19 1 17
+RemovePlayer 54
+RemovePlayer 58
+GetHighestLevel 0
+GetAllPlayersByLevel -1
+IncreaseLevel 3 86
+RemovePlayer 15
+AddPlayer 22 4 46
+RemovePlayer 8
+GetGroupsHighestLevel 0
+AddGroup 0
+AddGroup 3
+ReplaceGroup 4 5
+GetHighestLevel 3
+AddPlayer 38 3 34
+AddPlayer 96 4 13
+IncreaseLevel 4 21
+RemovePlayer 90
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 0
+AddPlayer 91 1 33
+RemovePlayer 9
+GetHighestLevel 1
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 2
+RemovePlayer 2
+IncreaseLevel 2 51
+AddGroup 0
+GetAllPlayersByLevel -1
+AddGroup 5
+AddGroup 4
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 3
+ReplaceGroup 2 3
+IncreaseLevel 3 39
+ReplaceGroup 0 1
+AddPlayer 23 3 26
+IncreaseLevel 5 74
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 3
+AddPlayer 54 3 4
+ReplaceGroup 1 2
+AddPlayer 75 5 0
+RemovePlayer 58
+IncreaseLevel 4 46
+ReplaceGroup 0 1
+ReplaceGroup 2 3
+GetGroupsHighestLevel 0
+AddPlayer 85 5 18
+GetAllPlayersByLevel 4
+IncreaseLevel 5 78
+ReplaceGroup 0 1
+ReplaceGroup 2 3
+AddGroup 2
+AddPlayer 11 -1 12
+RemovePlayer 39
+RemovePlayer 0
+GetHighestLevel 4
+GetGroupsHighestLevel 5
+AddGroup 1
+IncreaseLevel 1 83
+AddPlayer 27 1 31
+AddGroup 1
+GetAllPlayersByLevel 3
+GetHighestLevel 3
+AddPlayer 13 2 31
+RemovePlayer 85
+GetGroupsHighestLevel 2
+IncreaseLevel 4 13
+GetHighestLevel 3
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 4
+IncreaseLevel 0 80
+AddGroup 5
+GetGroupsHighestLevel 2
+RemovePlayer 10
+ReplaceGroup 2 3
+GetHighestLevel 1
+GetHighestLevel 0
+IncreaseLevel 4 57
+RemovePlayer 71
+AddPlayer 98 4 10
+AddPlayer 94 -1 -1
+GetGroupsHighestLevel 1
+AddGroup 2
+AddPlayer 61 0 40
+AddGroup 5
+GetHighestLevel 1
+ReplaceGroup -1 0
+GetGroupsHighestLevel 2
+RemovePlayer 66
+AddPlayer 80 0 31
+ReplaceGroup 4 5
+GetHighestLevel 3
+ReplaceGroup 0 1
+GetGroupsHighestLevel 1
+AddGroup 1
+AddGroup 3
+RemovePlayer 51
+IncreaseLevel 5 31
+AddPlayer 5 0 40
+AddGroup 5
+GetAllPlayersByLevel 0
+RemovePlayer 73
+ReplaceGroup 1 2
+ReplaceGroup -1 0
+GetHighestLevel -1
+GetGroupsHighestLevel 2
+AddPlayer 29 4 10
+GetGroupsHighestLevel 3
+GetHighestLevel 4
+ReplaceGroup 5 6
+AddGroup -1
+AddPlayer 38 3 33
+IncreaseLevel 5 22
+ReplaceGroup 0 1
+RemovePlayer 93
+GetAllPlayersByLevel 4
+ReplaceGroup 2 3
+GetGroupsHighestLevel 4
+AddPlayer 2 1 41
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel 4
+RemovePlayer 14
+RemovePlayer -1
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 5
+ReplaceGroup 5 6
+AddPlayer 22 5 31
+ReplaceGroup 2 3
+AddGroup 1
+AddPlayer 1 -1 35
+AddGroup -1
+RemovePlayer 100
+GetGroupsHighestLevel 0
+AddGroup 5
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 4
+RemovePlayer 43
+AddPlayer 37 -1 25
+GetGroupsHighestLevel 4
+ReplaceGroup 1 2
+IncreaseLevel 0 26
+GetGroupsHighestLevel 0
+AddPlayer 46 0 42
+IncreaseLevel 5 16
+IncreaseLevel 0 14
+RemovePlayer 47
+ReplaceGroup -1 0
+ReplaceGroup 2 3
+GetAllPlayersByLevel 1
+RemovePlayer 33
+GetAllPlayersByLevel 3
+GetHighestLevel 3
+RemovePlayer 10
+AddPlayer 67 -1 35
+GetAllPlayersByLevel -1
+ReplaceGroup -1 0
+GetGroupsHighestLevel 2
+GetHighestLevel 0
+RemovePlayer 75
+ReplaceGroup 0 1
+RemovePlayer 0
+RemovePlayer 30
+ReplaceGroup 1 2
+ReplaceGroup 2 3
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 4
+GetHighestLevel 2
+IncreaseLevel -1 12
+IncreaseLevel 0 23
+GetGroupsHighestLevel -1
+IncreaseLevel 3 63
+RemovePlayer 16
+GetHighestLevel -1
+ReplaceGroup -1 0
+AddPlayer 11 4 2
+GetGroupsHighestLevel 2
+AddPlayer 29 0 23
+RemovePlayer 66
+ReplaceGroup 3 4
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 0
+AddGroup 2
+AddPlayer 81 4 20
+AddPlayer 7 2 15
+GetHighestLevel 5
+GetAllPlayersByLevel 3
+RemovePlayer 56
+GetHighestLevel 1
+IncreaseLevel -1 5
+AddGroup 2
+RemovePlayer 96
+GetAllPlayersByLevel 4
+GetHighestLevel 1
+IncreaseLevel 5 28
+AddGroup -1
+ReplaceGroup 4 5
+IncreaseLevel 1 97
+AddGroup 2
+AddGroup 3
+AddGroup 4
+GetAllPlayersByLevel 0
+AddGroup -1
+RemovePlayer 62
+ReplaceGroup 2 3
+AddPlayer 52 1 36
+IncreaseLevel 4 6
+AddPlayer 55 1 17
+GetHighestLevel 0
+RemovePlayer 62
+ReplaceGroup -1 0
+AddPlayer 9 1 15
+IncreaseLevel 1 96
+RemovePlayer 43
+ReplaceGroup 4 5
+AddGroup 2
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 0
+ReplaceGroup -1 0
+AddGroup 1
+GetGroupsHighestLevel 0
+GetHighestLevel 5
+GetGroupsHighestLevel 0
+RemovePlayer 85
+IncreaseLevel 3 64
+GetHighestLevel 0
+RemovePlayer 86
+AddPlayer 89 2 50
+AddPlayer 42 5 28
+AddPlayer 83 4 17
+ReplaceGroup 1 2
+AddGroup 2
+ReplaceGroup 5 6
+RemovePlayer 2
+GetGroupsHighestLevel 5
+AddGroup 3
+RemovePlayer 95
+AddGroup 0
+GetGroupsHighestLevel 3
+AddGroup -1
+ReplaceGroup 5 6
+GetAllPlayersByLevel -1
+AddGroup 2
+AddPlayer -1 2 -1
+GetGroupsHighestLevel 1
+GetHighestLevel 4
+GetGroupsHighestLevel 5
+AddGroup 0
+GetHighestLevel 3
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel -1
+ReplaceGroup 2 3
+IncreaseLevel 0 93
+GetHighestLevel 4
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 0
+AddGroup 1
+ReplaceGroup 3 4
+GetHighestLevel 4
+ReplaceGroup 3 4
+GetAllPlayersByLevel 2
+AddPlayer 31 0 23
+AddPlayer 53 3 23
+GetGroupsHighestLevel 0
+AddPlayer 0 3 32
+ReplaceGroup 0 1
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 2
+AddGroup 1
+ReplaceGroup -1 0
+GetGroupsHighestLevel 2
+AddGroup 2
+GetGroupsHighestLevel 3
+GetHighestLevel 3
+GetHighestLevel -1
+GetGroupsHighestLevel 5
+RemovePlayer 34
+GetGroupsHighestLevel 0
+RemovePlayer 51
+AddPlayer 46 -1 9
+ReplaceGroup -1 0
+AddGroup 3
+AddPlayer 7 2 8
+IncreaseLevel 2 10
+RemovePlayer 80
+AddGroup 0
+AddPlayer 97 -1 5
+ReplaceGroup -1 0
+AddGroup 1
+GetHighestLevel 3
+AddGroup 3
+IncreaseLevel 0 100
+AddPlayer 66 4 2
+RemovePlayer 20
+GetHighestLevel 3
+GetHighestLevel -1
+GetGroupsHighestLevel 3
+AddPlayer 1 -1 17
+AddPlayer 15 4 39
+IncreaseLevel 2 25
+ReplaceGroup 1 2
+GetHighestLevel 5
+AddGroup -1
+AddGroup 4
+GetGroupsHighestLevel 3
+AddGroup 4
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 1
+IncreaseLevel 4 75
+AddGroup 4
+GetHighestLevel -1
+IncreaseLevel 1 32
+AddGroup 2
+AddPlayer 86 4 11
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 5
+AddPlayer 2 4 7
+GetGroupsHighestLevel 5
+GetHighestLevel 0
+GetHighestLevel 3
+RemovePlayer 54
+RemovePlayer 80
+AddGroup 2
+GetAllPlayersByLevel 0
+IncreaseLevel 4 1
+GetHighestLevel 3
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 5
+GetHighestLevel 2
+AddGroup 2
+GetAllPlayersByLevel 2
+AddGroup 3
+ReplaceGroup -1 0
+GetGroupsHighestLevel 3
+AddGroup 0
+GetHighestLevel 1
+AddGroup 1
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 1
+AddGroup -1
+GetAllPlayersByLevel 2
+AddPlayer 82 2 1
+AddGroup -1
+AddGroup 1
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 2
+RemovePlayer 49
+GetGroupsHighestLevel -1
+IncreaseLevel 0 69
+GetAllPlayersByLevel -1
+GetHighestLevel 5
+GetGroupsHighestLevel 5
+IncreaseLevel 5 92
+IncreaseLevel 2 61
+RemovePlayer 52
+AddPlayer 37 1 42
+IncreaseLevel 4 74
+RemovePlayer 28
+RemovePlayer 100
+IncreaseLevel 5 70
+AddGroup 5
+RemovePlayer 53
+ReplaceGroup 5 6
+AddGroup 3
+GetGroupsHighestLevel 4
+IncreaseLevel 3 38
+RemovePlayer 12
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 1
+AddPlayer 32 0 19
+GetAllPlayersByLevel 3
+AddPlayer 58 5 38
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 2
+GetHighestLevel 1
+AddPlayer 98 3 22
+AddPlayer 73 -1 8
+IncreaseLevel 2 75
+AddGroup 0
+AddPlayer 77 4 44
+AddGroup 1
+GetGroupsHighestLevel 3
+AddGroup 0
+ReplaceGroup 1 2
+GetHighestLevel 3
+ReplaceGroup 5 6
+GetGroupsHighestLevel 3
+IncreaseLevel 2 37
+AddPlayer 47 5 21
+GetHighestLevel -1
+AddPlayer 9 4 45
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel 0
+RemovePlayer 14
+RemovePlayer 13
+GetHighestLevel 2
+ReplaceGroup 2 3
+GetHighestLevel -1
+IncreaseLevel 1 10
+GetHighestLevel 4
+GetHighestLevel 2
+AddPlayer 71 1 -1
+ReplaceGroup 0 1
+ReplaceGroup 4 5
+GetAllPlayersByLevel 0
+RemovePlayer 4
+GetAllPlayersByLevel 0
+ReplaceGroup -1 0
+AddGroup 5
+RemovePlayer 44
+GetGroupsHighestLevel 5
+AddGroup 1
+AddGroup 4
+ReplaceGroup 0 1
+GetHighestLevel 4
+RemovePlayer 20
+AddPlayer 29 -1 31
+IncreaseLevel 2 93
+RemovePlayer 77
+RemovePlayer 87
+AddPlayer 10 4 -1
+AddGroup 0
+AddGroup 3
+AddGroup 1
+AddPlayer 50 -1 50
+AddPlayer 82 4 6
+AddPlayer 44 3 10
+IncreaseLevel 2 69
+RemovePlayer 59
+GetHighestLevel 3
+IncreaseLevel 3 3
+RemovePlayer 76
+RemovePlayer 58
+GetGroupsHighestLevel 3
+AddPlayer 4 -1 -1
+ReplaceGroup 0 1
+RemovePlayer 98
+IncreaseLevel 5 51
+IncreaseLevel 4 16
+RemovePlayer 60
+GetAllPlayersByLevel 1
+IncreaseLevel 4 54
+AddPlayer 55 5 7
+AddGroup 1
+GetHighestLevel 5
+ReplaceGroup -1 0
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 0
+RemovePlayer 56
+AddPlayer 57 1 34
+RemovePlayer 62
+GetHighestLevel 0
+IncreaseLevel -1 98
+ReplaceGroup 3 4
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 1
+RemovePlayer 38
+GetHighestLevel 2
+GetAllPlayersByLevel 5
+AddPlayer 38 1 33
+GetHighestLevel -1
+AddPlayer 73 0 16
+GetHighestLevel 0
+IncreaseLevel -1 9
+GetGroupsHighestLevel -1
+AddPlayer 50 0 17
+RemovePlayer 69
+AddPlayer 6 5 -1
+GetGroupsHighestLevel -1
+GetHighestLevel 1
+GetHighestLevel -1
+AddGroup 1
+GetGroupsHighestLevel 3
+RemovePlayer 97
+IncreaseLevel 5 59
+GetHighestLevel 3
+GetHighestLevel 5
+GetGroupsHighestLevel 5
+IncreaseLevel -1 30
+GetAllPlayersByLevel 5
+ReplaceGroup -1 0
+AddPlayer 70 -1 15
+IncreaseLevel -1 39
+GetHighestLevel 0
+GetAllPlayersByLevel -1
+IncreaseLevel 0 11
+RemovePlayer 94
+RemovePlayer 42
+GetHighestLevel 2
+GetAllPlayersByLevel 1
+AddPlayer 99 -1 25
+GetGroupsHighestLevel 0
+AddGroup 3
+AddPlayer 29 0 26
+RemovePlayer 9
+ReplaceGroup 2 3
+GetAllPlayersByLevel 3
+AddGroup 1
+AddGroup 1
+AddGroup 3
+GetAllPlayersByLevel 2
+GetHighestLevel 4
+IncreaseLevel 2 -1
+AddGroup 5
+AddGroup 1
+AddGroup -1
+RemovePlayer 15
+RemovePlayer 13
+AddGroup 2
+RemovePlayer 25
+GetGroupsHighestLevel 2
+AddGroup 0
+AddGroup 4
+AddPlayer 1 3 14
+IncreaseLevel 2 84
+AddPlayer 34 5 3
+IncreaseLevel 4 4
+GetHighestLevel 2
+GetGroupsHighestLevel 2
+IncreaseLevel 0 66
+AddGroup 2
+ReplaceGroup -1 0
+AddGroup 2
+GetHighestLevel -1
+GetHighestLevel 3
+RemovePlayer 0
+GetGroupsHighestLevel 0
+GetHighestLevel 4
+IncreaseLevel 2 82
+GetGroupsHighestLevel 5
+IncreaseLevel 4 32
+ReplaceGroup 3 4
+AddPlayer 94 -1 31
+GetHighestLevel -1
+ReplaceGroup 4 5
+IncreaseLevel 2 97
+RemovePlayer 10
+AddGroup 5
+ReplaceGroup 4 5
+RemovePlayer 76
+AddGroup -1
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel -1
+GetHighestLevel -1
+ReplaceGroup 2 3
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 1
+IncreaseLevel 2 98
+RemovePlayer 82
+IncreaseLevel 1 10
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 5
+RemovePlayer 23
+AddPlayer 79 -1 42
+ReplaceGroup 0 1
+GetGroupsHighestLevel 4
+RemovePlayer 41
+IncreaseLevel 4 30
+IncreaseLevel 4 29
+IncreaseLevel 5 2
+GetAllPlayersByLevel 2
+IncreaseLevel 1 51
+RemovePlayer 33
+AddPlayer 29 4 22
+GetHighestLevel 0
+GetGroupsHighestLevel 0
+RemovePlayer 52
+AddPlayer 11 0 0
+GetHighestLevel 1
+IncreaseLevel 3 48
+AddGroup -1
+AddPlayer 32 4 26
+AddPlayer 61 -1 3
+GetHighestLevel 4
+RemovePlayer 53
+GetAllPlayersByLevel 4
+AddGroup 1
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 3
+IncreaseLevel 0 1
+GetGroupsHighestLevel 5
+GetHighestLevel -1
+GetHighestLevel 2
+GetHighestLevel 3
+GetGroupsHighestLevel 1
+ReplaceGroup 1 2
+IncreaseLevel -1 12
+GetAllPlayersByLevel 1
+RemovePlayer 74
+IncreaseLevel 5 51
+GetHighestLevel -1
+GetGroupsHighestLevel 3
+IncreaseLevel 1 8
+IncreaseLevel 3 57
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 0
+ReplaceGroup 1 2
+GetGroupsHighestLevel 3
+AddPlayer 94 4 23
+ReplaceGroup 4 5
+GetHighestLevel 3
+IncreaseLevel -1 87
+AddPlayer 58 2 15
+AddGroup 3
+ReplaceGroup -1 0
+AddPlayer 12 2 28
+GetHighestLevel 5
+RemovePlayer 88
+RemovePlayer 63
+IncreaseLevel 1 55
+RemovePlayer 97
+RemovePlayer 76
+ReplaceGroup 5 6
+AddPlayer 27 4 8
+IncreaseLevel 2 30
+GetAllPlayersByLevel 0
+ReplaceGroup -1 0
+GetAllPlayersByLevel 4
+AddPlayer 89 3 42
+GetGroupsHighestLevel 2
+AddGroup 1
+GetHighestLevel 1
+AddGroup 0
+ReplaceGroup 2 3
+AddPlayer 66 4 36
+IncreaseLevel 3 84
+AddPlayer 55 1 46
+GetGroupsHighestLevel 0
+GetHighestLevel -1
+AddGroup 1
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 4
+IncreaseLevel 0 8
+GetHighestLevel 0
+IncreaseLevel 1 0
+GetHighestLevel 3
+AddPlayer 84 4 11
+AddGroup 2
+IncreaseLevel 3 40
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel -1
+RemovePlayer 27
+ReplaceGroup 0 1
+ReplaceGroup 1 2
+ReplaceGroup 3 4
+GetGroupsHighestLevel 3
+IncreaseLevel 1 31
+IncreaseLevel 3 11
+IncreaseLevel 4 44
+GetHighestLevel 3
+ReplaceGroup 3 4
+RemovePlayer 70
+AddGroup 2
+GetGroupsHighestLevel 3
+RemovePlayer 91
+ReplaceGroup 1 2
+AddGroup 2
+IncreaseLevel 5 43
+IncreaseLevel 0 27
+GetAllPlayersByLevel 2
+AddGroup 2
+AddGroup -1
+AddPlayer 23 2 49
+GetGroupsHighestLevel 0
+IncreaseLevel -1 68
+IncreaseLevel 3 26
+IncreaseLevel 4 22
+ReplaceGroup 5 6
+AddPlayer 9 4 28
+AddGroup 0
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 2
+GetHighestLevel 1
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 5
+GetHighestLevel 5
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 0
+AddPlayer 89 4 38
+GetHighestLevel 1
+AddGroup 1
+ReplaceGroup 0 1
+ReplaceGroup 5 6
+GetGroupsHighestLevel 3
+AddGroup 4
+RemovePlayer 93
+AddGroup 4
+AddPlayer 56 0 23
+ReplaceGroup 3 4
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 1
+GetHighestLevel -1
+GetAllPlayersByLevel 0
+RemovePlayer 80
+GetHighestLevel 5
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 0
+RemovePlayer 93
+IncreaseLevel 4 78
+RemovePlayer 47
+GetGroupsHighestLevel 0
+ReplaceGroup 3 4
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 4
+IncreaseLevel 0 43
+IncreaseLevel -1 26
+ReplaceGroup 5 6
+GetAllPlayersByLevel -1
+GetHighestLevel 0
+AddGroup 3
+RemovePlayer 20
+AddPlayer 45 4 34
+IncreaseLevel 4 26
+IncreaseLevel 2 63
+GetGroupsHighestLevel 3
+RemovePlayer 5
+AddGroup 1
+GetGroupsHighestLevel 5
+RemovePlayer 63
+AddPlayer 52 0 41
+IncreaseLevel 3 23
+IncreaseLevel 3 91
+AddPlayer 95 -1 23
+IncreaseLevel -1 29
+ReplaceGroup 4 5
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 5
+GetHighestLevel 3
+ReplaceGroup 0 1
+AddGroup 0
+GetGroupsHighestLevel 5
+AddPlayer 82 -1 42
+IncreaseLevel 4 45
+AddPlayer 23 3 30
+AddGroup 3
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 0
+RemovePlayer 23
+IncreaseLevel 3 49
+ReplaceGroup 4 5
+IncreaseLevel 3 53
+GetHighestLevel 3
+GetAllPlayersByLevel 5
+GetHighestLevel 5
+GetGroupsHighestLevel 0
+AddGroup 1
+ReplaceGroup 4 5
+IncreaseLevel 3 3
+ReplaceGroup 0 1
+IncreaseLevel 3 68
+ReplaceGroup 0 1
+RemovePlayer 50
+GetHighestLevel 0
+GetGroupsHighestLevel 2
+AddGroup 3
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel -1
+IncreaseLevel 3 9
+AddGroup 3
+GetHighestLevel -1
+GetGroupsHighestLevel 0
+GetHighestLevel 5
+GetHighestLevel -1
+ReplaceGroup -1 0
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel 1
+ReplaceGroup 3 4
+GetGroupsHighestLevel 2
+ReplaceGroup 2 3
+GetAllPlayersByLevel 5
+AddGroup 3
+ReplaceGroup 5 6
+AddPlayer 86 3 18
+AddPlayer 39 4 40
+GetHighestLevel 5
+RemovePlayer 43
+ReplaceGroup -1 0
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 4
+AddGroup -1
+AddPlayer 98 3 8
+GetHighestLevel 5
+GetHighestLevel 2
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 2
+ReplaceGroup 0 1
+AddPlayer 38 4 42
+RemovePlayer 3
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 2
+AddPlayer 40 4 50
+GetGroupsHighestLevel 1
+GetHighestLevel 4
+GetHighestLevel 2
+GetGroupsHighestLevel -1
+AddGroup 1
+IncreaseLevel 1 59
+AddPlayer 23 0 14
+AddPlayer 45 -1 38
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel -1
+ReplaceGroup 0 1
+GetHighestLevel 5
+AddGroup 5
+IncreaseLevel 5 61
+RemovePlayer 48
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 2
+GetHighestLevel 1
+GetHighestLevel 0
+ReplaceGroup 4 5
+IncreaseLevel -1 69
+GetAllPlayersByLevel -1
+IncreaseLevel 4 80
+GetAllPlayersByLevel 3
+GetHighestLevel 5
+IncreaseLevel 4 20
+GetHighestLevel 5
+IncreaseLevel 4 52
+GetHighestLevel -1
+RemovePlayer 8
+AddPlayer 46 5 42
+GetGroupsHighestLevel 1
+RemovePlayer 35
+RemovePlayer 95
+ReplaceGroup 3 4
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 3
+IncreaseLevel 5 20
+RemovePlayer 86
+AddGroup 4
+ReplaceGroup 1 2
+GetGroupsHighestLevel 4
+ReplaceGroup 1 2
+RemovePlayer 0
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 0
+RemovePlayer 24
+AddGroup 0
+AddGroup 5
+GetGroupsHighestLevel 5
+ReplaceGroup -1 0
+AddGroup 3
+AddGroup 0
+IncreaseLevel 2 26
+GetHighestLevel 3
+GetGroupsHighestLevel 2
+RemovePlayer 55
+IncreaseLevel 1 7
+RemovePlayer 64
+AddPlayer 100 3 10
+RemovePlayer 18
+RemovePlayer 65
+RemovePlayer 82
+AddGroup 0
+GetGroupsHighestLevel 3
+AddGroup 4
+RemovePlayer 55
+AddGroup -1
+RemovePlayer 21
+AddGroup 4
+GetAllPlayersByLevel 0
+GetHighestLevel -1
+GetHighestLevel 2
+GetAllPlayersByLevel 0
+GetHighestLevel 3
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 1
+GetHighestLevel 3
+RemovePlayer 37
+GetHighestLevel 3
+GetHighestLevel 2
+GetHighestLevel -1
+RemovePlayer 71
+IncreaseLevel 4 81
+GetAllPlayersByLevel 3
+IncreaseLevel 4 37
+ReplaceGroup 1 2
+GetHighestLevel 2
+ReplaceGroup 5 6
+GetHighestLevel 5
+AddPlayer 71 1 10
+GetHighestLevel 2
+GetGroupsHighestLevel 3
+AddGroup -1
+AddPlayer 10 2 24
+IncreaseLevel 5 68
+AddGroup 5
+AddPlayer 51 3 46
+GetAllPlayersByLevel 4
+IncreaseLevel 4 3
+IncreaseLevel 2 97
+AddPlayer 91 -1 7
+ReplaceGroup 0 1
+RemovePlayer 29
+GetAllPlayersByLevel 5
+RemovePlayer 81
+GetAllPlayersByLevel 5
+AddPlayer 13 4 26
+IncreaseLevel 2 97
+ReplaceGroup 1 2
+AddPlayer 99 3 5
+ReplaceGroup 1 2
+AddGroup 1
+AddGroup 2
+RemovePlayer 45
+IncreaseLevel 3 23
+GetHighestLevel 4
+AddGroup 4
+GetGroupsHighestLevel 3
+ReplaceGroup 0 1
+AddPlayer 12 5 1
+GetAllPlayersByLevel 4
+AddGroup -1
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 2
+IncreaseLevel 2 44
+ReplaceGroup 4 5
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 0
+AddPlayer 92 0 2
+IncreaseLevel 3 52
+RemovePlayer 24
+GetAllPlayersByLevel 1
+AddGroup 3
+IncreaseLevel 1 59
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 3
+GetHighestLevel 4
+IncreaseLevel 5 17
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 0
+AddGroup 3
+ReplaceGroup 0 1
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 2
+IncreaseLevel 5 71
+GetGroupsHighestLevel 2
+GetHighestLevel 4
+GetAllPlayersByLevel 1
+AddGroup -1
+GetGroupsHighestLevel 4
+AddPlayer 81 0 32
+IncreaseLevel 5 14
+GetGroupsHighestLevel 1
+ReplaceGroup 5 6
+AddGroup 3
+IncreaseLevel 5 75
+IncreaseLevel 4 44
+RemovePlayer 98
+ReplaceGroup 3 4
+RemovePlayer 77
+GetHighestLevel 0
+GetHighestLevel 4
+IncreaseLevel 4 57
+ReplaceGroup 4 5
+AddGroup 3
+IncreaseLevel 2 7
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 5
+IncreaseLevel 5 68
+AddGroup 4
+AddGroup 2
+GetAllPlayersByLevel 3
+GetHighestLevel 4
+AddPlayer 97 4 17
+AddPlayer 85 2 8
+GetGroupsHighestLevel -1
+IncreaseLevel 4 76
+GetHighestLevel -1
+AddPlayer 16 5 45
+GetHighestLevel 0
+ReplaceGroup 3 4
+AddPlayer 70 3 7
+RemovePlayer 36
+RemovePlayer 45
+GetGroupsHighestLevel 3
+AddGroup 3
+GetHighestLevel 1
+RemovePlayer 86
+AddPlayer 28 2 22
+AddGroup -1
+GetGroupsHighestLevel 4
+ReplaceGroup 3 4
+AddPlayer 53 0 38
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 2
+GetHighestLevel 0
+AddPlayer 10 -1 7
+RemovePlayer 25
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 1
+AddPlayer 82 1 13
+GetHighestLevel 2
+GetGroupsHighestLevel 2
+IncreaseLevel 2 93
+AddGroup 1
+GetGroupsHighestLevel 1
+GetHighestLevel -1
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel -1
+RemovePlayer 77
+AddPlayer 99 2 18
+AddPlayer 49 -1 42
+RemovePlayer 6
+GetAllPlayersByLevel 1
+AddGroup 2
+IncreaseLevel 1 27
+GetHighestLevel 3
+RemovePlayer 82
+ReplaceGroup 2 3
+GetHighestLevel 3
+AddGroup 0
+GetAllPlayersByLevel -1
+GetHighestLevel 5
+GetHighestLevel 1
+GetHighestLevel 2
+RemovePlayer 31
+IncreaseLevel 0 -1
+AddGroup 5
+ReplaceGroup 0 1
+GetGroupsHighestLevel 0
+IncreaseLevel -1 17
+AddGroup 3
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 1
+AddGroup 5
+AddPlayer 76 -1 37
+AddGroup 1
+IncreaseLevel 3 35
+RemovePlayer 60
+GetGroupsHighestLevel 5
+IncreaseLevel 1 49
+IncreaseLevel 2 91
+AddGroup 2
+AddGroup 1
+GetAllPlayersByLevel 4
+AddGroup 4
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 0
+ReplaceGroup 2 3
+GetAllPlayersByLevel 5
+RemovePlayer 34
+ReplaceGroup 2 3
+IncreaseLevel 2 51
+RemovePlayer 25
+AddGroup 3
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 5
+IncreaseLevel 0 92
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel 5
+AddGroup 3
+AddPlayer 54 2 9
+IncreaseLevel 4 63
+AddGroup 4
+ReplaceGroup 3 4
+AddGroup 0
+GetHighestLevel 0
+AddPlayer 26 5 19
+ReplaceGroup 1 2
+GetGroupsHighestLevel 1
+ReplaceGroup 1 2
+RemovePlayer 35
+GetHighestLevel 5
+RemovePlayer 61
+GetHighestLevel 3
+GetAllPlayersByLevel 3
+IncreaseLevel 0 60
+AddPlayer 31 1 38
+GetHighestLevel 4
+GetHighestLevel 5
+IncreaseLevel 5 85
+AddGroup -1
+IncreaseLevel -1 26
+AddPlayer 71 3 43
+AddGroup 1
+AddGroup 5
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel -1
+AddGroup 3
+ReplaceGroup 0 1
+GetGroupsHighestLevel 2
+ReplaceGroup 4 5
+GetGroupsHighestLevel 3
+AddGroup 2
+GetHighestLevel 4
+RemovePlayer 78
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 3
+IncreaseLevel 5 10
+AddPlayer 76 3 21
+ReplaceGroup 5 6
+ReplaceGroup 5 6
+ReplaceGroup 3 4
+AddGroup -1
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 1
+GetHighestLevel 0
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel 3
+AddPlayer 11 5 44
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 1
+IncreaseLevel 1 33
+ReplaceGroup 2 3
+GetHighestLevel 1
+ReplaceGroup 3 4
+ReplaceGroup 2 3
+RemovePlayer 7
+GetAllPlayersByLevel 5
+AddGroup 1
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 0
+ReplaceGroup 2 3
+AddGroup 5
+AddPlayer 89 5 24
+GetGroupsHighestLevel 5
+AddGroup -1
+AddGroup 5
+ReplaceGroup 3 4
+GetAllPlayersByLevel 3
+GetHighestLevel 5
+GetGroupsHighestLevel 0
+GetHighestLevel 5
+GetGroupsHighestLevel 5
+AddPlayer 1 4 43
+GetAllPlayersByLevel 3
+IncreaseLevel 1 73
+GetAllPlayersByLevel 4
+AddGroup 2
+GetAllPlayersByLevel 2
+ReplaceGroup 1 2
+GetAllPlayersByLevel 4
+ReplaceGroup 3 4
+GetHighestLevel 1
+AddGroup 0
+GetHighestLevel 5
+AddGroup 0
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 4
+IncreaseLevel 5 77
+GetGroupsHighestLevel 3
+AddGroup 2
+GetHighestLevel 3
+AddPlayer 75 4 26
+RemovePlayer 32
+GetGroupsHighestLevel 5
+ReplaceGroup 4 5
+AddGroup 3
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 2
+GetHighestLevel 3
+AddPlayer 68 4 15
+GetAllPlayersByLevel 1
+GetHighestLevel 5
+GetGroupsHighestLevel 4
+AddPlayer 61 4 39
+AddGroup 0
+AddGroup 2
+GetHighestLevel 0
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 1
+GetHighestLevel 0
+AddPlayer 37 1 0
+IncreaseLevel 3 60
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel 3
+AddGroup 0
+RemovePlayer 61
+AddPlayer 30 5 42
+GetAllPlayersByLevel 0
+IncreaseLevel 1 81
+GetGroupsHighestLevel 5
+RemovePlayer 8
+GetGroupsHighestLevel 3
+AddGroup 1
+ReplaceGroup 5 6
+GetGroupsHighestLevel 2
+AddGroup -1
+IncreaseLevel 0 48
+AddPlayer 47 3 1
+AddPlayer 91 5 15
+GetHighestLevel 3
+GetAllPlayersByLevel 4
+AddGroup 2
+IncreaseLevel 0 14
+AddPlayer 30 3 45
+AddPlayer 96 2 43
+ReplaceGroup 0 1
+GetGroupsHighestLevel 0
+RemovePlayer 87
+AddGroup 5
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 4
+AddGroup 3
+IncreaseLevel 3 72
+GetHighestLevel 4
+ReplaceGroup 2 3
+AddPlayer 49 4 47
+AddGroup 2
+GetGroupsHighestLevel 4
+IncreaseLevel 0 91
+IncreaseLevel 4 78
+ReplaceGroup 1 2
+GetGroupsHighestLevel 1
+IncreaseLevel 5 31
+GetAllPlayersByLevel 4
+AddGroup 0
+GetHighestLevel 3
+AddGroup 0
+ReplaceGroup -1 0
+ReplaceGroup -1 0
+AddPlayer 54 -1 6
+GetHighestLevel 4
+GetGroupsHighestLevel 0
+ReplaceGroup 2 3
+RemovePlayer 53
+AddGroup 1
+AddPlayer 8 1 45
+RemovePlayer 34
+GetAllPlayersByLevel 4
+ReplaceGroup 5 6
+GetGroupsHighestLevel 2
+AddGroup 3
+GetGroupsHighestLevel -1
+ReplaceGroup 1 2
+RemovePlayer 43
+GetAllPlayersByLevel 2
+ReplaceGroup 0 1
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 1
+AddPlayer 90 3 23
+GetGroupsHighestLevel -1
+IncreaseLevel -1 79
+RemovePlayer 71
+IncreaseLevel 2 85
+GetAllPlayersByLevel 4
+AddPlayer 23 1 16
+GetHighestLevel 1
+GetGroupsHighestLevel -1
+AddGroup 2
+IncreaseLevel 1 59
+RemovePlayer 75
+AddPlayer 63 -1 43
+IncreaseLevel 0 3
+AddPlayer 22 4 17
+AddPlayer 56 3 36
+GetGroupsHighestLevel -1
+AddGroup 4
+ReplaceGroup 1 2
+AddGroup 4
+ReplaceGroup 4 5
+IncreaseLevel 0 43
+GetGroupsHighestLevel -1
+AddPlayer 22 0 31
+GetAllPlayersByLevel -1
+GetHighestLevel 0
+AddPlayer 100 4 13
+RemovePlayer 74
+GetHighestLevel 5
+AddPlayer 65 3 9
+IncreaseLevel 3 44
+GetAllPlayersByLevel 4
+AddGroup 0
+AddPlayer 4 4 43
+AddGroup -1
+ReplaceGroup 3 4
+GetGroupsHighestLevel 5
+ReplaceGroup 2 3
+RemovePlayer 7
+IncreaseLevel 3 43
+IncreaseLevel 0 69
+ReplaceGroup 2 3
+ReplaceGroup 1 2
+AddPlayer 68 -1 28
+AddGroup 3
+IncreaseLevel 5 78
+GetHighestLevel 5
+GetGroupsHighestLevel 1
+RemovePlayer 85
+ReplaceGroup 4 5
+AddGroup 1
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 2
+RemovePlayer 79
+RemovePlayer 11
+AddGroup 3
+GetAllPlayersByLevel 1
+AddGroup 0
+GetAllPlayersByLevel 1
+IncreaseLevel 0 17
+RemovePlayer 100
+AddPlayer 28 0 42
+GetGroupsHighestLevel 5
+IncreaseLevel 3 43
+AddPlayer 70 2 37
+GetHighestLevel 2
+IncreaseLevel 4 58
+GetHighestLevel 1
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 1
+AddPlayer 75 0 48
+RemovePlayer 61
+GetGroupsHighestLevel 5
+GetHighestLevel 0
+IncreaseLevel 2 18
+AddPlayer 6 2 34
+AddGroup 0
+AddPlayer 79 -1 17
+GetHighestLevel 3
+GetGroupsHighestLevel 5
+IncreaseLevel 3 83
+GetHighestLevel 0
+GetGroupsHighestLevel 1
+GetHighestLevel 1
+IncreaseLevel -1 46
+GetGroupsHighestLevel 3
+ReplaceGroup 4 5
+GetGroupsHighestLevel -1
+AddPlayer 6 5 49
+IncreaseLevel -1 42
+RemovePlayer 34
+GetGroupsHighestLevel 0
+AddPlayer 38 -1 22
+IncreaseLevel 4 94
+GetGroupsHighestLevel -1
+AddGroup 4
+AddGroup 2
+GetHighestLevel 0
+GetGroupsHighestLevel 5
+AddPlayer 75 4 43
+RemovePlayer 44
+AddGroup 5
+AddGroup 0
+AddPlayer 83 5 16
+AddPlayer 1 -1 25
+ReplaceGroup 5 6
+AddGroup 1
+ReplaceGroup 1 2
+AddPlayer 25 5 2
+GetHighestLevel 3
+GetAllPlayersByLevel 3
+ReplaceGroup 2 3
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel -1
+ReplaceGroup 3 4
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 5
+AddPlayer 73 2 25
+RemovePlayer 61
+AddPlayer 13 2 -1
+AddPlayer 50 1 35
+ReplaceGroup 3 4
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 1
+ReplaceGroup 2 3
+AddPlayer 35 -1 7
+GetHighestLevel 1
+AddPlayer 97 2 49
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 1
+AddGroup -1
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 4
+AddPlayer 4 5 42
+AddGroup -1
+ReplaceGroup 0 1
+GetHighestLevel 2
+AddPlayer 31 3 45
+GetGroupsHighestLevel 2
+IncreaseLevel 1 51
+AddGroup 3
+RemovePlayer 2
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 3
+IncreaseLevel 4 97
+ReplaceGroup 3 4
+GetGroupsHighestLevel 1
+AddGroup 4
+AddGroup 0
+GetAllPlayersByLevel 5
+GetHighestLevel 5
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 3
+IncreaseLevel 3 16
+AddPlayer 23 -1 23
+GetGroupsHighestLevel -1
+GetHighestLevel 5
+AddGroup -1
+RemovePlayer 64
+RemovePlayer 50
+GetGroupsHighestLevel 4
+RemovePlayer 51
+ReplaceGroup 1 2
+ReplaceGroup 1 2
+GetGroupsHighestLevel 0
+IncreaseLevel -1 38
+IncreaseLevel 3 84
+GetGroupsHighestLevel 1
+GetHighestLevel 3
+GetHighestLevel 0
+ReplaceGroup 3 4
+GetHighestLevel -1
+GetHighestLevel 4
+GetAllPlayersByLevel 5
+AddPlayer 17 -1 38
+GetAllPlayersByLevel 5
+RemovePlayer 46
+RemovePlayer 24
+RemovePlayer 0
+AddPlayer 1 5 26
+RemovePlayer 99
+AddPlayer 51 -1 12
+AddGroup 3
+AddGroup 3
+RemovePlayer 30
+AddGroup 0
+ReplaceGroup 3 4
+AddPlayer 40 4 13
+GetGroupsHighestLevel 3
+IncreaseLevel 4 6
+AddPlayer 54 -1 4
+GetHighestLevel 5
+GetHighestLevel 3
+IncreaseLevel -1 93
+AddPlayer 32 3 4
+ReplaceGroup 3 4
+IncreaseLevel 5 38
+RemovePlayer 42
+AddPlayer 62 1 35
+IncreaseLevel 5 22
+GetGroupsHighestLevel 2
+AddPlayer 99 5 39
+AddGroup -1
+ReplaceGroup -1 0
+GetGroupsHighestLevel 4
+AddPlayer 62 -1 21
+AddPlayer 88 0 34
+ReplaceGroup 5 6
+AddPlayer 42 0 24
+AddPlayer 9 0 2
+RemovePlayer 71
+GetHighestLevel 1
+IncreaseLevel 0 27
+RemovePlayer 68
+AddPlayer 100 5 8
+RemovePlayer 93
+AddGroup 0
+GetAllPlayersByLevel 0
+AddPlayer 58 2 40
+RemovePlayer 79
+GetHighestLevel -1
+AddGroup 3
+GetHighestLevel 4
+GetHighestLevel 0
+ReplaceGroup 5 6
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 0
+GetHighestLevel 1
+AddPlayer 97 2 11
+RemovePlayer 66
+AddPlayer 38 3 48
+AddPlayer 22 2 28
+IncreaseLevel 2 85
+AddGroup 1
+AddGroup 2
+AddPlayer 67 3 35
+ReplaceGroup 3 4
+GetHighestLevel -1
+ReplaceGroup 1 2
+AddPlayer 86 1 12
+GetHighestLevel 2
+AddPlayer 36 -1 17
+AddGroup 4
+RemovePlayer 65
+RemovePlayer 90
+ReplaceGroup 1 2
+IncreaseLevel 3 14
+ReplaceGroup 2 3
+AddPlayer 35 1 46
+ReplaceGroup 1 2
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 3
+ReplaceGroup 0 1
+GetHighestLevel 3
+AddGroup 5
+ReplaceGroup -1 0
+AddGroup 4
+ReplaceGroup 2 3
+IncreaseLevel 5 55
+AddPlayer 42 0 28
+ReplaceGroup 1 2
+IncreaseLevel 5 42
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 5
+ReplaceGroup 1 2
+AddPlayer 42 -1 26
+ReplaceGroup 4 5
+RemovePlayer 12
+ReplaceGroup 3 4
+RemovePlayer 16
+GetHighestLevel -1
+AddPlayer 57 5 9
+GetGroupsHighestLevel 0
+GetHighestLevel 3
+RemovePlayer 30
+GetAllPlayersByLevel 2
+GetHighestLevel 4
+RemovePlayer 48
+RemovePlayer 61
+GetAllPlayersByLevel 5
+ReplaceGroup 2 3
+IncreaseLevel 5 29
+GetAllPlayersByLevel 3
+ReplaceGroup -1 0
+ReplaceGroup 3 4
+IncreaseLevel 0 33
+AddGroup 0
+IncreaseLevel -1 63
+IncreaseLevel -1 63
+AddPlayer 66 5 29
+GetGroupsHighestLevel -1
+ReplaceGroup 2 3
+RemovePlayer 61
+GetGroupsHighestLevel 3
+AddPlayer 34 1 4
+AddGroup 5
+RemovePlayer 42
+AddPlayer 40 3 3
+GetAllPlayersByLevel -1
+AddPlayer 42 4 44
+AddPlayer 13 0 30
+ReplaceGroup 5 6
+RemovePlayer 39
+GetGroupsHighestLevel 2
+GetHighestLevel 5
+AddPlayer 88 1 33
+GetAllPlayersByLevel 3
+IncreaseLevel -1 31
+RemovePlayer 62
+ReplaceGroup 5 6
+IncreaseLevel 5 26
+AddGroup -1
+GetHighestLevel 3
+AddPlayer 93 4 48
+AddPlayer 16 2 33
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 3
+IncreaseLevel 4 51
+GetHighestLevel 5
+GetHighestLevel -1
+GetAllPlayersByLevel 1
+AddGroup 1
+ReplaceGroup 5 6
+GetAllPlayersByLevel -1
+AddGroup 2
+GetHighestLevel 1
+GetGroupsHighestLevel 3
+IncreaseLevel 0 82
+ReplaceGroup 5 6
+ReplaceGroup 2 3
+GetHighestLevel 4
+AddGroup 2
+GetHighestLevel 3
+ReplaceGroup 5 6
+AddPlayer 10 0 16
+GetHighestLevel 3
+AddPlayer 62 5 18
+GetHighestLevel 5
+IncreaseLevel 4 85
+RemovePlayer 10
+GetHighestLevel 1
+GetHighestLevel 3
+RemovePlayer 64
+RemovePlayer 88
+GetAllPlayersByLevel 1
+IncreaseLevel 0 81
+AddPlayer 40 2 6
+RemovePlayer 96
+RemovePlayer 99
+AddGroup 4
+RemovePlayer 71
+IncreaseLevel 3 4
+GetAllPlayersByLevel 0
+RemovePlayer 30
+RemovePlayer 79
+GetGroupsHighestLevel 2
+RemovePlayer 54
+IncreaseLevel 3 96
+RemovePlayer 49
+AddPlayer 69 2 2
+GetHighestLevel 3
+AddPlayer 64 0 12
+RemovePlayer 11
+AddGroup 5
+RemovePlayer 42
+GetAllPlayersByLevel -1
+RemovePlayer 16
+IncreaseLevel 0 71
+AddPlayer 47 0 28
+AddGroup 4
+GetGroupsHighestLevel -1
+AddGroup 2
+IncreaseLevel 2 51
+ReplaceGroup 5 6
+GetAllPlayersByLevel 0
+IncreaseLevel 4 27
+GetGroupsHighestLevel 4
+ReplaceGroup -1 0
+AddGroup 0
+AddPlayer 98 2 39
+GetAllPlayersByLevel 5
+AddGroup -1
+IncreaseLevel 0 55
+GetAllPlayersByLevel 3
+AddGroup 3
+RemovePlayer 72
+GetHighestLevel 4
+GetHighestLevel 2
+AddPlayer 91 4 49
+GetHighestLevel 1
+IncreaseLevel 2 80
+RemovePlayer 18
+AddGroup 1
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 4
+ReplaceGroup 3 4
+RemovePlayer 35
+GetAllPlayersByLevel 5
+AddPlayer 23 5 46
+ReplaceGroup 4 5
+AddGroup 1
+GetHighestLevel -1
+IncreaseLevel 1 90
+AddGroup 0
+AddPlayer 65 -1 38
+IncreaseLevel 5 6
+RemovePlayer 83
+GetAllPlayersByLevel 2
+AddPlayer 17 4 33
+ReplaceGroup -1 0
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 4
+GetHighestLevel 2
+RemovePlayer 90
+AddGroup -1
+RemovePlayer 35
+IncreaseLevel -1 91
+RemovePlayer 77
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 1
+IncreaseLevel 5 -1
+RemovePlayer 35
+GetGroupsHighestLevel 2
+AddPlayer 92 2 -1
+GetAllPlayersByLevel 2
+ReplaceGroup 4 5
+AddGroup 0
+ReplaceGroup -1 0
+GetGroupsHighestLevel 0
+ReplaceGroup 4 5
+RemovePlayer 31
+ReplaceGroup 3 4
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 5
+IncreaseLevel 3 53
+RemovePlayer 47
+IncreaseLevel 1 17
+ReplaceGroup 4 5
+GetHighestLevel 4
+RemovePlayer 21
+AddPlayer 79 4 42
+AddPlayer 87 2 8
+GetGroupsHighestLevel 0
+AddPlayer 44 1 43
+GetHighestLevel 3
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 4
+ReplaceGroup -1 0
+IncreaseLevel 3 66
+GetGroupsHighestLevel 3
+AddPlayer 87 1 23
+GetHighestLevel 4
+GetHighestLevel -1
+AddGroup 0
+RemovePlayer 20
+AddGroup 4
+GetAllPlayersByLevel 4
+AddGroup 4
+GetAllPlayersByLevel -1
+ReplaceGroup 1 2
+RemovePlayer 2
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 4
+RemovePlayer 48
+GetHighestLevel 3
+GetHighestLevel 0
+ReplaceGroup 3 4
+ReplaceGroup 5 6
+IncreaseLevel 1 24
+IncreaseLevel 2 14
+IncreaseLevel 2 9
+ReplaceGroup 0 1
+ReplaceGroup -1 0
+AddPlayer 54 1 13
+GetHighestLevel 2
+IncreaseLevel 3 20
+AddGroup 5
+AddGroup 5
+IncreaseLevel 1 60
+GetAllPlayersByLevel 2
+AddPlayer 18 4 6
+AddGroup 1
+RemovePlayer 14
+IncreaseLevel 4 79
+IncreaseLevel -1 93
+GetHighestLevel 4
+GetAllPlayersByLevel 5
+AddGroup 1
+IncreaseLevel 0 74
+AddPlayer 66 1 50
+AddGroup 3
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 3
+IncreaseLevel 1 65
+GetHighestLevel 2
+AddPlayer 90 5 0
+IncreaseLevel 4 2
+GetGroupsHighestLevel -1
+ReplaceGroup 5 6
+GetAllPlayersByLevel 1
+AddPlayer 21 3 21
+RemovePlayer 73
+GetAllPlayersByLevel 2
+AddPlayer 62 3 0
+ReplaceGroup 0 1
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 4
+ReplaceGroup 5 6
+AddGroup 2
+AddGroup 2
+GetGroupsHighestLevel 2
+AddPlayer 36 4 40
+AddPlayer 41 0 0
+AddGroup 4
+GetGroupsHighestLevel 5
+GetHighestLevel 4
+AddGroup 3
+AddGroup 2
+RemovePlayer 39
+GetGroupsHighestLevel 2
+IncreaseLevel 5 13
+GetHighestLevel 2
+GetGroupsHighestLevel 3
+RemovePlayer 52
+IncreaseLevel 4 48
+RemovePlayer 21
+IncreaseLevel 5 58
+AddPlayer 91 4 48
+ReplaceGroup 5 6
+RemovePlayer 48
+AddGroup 1
+IncreaseLevel -1 88
+GetGroupsHighestLevel 4
+ReplaceGroup 0 1
+GetHighestLevel 0
+RemovePlayer 39
+GetHighestLevel -1
+AddPlayer 64 5 32
+AddPlayer 37 -1 20
+ReplaceGroup 2 3
+IncreaseLevel 3 64
+RemovePlayer 100
+GetHighestLevel 3
+ReplaceGroup 4 5
+IncreaseLevel 0 89
+GetHighestLevel -1
+GetHighestLevel 2
+AddGroup 1
+IncreaseLevel 3 45
+RemovePlayer 44
+AddPlayer 11 3 26
+AddPlayer 78 2 10
+AddGroup 4
+ReplaceGroup 5 6
+RemovePlayer 37
+GetHighestLevel 4
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 4
+GetHighestLevel 3
+GetHighestLevel 0
+IncreaseLevel 5 62
+RemovePlayer 8
+AddGroup 3
+RemovePlayer 48
+ReplaceGroup 4 5
+AddGroup 2
+ReplaceGroup 5 6
+RemovePlayer 97
+AddGroup -1
+ReplaceGroup 3 4
+AddPlayer 40 3 30
+AddGroup 1
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 0
+RemovePlayer 37
+GetAllPlayersByLevel 5
+AddPlayer 3 1 19
+RemovePlayer 24
+AddPlayer 61 4 41
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel -1
+ReplaceGroup 2 3
+GetGroupsHighestLevel 5
+IncreaseLevel -1 9
+AddGroup -1
+AddGroup 0
+GetGroupsHighestLevel -1
+AddGroup 3
+AddPlayer 29 0 45
+AddPlayer 66 3 26
+GetAllPlayersByLevel 1
+GetHighestLevel 5
+GetAllPlayersByLevel 3
+ReplaceGroup 5 6
+RemovePlayer 23
+RemovePlayer 29
+GetHighestLevel -1
+AddPlayer 45 -1 35
+GetAllPlayersByLevel 3
+AddGroup 3
+GetHighestLevel 5
+GetAllPlayersByLevel 0
+GetHighestLevel 5
+GetHighestLevel 1
+IncreaseLevel -1 57
+AddPlayer 100 5 40
+AddPlayer 11 5 27
+RemovePlayer 16
+RemovePlayer 90
+RemovePlayer 68
+AddGroup 1
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 3
+GetHighestLevel 4
+AddPlayer 34 2 50
+GetHighestLevel 5
+IncreaseLevel 2 23
+GetHighestLevel -1
+IncreaseLevel 1 26
+RemovePlayer 73
+ReplaceGroup 0 1
+RemovePlayer 29
+GetHighestLevel 2
+AddPlayer 69 1 4
+AddGroup 3
+GetGroupsHighestLevel 5
+IncreaseLevel 0 54
+GetHighestLevel 0
+GetGroupsHighestLevel 2
+GetHighestLevel 0
+AddPlayer 39 1 14
+AddGroup 1
+ReplaceGroup 5 6
+GetGroupsHighestLevel 2
+AddGroup 2
+RemovePlayer 45
+ReplaceGroup 5 6
+GetGroupsHighestLevel 2
+RemovePlayer 6
+AddPlayer 69 5 43
+ReplaceGroup 2 3
+IncreaseLevel 3 18
+GetHighestLevel 3
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel -1
+AddGroup -1
+GetHighestLevel 2
+RemovePlayer 75
+RemovePlayer 37
+GetHighestLevel 0
+ReplaceGroup 5 6
+RemovePlayer 45
+GetAllPlayersByLevel 3
+AddGroup 4
+AddPlayer 98 4 4
+AddGroup 1
+GetAllPlayersByLevel 1
+RemovePlayer 20
+ReplaceGroup 2 3
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 2
+ReplaceGroup 3 4
+AddGroup 3
+GetHighestLevel 4
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel -1
+IncreaseLevel 4 52
+GetGroupsHighestLevel 5
+GetHighestLevel 3
+AddPlayer 86 4 14
+AddPlayer 60 2 27
+ReplaceGroup 4 5
+AddPlayer 72 1 5
+AddGroup 2
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 2
+ReplaceGroup 0 1
+RemovePlayer 53
+AddGroup 1
+GetHighestLevel 3
+GetHighestLevel 3
+GetAllPlayersByLevel 4
+GetHighestLevel 5
+GetGroupsHighestLevel -1
+GetHighestLevel 4
+ReplaceGroup 1 2
+GetAllPlayersByLevel -1
+IncreaseLevel 5 31
+GetAllPlayersByLevel 5
+RemovePlayer 11
+AddPlayer -1 2 38
+GetGroupsHighestLevel -1
+IncreaseLevel 0 85
+GetAllPlayersByLevel 0
+GetHighestLevel 1
+IncreaseLevel 2 9
+IncreaseLevel 5 67
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 1
+RemovePlayer 40
+ReplaceGroup 4 5
+GetGroupsHighestLevel 4
+AddPlayer 78 2 2
+RemovePlayer 26
+RemovePlayer 57
+GetHighestLevel 4
+ReplaceGroup -1 0
+ReplaceGroup 4 5
+RemovePlayer 74
+AddPlayer 45 5 50
+ReplaceGroup 4 5
+IncreaseLevel 2 2
+RemovePlayer 35
+RemovePlayer 67
+IncreaseLevel 2 86
+GetAllPlayersByLevel -1
+AddPlayer 44 0 48
+AddGroup 0
+ReplaceGroup 3 4
+AddPlayer 96 1 4
+IncreaseLevel 2 8
+GetHighestLevel 2
+ReplaceGroup 4 5
+GetAllPlayersByLevel 4
+IncreaseLevel 1 16
+AddGroup 0
+RemovePlayer 51
+GetHighestLevel 3
+AddGroup 5
+AddGroup 3
+RemovePlayer 25
+GetGroupsHighestLevel 5
+ReplaceGroup -1 0
+GetHighestLevel 5
+IncreaseLevel 3 62
+AddPlayer 86 5 24
+GetAllPlayersByLevel 4
+AddGroup 3
+IncreaseLevel 0 77
+IncreaseLevel 4 96
+AddPlayer 72 -1 16
+GetHighestLevel 2
+AddPlayer 73 2 30
+AddPlayer 68 0 50
+GetHighestLevel 3
+AddGroup -1
+AddPlayer 36 0 28
+GetHighestLevel 1
+GetHighestLevel 3
+RemovePlayer 34
+GetHighestLevel 4
+AddGroup -1
+ReplaceGroup 3 4
+AddPlayer 52 2 5
+AddPlayer 52 1 5
+GetGroupsHighestLevel -1
+AddGroup -1
+RemovePlayer 51
+GetGroupsHighestLevel 1
+RemovePlayer 4
+IncreaseLevel 5 19
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 0
+AddGroup -1
+GetHighestLevel 5
+GetAllPlayersByLevel 2
+GetHighestLevel 4
+GetAllPlayersByLevel 3
+GetHighestLevel 2
+IncreaseLevel -1 67
+IncreaseLevel 5 68
+GetHighestLevel 3
+GetAllPlayersByLevel 0
+IncreaseLevel -1 48
+AddPlayer 86 2 29
+IncreaseLevel 1 94
+GetGroupsHighestLevel 1
+AddPlayer 55 3 21
+GetHighestLevel 1
+AddGroup 3
+RemovePlayer 100
+GetAllPlayersByLevel -1
+AddGroup -1
+GetGroupsHighestLevel 2
+RemovePlayer 37
+GetHighestLevel 1
+GetHighestLevel 1
+GetHighestLevel 0
+RemovePlayer 75
+AddGroup 3
+GetGroupsHighestLevel 3
+ReplaceGroup 1 2
+AddPlayer 73 5 31
+ReplaceGroup 2 3
+AddGroup 1
+ReplaceGroup 5 6
+RemovePlayer 28
+GetHighestLevel 4
+GetHighestLevel 0
+IncreaseLevel 0 63
+ReplaceGroup 2 3
+GetGroupsHighestLevel 0
+AddGroup 2
+GetAllPlayersByLevel 3
+IncreaseLevel 1 66
+AddGroup 4
+GetHighestLevel 0
+GetAllPlayersByLevel 3
+AddPlayer 64 0 8
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 0
+AddGroup 3
+ReplaceGroup 0 1
+IncreaseLevel 4 97
+GetAllPlayersByLevel 1
+RemovePlayer 80
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel 5
+AddGroup 5
+AddPlayer 35 1 16
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 3
+ReplaceGroup 5 6
+AddPlayer 47 3 24
+AddGroup 2
+GetHighestLevel 0
+GetHighestLevel 0
+AddGroup 0
+GetAllPlayersByLevel 4
+IncreaseLevel 5 39
+AddGroup 2
+GetGroupsHighestLevel 2
+AddPlayer 10 3 48
+RemovePlayer 62
+GetAllPlayersByLevel 0
+AddGroup 0
+AddGroup -1
+AddPlayer 83 4 -1
+AddGroup 5
+AddGroup 3
+GetHighestLevel 2
+IncreaseLevel 2 57
+AddGroup 2
+GetHighestLevel 0
+GetHighestLevel 4
+AddGroup 5
+RemovePlayer 16
+ReplaceGroup 5 6
+AddPlayer 39 4 1
+RemovePlayer 65
+GetGroupsHighestLevel 5
+AddPlayer 66 4 12
+IncreaseLevel 5 39
+IncreaseLevel 2 38
+GetHighestLevel 1
+GetHighestLevel 4
+GetAllPlayersByLevel 1
+RemovePlayer 26
+IncreaseLevel 4 30
+GetGroupsHighestLevel 4
+AddGroup 5
+AddGroup 2
+AddPlayer 1 4 36
+GetGroupsHighestLevel -1
+IncreaseLevel 3 67
+GetGroupsHighestLevel 3
+RemovePlayer 66
+RemovePlayer 22
+IncreaseLevel 1 52
+ReplaceGroup 3 4
+AddPlayer 68 1 3
+RemovePlayer 47
+GetGroupsHighestLevel 0
+IncreaseLevel 0 46
+RemovePlayer 28
+IncreaseLevel 3 87
+AddGroup 5
+IncreaseLevel 0 67
+RemovePlayer 13
+ReplaceGroup 3 4
+ReplaceGroup 1 2
+AddGroup 2
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel -1
+AddGroup 4
+IncreaseLevel 1 35
+GetGroupsHighestLevel 1
+AddGroup 3
+IncreaseLevel 0 13
+ReplaceGroup 1 2
+IncreaseLevel 5 7
+AddPlayer 43 -1 40
+ReplaceGroup 3 4
+ReplaceGroup 1 2
+AddGroup 0
+GetHighestLevel 4
+AddGroup 5
+GetHighestLevel 4
+GetHighestLevel 3
+AddPlayer 10 3 13
+AddPlayer 26 5 9
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 0
+AddPlayer 20 4 23
+AddPlayer 8 4 34
+GetGroupsHighestLevel 4
+AddPlayer 76 -1 30
+RemovePlayer 44
+AddGroup -1
+RemovePlayer 32
+AddGroup 4
+AddPlayer 93 5 26
+GetGroupsHighestLevel 4
+GetHighestLevel 2
+RemovePlayer 50
+AddPlayer 49 0 25
+GetHighestLevel 5
+GetAllPlayersByLevel -1
+AddPlayer 88 3 33
+AddGroup 3
+GetAllPlayersByLevel 4
+AddGroup 0
+GetGroupsHighestLevel 5
+AddPlayer 10 -1 23
+ReplaceGroup 2 3
+ReplaceGroup 4 5
+ReplaceGroup 0 1
+RemovePlayer 72
+AddGroup 5
+GetAllPlayersByLevel 4
+ReplaceGroup 3 4
+RemovePlayer 70
+GetAllPlayersByLevel 5
+RemovePlayer 59
+AddGroup 4
+ReplaceGroup 5 6
+RemovePlayer 14
+AddPlayer 61 0 -1
+GetHighestLevel 1
+GetHighestLevel 5
+AddPlayer 56 1 10
+ReplaceGroup 5 6
+IncreaseLevel 2 26
+IncreaseLevel -1 85
+AddPlayer 55 2 39
+GetAllPlayersByLevel 3
+AddPlayer 75 5 32
+RemovePlayer 33
+AddPlayer 96 4 9
+RemovePlayer -1
+GetAllPlayersByLevel -1
+IncreaseLevel 1 0
+RemovePlayer 13
+IncreaseLevel 5 8
+GetAllPlayersByLevel 3
+IncreaseLevel 0 11
+AddPlayer 75 5 27
+IncreaseLevel 0 29
+GetGroupsHighestLevel 1
+IncreaseLevel 4 94
+IncreaseLevel 5 75
+GetHighestLevel 3
+GetAllPlayersByLevel 5
+IncreaseLevel 0 96
+GetHighestLevel -1
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 4
+RemovePlayer 95
+GetGroupsHighestLevel 2
+GetHighestLevel 5
+GetAllPlayersByLevel -1
+ReplaceGroup 5 6
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 3
+AddPlayer 17 4 36
+GetHighestLevel 5
+AddPlayer 53 3 41
+AddPlayer 65 1 2
+RemovePlayer 78
+RemovePlayer 73
+IncreaseLevel 5 74
+AddGroup 5
+IncreaseLevel 5 94
+AddPlayer 23 0 33
+GetGroupsHighestLevel 0
+AddPlayer 52 -1 30
+GetHighestLevel 4
+IncreaseLevel 5 81
+ReplaceGroup 4 5
+GetHighestLevel 4
+GetHighestLevel -1
+IncreaseLevel 5 -1
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 2
+AddGroup -1
+ReplaceGroup 3 4
+GetHighestLevel -1
+AddPlayer 34 -1 41
+AddPlayer 55 4 14
+ReplaceGroup 4 5
+AddPlayer 95 -1 20
+GetAllPlayersByLevel 0
+AddGroup 1
+AddPlayer 80 3 26
+GetHighestLevel 4
+IncreaseLevel 0 64
+AddGroup 2
+ReplaceGroup 3 4
+AddGroup -1
+IncreaseLevel 1 36
+AddGroup 1
+AddPlayer 22 4 33
+RemovePlayer 49
+GetHighestLevel 2
+GetGroupsHighestLevel 5
+ReplaceGroup 0 1
+IncreaseLevel 5 91
+ReplaceGroup 0 1
+ReplaceGroup 2 3
+GetHighestLevel 0
+AddGroup 0
+AddGroup 2
+GetHighestLevel 5
+ReplaceGroup 1 2
+AddPlayer 74 2 17
+GetHighestLevel 5
+RemovePlayer 39
+GetAllPlayersByLevel 1
+RemovePlayer 19
+GetGroupsHighestLevel 0
+GetHighestLevel 2
+RemovePlayer 30
+GetHighestLevel 1
+AddGroup 0
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel -1
+GetHighestLevel 2
+AddPlayer 26 5 19
+AddPlayer 30 0 30
+RemovePlayer 86
+RemovePlayer 5
+AddGroup 4
+RemovePlayer 17
+GetGroupsHighestLevel 4
+AddGroup 3
+AddPlayer 33 2 43
+GetGroupsHighestLevel 1
+RemovePlayer 38
+RemovePlayer 27
+ReplaceGroup 1 2
+AddPlayer 87 1 34
+IncreaseLevel -1 50
+ReplaceGroup 4 5
+GetHighestLevel -1
+GetGroupsHighestLevel 4
+IncreaseLevel 0 60
+AddGroup -1
+AddPlayer 5 2 5
+GetGroupsHighestLevel 2
+AddGroup 0
+AddGroup 3
+ReplaceGroup 4 5
+AddGroup 1
+GetGroupsHighestLevel 5
+AddGroup 0
+AddGroup 5
+IncreaseLevel 4 20
+GetHighestLevel 5
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 0
+AddGroup 3
+GetHighestLevel 5
+GetGroupsHighestLevel -1
+IncreaseLevel 3 78
+ReplaceGroup 3 4
+GetGroupsHighestLevel 4
+IncreaseLevel 5 1
+IncreaseLevel -1 18
+GetHighestLevel 3
+IncreaseLevel 2 51
+GetGroupsHighestLevel -1
+AddPlayer 24 -1 15
+RemovePlayer 56
+GetAllPlayersByLevel 3
+AddPlayer 62 4 47
+GetAllPlayersByLevel -1
+RemovePlayer 30
+AddGroup 4
+IncreaseLevel -1 99
+ReplaceGroup 0 1
+GetHighestLevel 0
+RemovePlayer 93
+AddPlayer 28 -1 12
+GetGroupsHighestLevel 3
+AddPlayer 20 5 36
+AddGroup 3
+ReplaceGroup 0 1
+AddGroup 4
+GetAllPlayersByLevel 4
+ReplaceGroup 1 2
+RemovePlayer 72
+RemovePlayer 23
+GetHighestLevel 3
+GetGroupsHighestLevel 4
+IncreaseLevel 5 76
+RemovePlayer 26
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 2
+IncreaseLevel -1 57
+AddGroup 4
+IncreaseLevel 4 9
+ReplaceGroup 1 2
+RemovePlayer 98
+GetGroupsHighestLevel 4
+ReplaceGroup 0 1
+RemovePlayer 2
+ReplaceGroup 0 1
+AddGroup 2
+GetGroupsHighestLevel 4
+AddGroup 1
+ReplaceGroup 3 4
+IncreaseLevel 2 60
+GetGroupsHighestLevel 3
+AddGroup 5
+AddGroup 4
+GetHighestLevel 3
+ReplaceGroup 2 3
+GetHighestLevel -1
+GetHighestLevel 3
+ReplaceGroup 2 3
+ReplaceGroup 4 5
+RemovePlayer 58
+GetAllPlayersByLevel 5
+IncreaseLevel 3 96
+AddPlayer 36 3 6
+IncreaseLevel 1 30
+IncreaseLevel 5 13
+AddPlayer 22 4 0
+GetGroupsHighestLevel 3
+IncreaseLevel 1 24
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 4
+ReplaceGroup 5 6
+RemovePlayer 20
+AddGroup 5
+AddPlayer 34 5 41
+GetGroupsHighestLevel 0
+RemovePlayer 39
+GetAllPlayersByLevel 1
+IncreaseLevel 3 83
+AddGroup 4
+GetGroupsHighestLevel 5
+IncreaseLevel 0 77
+GetHighestLevel 3
+IncreaseLevel 5 51
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel -1
+ReplaceGroup 5 6
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 0
+IncreaseLevel -1 31
+IncreaseLevel -1 24
+GetGroupsHighestLevel 0
+AddPlayer 72 1 28
+ReplaceGroup 0 1
+RemovePlayer 80
+GetGroupsHighestLevel 3
+IncreaseLevel 2 100
+GetHighestLevel 2
+GetGroupsHighestLevel 2
+AddPlayer 91 5 46
+GetAllPlayersByLevel -1
+AddPlayer 75 4 46
+IncreaseLevel -1 29
+IncreaseLevel 4 81
+RemovePlayer 15
+GetHighestLevel 2
+GetGroupsHighestLevel 5
+IncreaseLevel 1 9
+AddGroup 1
+GetHighestLevel 4
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 0
+ReplaceGroup 3 4
+ReplaceGroup 3 4
+IncreaseLevel 1 56
+GetGroupsHighestLevel -1
+AddPlayer 33 1 24
+GetHighestLevel 2
+AddPlayer 75 5 8
+AddPlayer 4 -1 45
+GetHighestLevel 0
+GetHighestLevel -1
+ReplaceGroup 3 4
+IncreaseLevel 1 89
+AddPlayer 94 -1 24
+IncreaseLevel 3 73
+ReplaceGroup 4 5
+ReplaceGroup 3 4
+RemovePlayer 98
+AddPlayer 55 5 31
+ReplaceGroup 2 3
+GetAllPlayersByLevel 5
+AddPlayer -1 -1 32
+RemovePlayer 93
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 0
+AddPlayer 63 0 36
+AddPlayer 20 2 7
+GetGroupsHighestLevel 3
+AddGroup 1
+ReplaceGroup 3 4
+RemovePlayer 58
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 0
+IncreaseLevel 3 32
+AddGroup 1
+GetHighestLevel 1
+GetHighestLevel 2
+AddPlayer 73 3 39
+AddGroup 3
+ReplaceGroup 0 1
+GetAllPlayersByLevel -1
+GetHighestLevel 0
+IncreaseLevel 4 5
+GetGroupsHighestLevel 5
+AddPlayer 57 5 1
+IncreaseLevel 3 25
+AddGroup 3
+GetGroupsHighestLevel -1
+AddGroup -1
+GetAllPlayersByLevel 2
+GetHighestLevel 1
+ReplaceGroup 1 2
+ReplaceGroup 4 5
+IncreaseLevel 2 84
+ReplaceGroup 0 1
+GetGroupsHighestLevel 3
+RemovePlayer 69
+GetHighestLevel -1
+GetGroupsHighestLevel 4
+IncreaseLevel 0 80
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 2
+AddPlayer 47 5 8
+GetHighestLevel 1
+RemovePlayer 92
+AddPlayer 18 -1 26
+RemovePlayer 89
+RemovePlayer 17
+GetAllPlayersByLevel 5
+AddGroup -1
+GetAllPlayersByLevel -1
+AddPlayer 72 5 41
+GetGroupsHighestLevel 3
+ReplaceGroup -1 0
+GetHighestLevel 3
+GetGroupsHighestLevel 3
+IncreaseLevel 3 48
+AddPlayer 3 4 20
+ReplaceGroup 3 4
+AddGroup 3
+GetAllPlayersByLevel -1
+GetHighestLevel 0
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 3
+IncreaseLevel 0 23
+AddGroup 4
+RemovePlayer 30
+GetGroupsHighestLevel 4
+RemovePlayer 47
+ReplaceGroup 1 2
+AddPlayer 66 2 50
+IncreaseLevel 0 100
+AddPlayer 75 5 34
+AddGroup 3
+AddGroup 1
+IncreaseLevel 0 78
+AddPlayer 2 0 11
+RemovePlayer 16
+GetGroupsHighestLevel -1
+RemovePlayer 37
+ReplaceGroup 5 6
+RemovePlayer 7
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 3
+IncreaseLevel 2 82
+GetHighestLevel 0
+RemovePlayer 45
+AddGroup -1
+GetHighestLevel 1
+GetAllPlayersByLevel 5
+RemovePlayer 82
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 5
+AddGroup 2
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 5
+ReplaceGroup 4 5
+RemovePlayer 8
+RemovePlayer 10
+GetAllPlayersByLevel 4
+AddPlayer 78 4 37
+IncreaseLevel 4 60
+AddPlayer 99 4 44
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel -1
+GetHighestLevel -1
+GetAllPlayersByLevel 1
+ReplaceGroup 2 3
+AddGroup 0
+AddPlayer 93 1 50
+RemovePlayer 86
+GetGroupsHighestLevel 5
+AddGroup 5
+AddPlayer 19 5 41
+GetGroupsHighestLevel 5
+GetHighestLevel 4
+ReplaceGroup 4 5
+AddPlayer 14 -1 4
+GetAllPlayersByLevel 4
+AddPlayer 25 5 21
+ReplaceGroup -1 0
+GetGroupsHighestLevel 2
+AddPlayer 100 -1 42
+GetAllPlayersByLevel 2
+ReplaceGroup 1 2
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 1
+ReplaceGroup 1 2
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 0
+AddPlayer 14 0 23
+GetHighestLevel 3
+AddPlayer 55 2 17
+AddPlayer 51 1 11
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 0
+AddGroup -1
+AddGroup 3
+ReplaceGroup 4 5
+IncreaseLevel 2 29
+IncreaseLevel 3 51
+AddGroup 3
+GetAllPlayersByLevel 3
+AddPlayer 13 0 3
+ReplaceGroup 1 2
+AddPlayer 57 5 23
+ReplaceGroup 5 6
+ReplaceGroup -1 0
+ReplaceGroup 1 2
+AddPlayer 34 2 23
+ReplaceGroup 5 6
+ReplaceGroup 2 3
+GetGroupsHighestLevel 3
+IncreaseLevel 4 27
+GetHighestLevel -1
+GetAllPlayersByLevel 4
+IncreaseLevel 3 66
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 1
+ReplaceGroup 4 5
+AddGroup -1
+GetAllPlayersByLevel 5
+GetHighestLevel 1
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 0
+IncreaseLevel 0 81
+GetGroupsHighestLevel 5
+AddPlayer 19 3 31
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel -1
+ReplaceGroup 0 1
+AddGroup 0
+GetHighestLevel 1
+AddGroup 2
+AddGroup 3
+AddPlayer 60 0 12
+ReplaceGroup 1 2
+AddPlayer 30 3 20
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 4
+RemovePlayer 12
+ReplaceGroup 5 6
+AddPlayer 41 5 18
+GetGroupsHighestLevel 0
+GetHighestLevel 0
+RemovePlayer 34
+AddPlayer 27 3 49
+AddPlayer 88 2 24
+RemovePlayer 55
+IncreaseLevel 5 33
+GetHighestLevel -1
+ReplaceGroup -1 0
+ReplaceGroup 1 2
+RemovePlayer 33
+GetHighestLevel 2
+GetAllPlayersByLevel -1
+AddGroup 1
+GetGroupsHighestLevel 3
+AddPlayer 29 -1 1
+AddGroup -1
+AddGroup 5
+IncreaseLevel 3 86
+IncreaseLevel 2 -1
+GetAllPlayersByLevel 4
+ReplaceGroup 5 6
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 2
+RemovePlayer 26
+ReplaceGroup 1 2
+ReplaceGroup -1 0
+AddGroup 0
+ReplaceGroup 0 1
+GetGroupsHighestLevel 0
+ReplaceGroup 3 4
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel -1
+AddGroup 1
+AddGroup 5
+GetAllPlayersByLevel 2
+GetHighestLevel 1
+GetAllPlayersByLevel 3
+AddGroup 4
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel 2
+GetHighestLevel 2
+GetAllPlayersByLevel 3
+GetHighestLevel 3
+GetHighestLevel 3
+GetHighestLevel 3
+AddGroup 0
+AddGroup 1
+IncreaseLevel 5 98
+AddGroup 5
+GetHighestLevel 5
+AddPlayer 98 4 48
+AddPlayer 58 1 3
+AddPlayer 69 -1 7
+GetHighestLevel 4
+GetHighestLevel 5
+RemovePlayer 39
+AddGroup 1
+AddPlayer 18 0 47
+AddPlayer 18 2 3
+RemovePlayer 63
+ReplaceGroup 1 2
+GetAllPlayersByLevel 2
+AddPlayer 46 0 49
+GetGroupsHighestLevel 5
+GetHighestLevel -1
+ReplaceGroup 0 1
+RemovePlayer 43
+AddPlayer 4 2 24
+IncreaseLevel 0 12
+IncreaseLevel -1 91
+RemovePlayer 72
+IncreaseLevel 0 6
+GetAllPlayersByLevel -1
+ReplaceGroup 2 3
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 0
+GetHighestLevel -1
+AddGroup 4
+GetAllPlayersByLevel 1
+AddPlayer 97 0 2
+RemovePlayer 91
+ReplaceGroup 2 3
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 0
+AddPlayer 90 1 15
+IncreaseLevel 3 39
+IncreaseLevel 0 39
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 1
+AddPlayer 11 5 4
+RemovePlayer 11
+GetHighestLevel 3
+GetGroupsHighestLevel -1
+AddGroup 1
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 0
+RemovePlayer 20
+RemovePlayer 29
+GetHighestLevel 1
+AddPlayer 71 -1 14
+GetGroupsHighestLevel 1
+AddPlayer 76 4 32
+IncreaseLevel 4 80
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 4
+GetHighestLevel 4
+ReplaceGroup 4 5
+GetHighestLevel 2
+AddPlayer 60 3 23
+IncreaseLevel -1 0
+ReplaceGroup 5 6
+AddPlayer 50 2 49
+AddGroup 5
+GetAllPlayersByLevel 3
+AddGroup 4
+GetGroupsHighestLevel -1
+RemovePlayer 4
+AddGroup 1
+RemovePlayer 36
+IncreaseLevel 5 2
+GetGroupsHighestLevel 5
+AddPlayer 52 3 0
+RemovePlayer 75
+AddPlayer 38 1 42
+GetGroupsHighestLevel 0
+RemovePlayer 100
+GetAllPlayersByLevel -1
+AddGroup 3
+GetHighestLevel 3
+IncreaseLevel 4 88
+RemovePlayer 97
+AddGroup 4
+AddPlayer 73 1 41
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 4
+AddPlayer 7 0 10
+GetHighestLevel 1
+AddPlayer 36 0 50
+ReplaceGroup -1 0
+AddPlayer 67 4 42
+AddPlayer 4 2 40
+GetAllPlayersByLevel 0
+GetHighestLevel -1
+RemovePlayer 1
+AddPlayer 67 2 15
+AddGroup 0
+GetHighestLevel 1
+RemovePlayer 48
+IncreaseLevel 1 93
+GetAllPlayersByLevel 4
+GetHighestLevel 1
+GetHighestLevel -1
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 5
+ReplaceGroup 1 2
+GetGroupsHighestLevel 0
+AddPlayer 67 5 48
+GetHighestLevel 5
+RemovePlayer 25
+GetGroupsHighestLevel 4
+IncreaseLevel 4 26
+RemovePlayer 55
+ReplaceGroup -1 0
+AddPlayer 34 4 29
+AddGroup 1
+AddGroup 4
+AddPlayer 76 2 4
+RemovePlayer 29
+GetAllPlayersByLevel 2
+IncreaseLevel -1 40
+AddGroup 2
+RemovePlayer 58
+GetGroupsHighestLevel 5
+RemovePlayer 15
+RemovePlayer 82
+AddGroup 1
+GetGroupsHighestLevel -1
+AddPlayer 28 4 32
+GetAllPlayersByLevel 1
+AddPlayer 95 3 27
+IncreaseLevel 3 63
+GetAllPlayersByLevel 0
+AddGroup 4
+RemovePlayer 68
+IncreaseLevel -1 30
+RemovePlayer 34
+AddGroup 5
+GetAllPlayersByLevel 1
+GetHighestLevel 1
+GetGroupsHighestLevel 3
+ReplaceGroup 1 2
+GetHighestLevel 1
+ReplaceGroup 0 1
+GetHighestLevel -1
+GetGroupsHighestLevel 4
+GetHighestLevel 0
+RemovePlayer 94
+GetHighestLevel -1
+AddPlayer 54 5 38
+AddPlayer -1 1 41
+IncreaseLevel -1 89
+AddGroup 1
+GetHighestLevel 1
+AddPlayer 26 3 31
+ReplaceGroup 3 4
+AddGroup -1
+GetGroupsHighestLevel 4
+AddGroup 2
+IncreaseLevel 4 4
+GetHighestLevel 3
+IncreaseLevel 3 71
+AddPlayer 49 2 39
+AddPlayer 5 1 46
+ReplaceGroup 3 4
+IncreaseLevel 4 14
+ReplaceGroup 5 6
+GetAllPlayersByLevel 0
+IncreaseLevel 3 63
+AddGroup 2
+AddPlayer 79 3 28
+GetHighestLevel 0
+GetHighestLevel -1
+AddPlayer 12 3 22
+AddPlayer 2 2 19
+AddPlayer 27 -1 38
+GetAllPlayersByLevel 1
+RemovePlayer 83
+ReplaceGroup 0 1
+GetGroupsHighestLevel 2
+AddGroup 2
+RemovePlayer 87
+RemovePlayer 44
+GetHighestLevel 3
+AddPlayer 32 2 33
+IncreaseLevel 4 44
+RemovePlayer 74
+AddPlayer 61 0 33
+GetHighestLevel 3
+IncreaseLevel 0 20
+IncreaseLevel 5 98
+ReplaceGroup 2 3
+AddGroup 1
+ReplaceGroup 5 6
+AddPlayer 75 5 40
+GetAllPlayersByLevel -1
+RemovePlayer 49
+RemovePlayer 65
+IncreaseLevel 4 86
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel -1
+AddPlayer 33 2 0
+AddGroup 1
+AddGroup 0
+RemovePlayer 67
+AddPlayer 92 4 13
+RemovePlayer 12
+GetGroupsHighestLevel 5
+GetHighestLevel 4
+GetHighestLevel 5
+ReplaceGroup 5 6
+GetAllPlayersByLevel 3
+GetHighestLevel 0
+GetHighestLevel 2
+AddGroup 2
+AddPlayer 77 3 23
+GetGroupsHighestLevel 1
+AddGroup 5
+ReplaceGroup 5 6
+AddPlayer 3 2 24
+GetAllPlayersByLevel 4
+AddGroup 1
+RemovePlayer 92
+ReplaceGroup -1 0
+GetGroupsHighestLevel 3
+ReplaceGroup 2 3
+RemovePlayer 57
+GetHighestLevel -1
+GetAllPlayersByLevel 2
+RemovePlayer 53
+GetHighestLevel -1
+GetGroupsHighestLevel 2
+AddGroup 4
+GetGroupsHighestLevel 3
+RemovePlayer 83
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel -1
+AddGroup 2
+RemovePlayer 27
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 0
+IncreaseLevel 0 59
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 3
+GetHighestLevel 0
+AddGroup -1
+ReplaceGroup 5 6
+AddPlayer 86 1 5
+AddGroup 2
+GetAllPlayersByLevel -1
+AddPlayer 50 4 31
+AddGroup -1
+ReplaceGroup 5 6
+AddGroup 5
+AddGroup 2
+RemovePlayer 46
+IncreaseLevel 0 41
+ReplaceGroup 3 4
+GetGroupsHighestLevel 1
+ReplaceGroup -1 0
+IncreaseLevel -1 55
+ReplaceGroup 0 1
+RemovePlayer 9
+AddGroup 4
+GetGroupsHighestLevel 4
+GetHighestLevel 5
+ReplaceGroup 3 4
+AddPlayer 35 5 2
+AddGroup 5
+RemovePlayer 47
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 2
+GetHighestLevel 2
+IncreaseLevel 4 17
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 5
+ReplaceGroup 2 3
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel -1
+AddGroup 2
+GetAllPlayersByLevel 1
+GetHighestLevel 3
+ReplaceGroup -1 0
+GetHighestLevel 0
+GetHighestLevel 4
+RemovePlayer 84
+GetAllPlayersByLevel -1
+IncreaseLevel -1 35
+GetAllPlayersByLevel 4
+ReplaceGroup 1 2
+GetHighestLevel -1
+AddGroup 5
+RemovePlayer 89
+AddPlayer 86 4 48
+AddPlayer 100 -1 4
+AddGroup 0
+AddGroup -1
+GetGroupsHighestLevel 0
+IncreaseLevel 4 65
+IncreaseLevel 2 76
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 5
+ReplaceGroup 2 3
+GetAllPlayersByLevel 0
+RemovePlayer 12
+ReplaceGroup 1 2
+IncreaseLevel 5 81
+ReplaceGroup 1 2
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel -1
+GetHighestLevel 2
+ReplaceGroup 0 1
+RemovePlayer 60
+AddGroup 3
+AddGroup 0
+ReplaceGroup 5 6
+IncreaseLevel 4 98
+AddPlayer 59 1 6
+AddGroup -1
+RemovePlayer 54
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 3
+IncreaseLevel 2 96
+IncreaseLevel 0 27
+AddPlayer 22 0 49
+AddPlayer 50 3 27
+AddPlayer 40 -1 11
+GetGroupsHighestLevel 1
+GetHighestLevel 5
+AddGroup 3
+AddGroup 2
+IncreaseLevel 2 66
+GetAllPlayersByLevel 2
+ReplaceGroup -1 0
+AddGroup 5
+AddPlayer 90 5 25
+GetHighestLevel 1
+AddGroup 3
+GetGroupsHighestLevel 0
+GetHighestLevel 3
+RemovePlayer 81
+GetAllPlayersByLevel 0
+IncreaseLevel 2 50
+IncreaseLevel -1 63
+IncreaseLevel 0 23
+IncreaseLevel 2 73
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 5
+RemovePlayer 16
+ReplaceGroup 2 3
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 0
+GetHighestLevel 4
+GetAllPlayersByLevel -1
+GetHighestLevel 4
+IncreaseLevel 0 93
+IncreaseLevel 5 32
+IncreaseLevel 5 7
+IncreaseLevel 0 54
+IncreaseLevel 2 8
+GetAllPlayersByLevel 3
+AddPlayer 41 2 11
+ReplaceGroup 0 1
+GetHighestLevel 1
+GetAllPlayersByLevel 3
+ReplaceGroup 2 3
+AddPlayer 63 0 0
+ReplaceGroup 1 2
+ReplaceGroup 3 4
+IncreaseLevel 3 92
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 5
+IncreaseLevel 5 3
+RemovePlayer 89
+AddPlayer 77 2 5
+AddPlayer 73 5 26
+GetHighestLevel 5
+GetHighestLevel 2
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 3
+IncreaseLevel 1 86
+RemovePlayer 79
+RemovePlayer 11
+GetAllPlayersByLevel 3
+RemovePlayer 1
+AddPlayer 16 5 25
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel -1
+RemovePlayer 50
+ReplaceGroup 2 3
+RemovePlayer 70
+GetAllPlayersByLevel 5
+AddGroup 2
+AddGroup 4
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 4
+IncreaseLevel 4 12
+ReplaceGroup -1 0
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel -1
+RemovePlayer 66
+AddGroup 5
+GetHighestLevel 0
+AddPlayer 71 -1 -1
+GetHighestLevel 3
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 4
+ReplaceGroup 4 5
+GetGroupsHighestLevel 3
+GetHighestLevel 3
+IncreaseLevel -1 36
+ReplaceGroup 4 5
+AddPlayer 95 -1 27
+AddPlayer 19 2 32
+AddGroup 4
+GetAllPlayersByLevel 4
+ReplaceGroup 4 5
+RemovePlayer 39
+AddPlayer 71 1 31
+GetAllPlayersByLevel 5
+ReplaceGroup -1 0
+ReplaceGroup 4 5
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 1
+GetHighestLevel 2
+GetGroupsHighestLevel 0
+IncreaseLevel 4 13
+AddPlayer 29 0 5
+ReplaceGroup 0 1
+AddGroup 3
+IncreaseLevel 1 94
+AddPlayer 39 -1 22
+AddPlayer 32 -1 46
+GetHighestLevel 1
+ReplaceGroup 2 3
+AddPlayer 11 3 25
+GetAllPlayersByLevel 1
+AddPlayer 94 4 17
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 1
+RemovePlayer 87
+ReplaceGroup 0 1
+GetGroupsHighestLevel -1
+AddGroup -1
+IncreaseLevel 0 46
+IncreaseLevel 0 75
+AddGroup -1
+AddPlayer 87 5 45
+ReplaceGroup 5 6
+RemovePlayer 61
+ReplaceGroup 0 1
+AddPlayer 93 3 10
+AddGroup 5
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 2
+GetHighestLevel 2
+ReplaceGroup 5 6
+AddGroup 0
+GetGroupsHighestLevel 2
+RemovePlayer 6
+GetGroupsHighestLevel 1
+IncreaseLevel -1 14
+GetAllPlayersByLevel 2
+AddGroup -1
+IncreaseLevel 2 37
+ReplaceGroup 5 6
+RemovePlayer 49
+IncreaseLevel 1 26
+IncreaseLevel 5 70
+ReplaceGroup 1 2
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 0
+GetHighestLevel 4
+GetGroupsHighestLevel 1
+ReplaceGroup 0 1
+ReplaceGroup 1 2
+AddPlayer 43 3 10
+AddGroup -1
+GetHighestLevel 4
+AddGroup 4
+IncreaseLevel 4 12
+GetHighestLevel 4
+GetGroupsHighestLevel -1
+AddPlayer 82 5 9
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 1
+GetHighestLevel 2
+GetGroupsHighestLevel -1
+AddPlayer 13 0 47
+ReplaceGroup 3 4
+AddGroup 3
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel -1
+IncreaseLevel 4 99
+GetGroupsHighestLevel -1
+GetHighestLevel -1
+AddPlayer 68 2 15
+IncreaseLevel 1 37
+RemovePlayer 90
+AddPlayer 17 5 10
+GetGroupsHighestLevel 0
+ReplaceGroup 5 6
+GetGroupsHighestLevel 3
+IncreaseLevel 4 61
+AddPlayer 35 1 7
+AddGroup 0
+ReplaceGroup 2 3
+AddPlayer 57 3 27
+RemovePlayer 19
+GetGroupsHighestLevel 1
+AddPlayer 94 4 32
+GetHighestLevel -1
+GetHighestLevel 2
+ReplaceGroup -1 0
+AddPlayer 83 5 4
+GetGroupsHighestLevel 4
+RemovePlayer 48
+AddGroup 2
+GetAllPlayersByLevel -1
+GetHighestLevel 0
+RemovePlayer 92
+RemovePlayer 52
+AddPlayer 97 5 30
+RemovePlayer 15
+AddPlayer 22 0 29
+AddGroup -1
+AddPlayer 67 5 22
+GetAllPlayersByLevel 1
+ReplaceGroup -1 0
+IncreaseLevel 1 41
+IncreaseLevel 4 79
+GetHighestLevel 4
+AddPlayer 62 0 32
+AddGroup 2
+GetAllPlayersByLevel -1
+AddPlayer 73 0 30
+RemovePlayer 24
+ReplaceGroup 1 2
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 3
+AddPlayer 28 1 28
+AddPlayer 62 5 30
+RemovePlayer 4
+GetAllPlayersByLevel 3
+GetHighestLevel 5
+IncreaseLevel 3 78
+AddGroup 4
+RemovePlayer 63
+GetGroupsHighestLevel 5
+GetHighestLevel 3
+AddPlayer 65 3 38
+GetHighestLevel -1
+AddPlayer 29 3 24
+IncreaseLevel 4 62
+GetHighestLevel 1
+RemovePlayer 96
+ReplaceGroup -1 0
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 3
+RemovePlayer 78
+GetHighestLevel 1
+AddPlayer 53 5 0
+IncreaseLevel 2 52
+IncreaseLevel -1 80
+AddGroup -1
+GetHighestLevel 5
+RemovePlayer 63
+RemovePlayer 81
+ReplaceGroup 2 3
+AddPlayer 37 -1 13
+AddPlayer 23 5 8
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 3
+RemovePlayer 100
+GetHighestLevel 1
+ReplaceGroup 1 2
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 5
+GetHighestLevel 5
+GetHighestLevel 1
+GetHighestLevel 4
+ReplaceGroup 1 2
+GetHighestLevel 4
+ReplaceGroup 2 3
+GetGroupsHighestLevel 3
+GetHighestLevel 0
+AddGroup 3
+IncreaseLevel 4 8
+ReplaceGroup -1 0
+AddGroup 5
+ReplaceGroup -1 0
+AddGroup 0
+GetHighestLevel 0
+ReplaceGroup 3 4
+AddGroup 4
+AddPlayer 11 3 26
+RemovePlayer 30
+AddGroup 0
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 3
+GetHighestLevel -1
+ReplaceGroup 1 2
+AddGroup 0
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 5
+RemovePlayer 53
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 2
+AddPlayer 41 1 26
+AddGroup 5
+ReplaceGroup 1 2
+IncreaseLevel 0 0
+IncreaseLevel 0 61
+AddPlayer 42 1 1
+AddGroup 0
+RemovePlayer 72
+RemovePlayer 80
+AddPlayer 24 3 15
+IncreaseLevel 0 35
+GetHighestLevel 0
+GetGroupsHighestLevel 2
+ReplaceGroup 2 3
+AddPlayer 45 1 26
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel -1
+RemovePlayer 94
+IncreaseLevel 4 39
+AddGroup -1
+GetGroupsHighestLevel -1
+IncreaseLevel 1 99
+ReplaceGroup 5 6
+ReplaceGroup 5 6
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel -1
+GetHighestLevel 2
+IncreaseLevel 0 99
+RemovePlayer 75
+RemovePlayer 1
+GetHighestLevel -1
+IncreaseLevel -1 94
+GetAllPlayersByLevel -1
+AddGroup 1
+GetGroupsHighestLevel 1
+GetHighestLevel 4
+RemovePlayer 26
+AddPlayer 29 2 35
+AddPlayer 61 0 28
+GetGroupsHighestLevel 5
+IncreaseLevel -1 56
+GetHighestLevel 5
+IncreaseLevel 2 38
+GetHighestLevel 0
+GetHighestLevel 3
+AddGroup 0
+AddGroup 3
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 5
+GetHighestLevel 5
+AddGroup 5
+AddPlayer 27 3 25
+ReplaceGroup 2 3
+AddPlayer 89 -1 23
+AddPlayer 55 3 36
+GetHighestLevel 4
+RemovePlayer 2
+IncreaseLevel 1 11
+RemovePlayer 21
+GetAllPlayersByLevel 3
+GetHighestLevel 1
+AddGroup 4
+RemovePlayer 9
+GetGroupsHighestLevel 4
+RemovePlayer 48
+AddPlayer 83 2 39
+GetHighestLevel 3
+AddPlayer 5 4 8
+RemovePlayer 16
+RemovePlayer 37
+IncreaseLevel 1 31
+IncreaseLevel 5 21
+AddPlayer 34 1 32
+GetHighestLevel -1
+AddPlayer 45 -1 37
+IncreaseLevel 4 44
+GetHighestLevel 5
+RemovePlayer 90
+RemovePlayer 50
+GetAllPlayersByLevel -1
+RemovePlayer 40
+GetHighestLevel 5
+AddPlayer 18 0 5
+ReplaceGroup 5 6
+IncreaseLevel 1 4
+IncreaseLevel 4 4
+AddGroup 1
+GetGroupsHighestLevel 5
+AddGroup 3
+IncreaseLevel 4 7
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel 3
+RemovePlayer 1
+IncreaseLevel 0 62
+IncreaseLevel 5 91
+ReplaceGroup 5 6
+GetAllPlayersByLevel 1
+RemovePlayer 24
+AddGroup -1
+ReplaceGroup 5 6
+GetHighestLevel -1
+IncreaseLevel 0 21
+GetGroupsHighestLevel 1
+GetHighestLevel 1
+ReplaceGroup 5 6
+GetGroupsHighestLevel 3
+ReplaceGroup 5 6
+AddGroup 0
+GetHighestLevel 2
+GetGroupsHighestLevel -1
+AddPlayer 49 3 39
+GetAllPlayersByLevel 5
+AddGroup 2
+ReplaceGroup 3 4
+IncreaseLevel 0 6
+RemovePlayer 42
+IncreaseLevel 5 43
+RemovePlayer 80
+GetHighestLevel 1
+GetHighestLevel -1
+RemovePlayer 34
+ReplaceGroup 2 3
+AddPlayer 34 0 50
+AddPlayer 19 3 43
+ReplaceGroup 3 4
+AddPlayer 87 5 34
+AddPlayer 53 2 39
+GetHighestLevel 3
+AddPlayer 15 -1 19
+AddGroup 1
+GetGroupsHighestLevel 2
+AddGroup -1
+IncreaseLevel 2 47
+GetAllPlayersByLevel 3
+IncreaseLevel -1 35
+GetGroupsHighestLevel 3
+GetHighestLevel 4
+GetAllPlayersByLevel 3
+RemovePlayer 55
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 4
+AddGroup 3
+IncreaseLevel 0 52
+GetGroupsHighestLevel 3
+AddPlayer 0 3 25
+AddGroup 3
+AddGroup -1
+RemovePlayer 0
+IncreaseLevel 3 2
+GetAllPlayersByLevel 1
+GetHighestLevel 0
+IncreaseLevel 3 98
+ReplaceGroup 4 5
+AddPlayer 84 0 27
+IncreaseLevel 0 53
+GetHighestLevel 0
+IncreaseLevel -1 13
+AddPlayer 92 -1 27
+RemovePlayer 56
+GetGroupsHighestLevel 4
+AddGroup 3
+GetGroupsHighestLevel 0
+GetHighestLevel 4
+GetAllPlayersByLevel 4
+RemovePlayer 2
+IncreaseLevel 0 71
+AddGroup -1
+GetAllPlayersByLevel 5
+ReplaceGroup 4 5
+AddPlayer 85 4 16
+IncreaseLevel 2 90
+GetHighestLevel -1
+RemovePlayer 12
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 0
+AddPlayer 78 3 3
+ReplaceGroup -1 0
+ReplaceGroup 3 4
+IncreaseLevel 1 26
+AddGroup 1
+AddGroup 5
+RemovePlayer 62
+GetHighestLevel 3
+GetGroupsHighestLevel 3
+GetHighestLevel 2
+AddPlayer 86 2 28
+IncreaseLevel 3 32
+GetHighestLevel 3
+GetAllPlayersByLevel 5
+ReplaceGroup 5 6
+ReplaceGroup -1 0
+AddPlayer 66 0 1
+GetAllPlayersByLevel -1
+ReplaceGroup -1 0
+AddGroup 4
+RemovePlayer 60
+AddGroup 4
+RemovePlayer 15
+GetAllPlayersByLevel -1
+IncreaseLevel 5 76
+GetAllPlayersByLevel 1
+RemovePlayer 50
+GetGroupsHighestLevel 1
+AddGroup 2
+GetHighestLevel 4
+GetGroupsHighestLevel 4
+ReplaceGroup 3 4
+RemovePlayer 63
+GetHighestLevel 4
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 3
+RemovePlayer 46
+IncreaseLevel 1 68
+ReplaceGroup 4 5
+RemovePlayer 34
+GetAllPlayersByLevel 1
+ReplaceGroup -1 0
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 2
+IncreaseLevel 5 79
+IncreaseLevel 5 49
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 5
+RemovePlayer 43
+AddGroup 5
+AddGroup 4
+AddPlayer 84 1 26
+AddGroup 2
+GetHighestLevel -1
+GetAllPlayersByLevel 0
+RemovePlayer 91
+GetHighestLevel 3
+ReplaceGroup -1 0
+RemovePlayer 59
+AddPlayer 90 3 0
+GetGroupsHighestLevel 4
+AddGroup 2
+RemovePlayer 99
+ReplaceGroup 3 4
+RemovePlayer 35
+GetHighestLevel 2
+ReplaceGroup 2 3
+GetAllPlayersByLevel 0
+GetHighestLevel 5
+ReplaceGroup 1 2
+GetGroupsHighestLevel 3
+ReplaceGroup 5 6
+ReplaceGroup 3 4
+GetHighestLevel 3
+IncreaseLevel 0 77
+RemovePlayer 78
+GetAllPlayersByLevel 1
+AddGroup 1
+GetGroupsHighestLevel 4
+IncreaseLevel 1 17
+AddGroup 0
+GetAllPlayersByLevel -1
+ReplaceGroup 1 2
+RemovePlayer 75
+GetAllPlayersByLevel 2
+AddPlayer 54 -1 9
+ReplaceGroup 1 2
+GetAllPlayersByLevel -1
+GetHighestLevel -1
+GetGroupsHighestLevel 3
+GetHighestLevel -1
+GetGroupsHighestLevel 3
+AddPlayer 25 2 33
+GetHighestLevel 1
+AddGroup 1
+AddPlayer 53 3 46
+RemovePlayer 34
+GetHighestLevel -1
+GetHighestLevel 0
+GetGroupsHighestLevel 1
+RemovePlayer 0
+AddGroup 3
+RemovePlayer 1
+AddGroup 1
+GetHighestLevel -1
+AddPlayer 53 1 33
+IncreaseLevel 4 31
+IncreaseLevel 4 4
+ReplaceGroup -1 0
+GetHighestLevel -1
+GetAllPlayersByLevel 5
+RemovePlayer 1
+GetGroupsHighestLevel 1
+AddGroup 3
+GetGroupsHighestLevel -1
+AddPlayer 36 0 24
+AddGroup 2
+AddGroup -1
+ReplaceGroup -1 0
+AddGroup 0
+AddGroup 1
+GetGroupsHighestLevel -1
+AddPlayer 60 0 15
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 5
+GetHighestLevel 2
+IncreaseLevel 5 77
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 5
+AddGroup -1
+AddGroup 0
+AddGroup 0
+AddGroup 1
+GetHighestLevel 5
+IncreaseLevel 2 47
+IncreaseLevel 3 12
+GetAllPlayersByLevel -1
+IncreaseLevel 0 18
+RemovePlayer 14
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel -1
+RemovePlayer 45
+ReplaceGroup 0 1
+GetGroupsHighestLevel -1
+ReplaceGroup 0 1
+ReplaceGroup 5 6
+GetAllPlayersByLevel 4
+RemovePlayer 88
+IncreaseLevel 0 86
+GetHighestLevel 5
+AddPlayer 45 5 38
+IncreaseLevel 3 18
+GetGroupsHighestLevel 2
+RemovePlayer 36
+RemovePlayer 80
+IncreaseLevel 4 36
+ReplaceGroup 5 6
+AddGroup 5
+AddGroup 2
+RemovePlayer 62
+IncreaseLevel 0 7
+GetHighestLevel 4
+IncreaseLevel 0 22
+AddGroup 4
+ReplaceGroup 5 6
+GetGroupsHighestLevel 1
+RemovePlayer 32
+ReplaceGroup 5 6
+AddPlayer 27 -1 16
+RemovePlayer 13
+GetAllPlayersByLevel -1
+IncreaseLevel 1 64
+AddGroup 4
+ReplaceGroup 5 6
+ReplaceGroup 4 5
+ReplaceGroup 0 1
+GetGroupsHighestLevel -1
+AddGroup 2
+AddPlayer 38 2 31
+GetHighestLevel -1
+GetGroupsHighestLevel -1
+GetHighestLevel 1
+AddPlayer 72 -1 1
+GetGroupsHighestLevel 0
+AddGroup 2
+ReplaceGroup 3 4
+RemovePlayer 16
+GetGroupsHighestLevel 4
+GetHighestLevel 2
+GetAllPlayersByLevel 1
+AddGroup 0
+RemovePlayer 16
+IncreaseLevel 3 66
+RemovePlayer 31
+IncreaseLevel 4 35
+IncreaseLevel 5 0
+GetHighestLevel 5
+GetHighestLevel 3
+IncreaseLevel -1 35
+GetAllPlayersByLevel 5
+RemovePlayer 90
+GetGroupsHighestLevel 5
+AddPlayer 46 4 8
+IncreaseLevel -1 78
+RemovePlayer 3
+RemovePlayer 56
+RemovePlayer 0
+AddGroup 5
+AddGroup 2
+RemovePlayer 46
+AddPlayer 65 2 21
+GetAllPlayersByLevel 5
+RemovePlayer 14
+AddPlayer 99 1 18
+IncreaseLevel 4 14
+AddPlayer 34 4 36
+AddGroup 3
+AddPlayer 75 0 38
+ReplaceGroup 3 4
+GetHighestLevel 1
+GetHighestLevel 5
+ReplaceGroup 5 6
+AddGroup 2
+AddGroup 0
+AddPlayer 57 5 47
+RemovePlayer 92
+ReplaceGroup 1 2
+GetGroupsHighestLevel 5
+GetHighestLevel 2
+AddPlayer 56 1 9
+IncreaseLevel -1 68
+IncreaseLevel 0 82
+GetGroupsHighestLevel 1
+AddGroup 0
+ReplaceGroup 3 4
+AddGroup 2
+GetAllPlayersByLevel 3
+RemovePlayer 51
+GetHighestLevel 2
+AddGroup -1
+RemovePlayer 34
+RemovePlayer 21
+IncreaseLevel 4 13
+RemovePlayer 61
+IncreaseLevel 4 44
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 1
+AddGroup 5
+GetGroupsHighestLevel 5
+IncreaseLevel 1 83
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 0
+AddGroup 5
+GetHighestLevel 0
+IncreaseLevel 5 35
+AddGroup 3
+AddPlayer 9 3 29
+RemovePlayer 26
+GetAllPlayersByLevel 2
+IncreaseLevel 1 73
+GetGroupsHighestLevel -1
+AddGroup 2
+AddPlayer 67 2 40
+ReplaceGroup -1 0
+GetHighestLevel 4
+ReplaceGroup 3 4
+IncreaseLevel 1 69
+AddGroup 4
+GetAllPlayersByLevel 1
+ReplaceGroup 3 4
+GetAllPlayersByLevel 5
+ReplaceGroup -1 0
+AddPlayer 89 -1 12
+GetHighestLevel 5
+GetGroupsHighestLevel 5
+RemovePlayer 33
+ReplaceGroup 1 2
+IncreaseLevel 2 24
+GetHighestLevel 5
+AddPlayer -1 3 17
+ReplaceGroup 2 3
+GetHighestLevel -1
+IncreaseLevel -1 33
+AddPlayer 100 2 22
+RemovePlayer 97
+GetGroupsHighestLevel 4
+IncreaseLevel 5 100
+GetHighestLevel 3
+GetHighestLevel 1
+ReplaceGroup 3 4
+RemovePlayer 55
+ReplaceGroup -1 0
+IncreaseLevel 0 85
+AddGroup 2
+GetGroupsHighestLevel 1
+AddGroup -1
+RemovePlayer 81
+AddGroup 1
+AddPlayer 97 5 46
+RemovePlayer 23
+AddGroup 1
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 2
+AddGroup 5
+RemovePlayer 32
+GetGroupsHighestLevel 0
+RemovePlayer 55
+RemovePlayer 87
+RemovePlayer 10
+RemovePlayer 36
+ReplaceGroup 0 1
+ReplaceGroup 2 3
+GetGroupsHighestLevel 5
+RemovePlayer 61
+IncreaseLevel 1 39
+ReplaceGroup 1 2
+RemovePlayer 19
+AddGroup 2
+AddGroup 2
+AddGroup 4
+GetGroupsHighestLevel 4
+RemovePlayer 81
+GetHighestLevel 3
+ReplaceGroup 0 1
+AddGroup 0
+ReplaceGroup 5 6
+RemovePlayer 40
+AddPlayer 48 1 18
+GetGroupsHighestLevel 1
+GetHighestLevel 5
+ReplaceGroup 2 3
+GetHighestLevel 1
+GetGroupsHighestLevel -1
+AddPlayer 22 4 16
+IncreaseLevel -1 82
+ReplaceGroup 3 4
+AddPlayer 91 0 38
+AddPlayer 12 -1 42
+GetAllPlayersByLevel -1
+AddPlayer 16 0 48
+GetAllPlayersByLevel 4
+AddGroup -1
+AddGroup 4
+AddPlayer 72 4 9
+GetHighestLevel 0
+GetAllPlayersByLevel 0
+AddGroup 0
+GetAllPlayersByLevel 5
+AddGroup 3
+GetHighestLevel 5
+AddGroup 3
+RemovePlayer 15
+IncreaseLevel -1 49
+ReplaceGroup 5 6
+AddPlayer 88 5 24
+AddPlayer 7 1 23
+ReplaceGroup 5 6
+IncreaseLevel 0 25
+GetAllPlayersByLevel 0
+ReplaceGroup 5 6
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 3
+AddPlayer 38 4 15
+GetHighestLevel 2
+GetHighestLevel 5
+AddPlayer 94 3 5
+RemovePlayer 34
+AddPlayer 16 1 16
+AddGroup 4
+ReplaceGroup 1 2
+ReplaceGroup 4 5
+RemovePlayer 64
+AddPlayer 31 0 39
+RemovePlayer 62
+AddPlayer 16 4 14
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel 5
+AddGroup 1
+RemovePlayer 82
+AddGroup 5
+GetAllPlayersByLevel 5
+IncreaseLevel 0 80
+RemovePlayer 78
+AddPlayer 48 4 18
+GetAllPlayersByLevel 4
+AddGroup -1
+AddGroup 0
+ReplaceGroup 2 3
+RemovePlayer 17
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 2
+IncreaseLevel 1 85
+AddPlayer 93 0 16
+GetHighestLevel 1
+IncreaseLevel -1 56
+GetHighestLevel 5
+AddPlayer 7 1 21
+GetGroupsHighestLevel -1
+AddPlayer 88 -1 34
+AddPlayer 26 3 31
+GetAllPlayersByLevel 5
+AddPlayer 91 5 20
+AddPlayer 33 4 47
+ReplaceGroup 4 5
+AddGroup 2
+IncreaseLevel 5 25
+AddPlayer 96 0 15
+AddPlayer 96 -1 46
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 3
+RemovePlayer 66
+GetHighestLevel 5
+GetGroupsHighestLevel -1
+IncreaseLevel 3 58
+AddPlayer 59 1 33
+GetAllPlayersByLevel 3
+AddPlayer 63 5 30
+GetAllPlayersByLevel -1
+ReplaceGroup 4 5
+RemovePlayer 69
+RemovePlayer 67
+GetAllPlayersByLevel 0
+AddPlayer 57 2 30
+AddPlayer 14 -1 24
+GetHighestLevel -1
+IncreaseLevel 2 94
+GetHighestLevel 4
+GetAllPlayersByLevel 1
+GetHighestLevel -1
+IncreaseLevel 5 7
+GetHighestLevel 0
+GetAllPlayersByLevel 1
+RemovePlayer 68
+GetAllPlayersByLevel 5
+GetHighestLevel 5
+AddPlayer 57 2 37
+GetGroupsHighestLevel 1
+GetHighestLevel 2
+ReplaceGroup 5 6
+AddPlayer 38 3 2
+AddGroup -1
+ReplaceGroup 0 1
+GetHighestLevel 5
+ReplaceGroup 1 2
+ReplaceGroup 0 1
+AddPlayer 7 1 47
+IncreaseLevel 4 65
+ReplaceGroup 3 4
+GetAllPlayersByLevel 5
+IncreaseLevel 2 66
+RemovePlayer 20
+AddGroup 5
+GetHighestLevel -1
+ReplaceGroup -1 0
+RemovePlayer 44
+GetAllPlayersByLevel 3
+GetHighestLevel 0
+RemovePlayer 12
+AddGroup 3
+RemovePlayer 25
+GetHighestLevel -1
+RemovePlayer 51
+IncreaseLevel 2 83
+RemovePlayer 99
+AddPlayer 83 5 40
+GetGroupsHighestLevel 0
+AddGroup 1
+GetAllPlayersByLevel 4
+RemovePlayer 45
+GetGroupsHighestLevel 4
+IncreaseLevel 5 89
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 1
+GetHighestLevel 5
+RemovePlayer 10
+RemovePlayer 83
+RemovePlayer 59
+GetHighestLevel 3
+IncreaseLevel 3 8
+GetHighestLevel -1
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 2
+ReplaceGroup 3 4
+AddGroup 2
+ReplaceGroup 0 1
+GetHighestLevel -1
+IncreaseLevel 3 81
+ReplaceGroup -1 0
+RemovePlayer 86
+GetAllPlayersByLevel 4
+RemovePlayer 94
+ReplaceGroup 0 1
+ReplaceGroup 2 3
+ReplaceGroup 3 4
+ReplaceGroup 1 2
+GetGroupsHighestLevel 3
+RemovePlayer 47
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 0
+GetHighestLevel 3
+GetGroupsHighestLevel 1
+RemovePlayer 43
+AddPlayer 9 3 43
+ReplaceGroup 2 3
+AddGroup 0
+AddGroup 1
+IncreaseLevel 4 82
+ReplaceGroup 5 6
+AddGroup 1
+IncreaseLevel 1 50
+GetHighestLevel 5
+GetGroupsHighestLevel 5
+AddPlayer 61 0 5
+GetHighestLevel -1
+AddGroup 4
+AddGroup -1
+RemovePlayer -1
+GetHighestLevel 2
+ReplaceGroup 4 5
+GetGroupsHighestLevel 3
+RemovePlayer 67
+GetHighestLevel 3
+GetAllPlayersByLevel 3
+AddPlayer 23 4 6
+RemovePlayer 80
+GetHighestLevel 1
+IncreaseLevel 2 74
+GetGroupsHighestLevel 0
+RemovePlayer 68
+GetHighestLevel 0
+IncreaseLevel 2 76
+RemovePlayer 0
+RemovePlayer 43
+GetHighestLevel 1
+AddPlayer 5 2 10
+AddGroup 4
+RemovePlayer 47
+IncreaseLevel 4 53
+ReplaceGroup 0 1
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 3
+ReplaceGroup 5 6
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 5
+AddGroup 0
+AddGroup 4
+GetAllPlayersByLevel 1
+ReplaceGroup 4 5
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 2
+RemovePlayer 86
+GetAllPlayersByLevel 2
+ReplaceGroup -1 0
+ReplaceGroup 4 5
+RemovePlayer 0
+IncreaseLevel -1 41
+ReplaceGroup -1 0
+ReplaceGroup 5 6
+RemovePlayer 52
+GetHighestLevel -1
+IncreaseLevel 2 74
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 0
+RemovePlayer 51
+RemovePlayer 18
+AddGroup 5
+AddPlayer 86 5 17
+GetGroupsHighestLevel 4
+GetHighestLevel 1
+AddGroup 5
+AddGroup 1
+GetHighestLevel 0
+IncreaseLevel -1 16
+ReplaceGroup 2 3
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 0
+IncreaseLevel 4 25
+GetGroupsHighestLevel 4
+IncreaseLevel 2 6
+AddPlayer 60 0 23
+GetAllPlayersByLevel 3
+AddPlayer 45 2 28
+ReplaceGroup 4 5
+RemovePlayer 12
+GetAllPlayersByLevel 4
+IncreaseLevel 3 95
+RemovePlayer 13
+AddPlayer 100 2 10
+GetGroupsHighestLevel 1
+GetHighestLevel 5
+ReplaceGroup 4 5
+GetGroupsHighestLevel -1
+RemovePlayer 63
+IncreaseLevel 4 76
+AddPlayer 82 0 11
+AddGroup 5
+AddGroup 4
+IncreaseLevel 3 0
+IncreaseLevel 1 71
+IncreaseLevel 4 25
+AddGroup 3
+GetGroupsHighestLevel 1
+RemovePlayer 60
+AddGroup 3
+ReplaceGroup 3 4
+ReplaceGroup 4 5
+AddGroup 1
+AddGroup 1
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 4
+IncreaseLevel 5 34
+GetHighestLevel 5
+GetHighestLevel -1
+IncreaseLevel 1 44
+AddGroup 2
+AddGroup 4
+ReplaceGroup 4 5
+RemovePlayer 81
+AddPlayer 78 4 46
+GetAllPlayersByLevel -1
+GetHighestLevel 4
+AddGroup -1
+RemovePlayer 50
+IncreaseLevel 2 78
+AddGroup 4
+GetHighestLevel 5
+IncreaseLevel 3 35
+GetAllPlayersByLevel 1
+GetHighestLevel 2
+GetHighestLevel 3
+ReplaceGroup 1 2
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 0
+GetHighestLevel -1
+IncreaseLevel 3 60
+GetGroupsHighestLevel 1
+ReplaceGroup 4 5
+ReplaceGroup 1 2
+GetHighestLevel 2
+IncreaseLevel 4 75
+AddGroup 3
+GetHighestLevel 5
+RemovePlayer 58
+RemovePlayer 86
+AddGroup -1
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 4
+IncreaseLevel 3 23
+AddGroup -1
+GetHighestLevel 5
+IncreaseLevel 0 63
+AddGroup 0
+IncreaseLevel 0 48
+AddGroup 5
+RemovePlayer 15
+AddGroup -1
+GetGroupsHighestLevel 2
+AddPlayer 28 3 37
+GetHighestLevel -1
+AddPlayer 83 2 29
+GetAllPlayersByLevel 4
+GetHighestLevel -1
+RemovePlayer 26
+GetAllPlayersByLevel 1
+AddGroup 0
+GetGroupsHighestLevel 1
+RemovePlayer 76
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 4
+ReplaceGroup 2 3
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 2
+ReplaceGroup 5 6
+GetHighestLevel 1
+GetGroupsHighestLevel 3
+IncreaseLevel -1 17
+GetHighestLevel 5
+ReplaceGroup 1 2
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 2
+AddPlayer 65 1 10
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 4
+GetHighestLevel 3
+ReplaceGroup 2 3
+GetGroupsHighestLevel 5
+GetHighestLevel 5
+AddPlayer 97 -1 47
+AddGroup -1
+IncreaseLevel -1 36
+ReplaceGroup 4 5
+AddPlayer 74 4 22
+AddPlayer 50 2 15
+AddGroup -1
+GetAllPlayersByLevel 3
+GetHighestLevel 2
+IncreaseLevel 4 38
+AddGroup 0
+RemovePlayer 74
+AddPlayer 27 0 34
+GetHighestLevel 0
+ReplaceGroup 2 3
+IncreaseLevel 0 94
+ReplaceGroup -1 0
+GetGroupsHighestLevel 0
+GetHighestLevel 3
+RemovePlayer 69
+GetAllPlayersByLevel 3
+GetHighestLevel 5
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 2
+IncreaseLevel 3 8
+AddGroup 4
+GetAllPlayersByLevel 0
+GetHighestLevel 2
+IncreaseLevel 3 95
+RemovePlayer 65
+ReplaceGroup 1 2
+AddGroup -1
+AddGroup 4
+GetAllPlayersByLevel -1
+IncreaseLevel 2 53
+AddPlayer 2 5 6
+AddPlayer -1 1 5
+GetGroupsHighestLevel 5
+ReplaceGroup -1 0
+GetGroupsHighestLevel -1
+RemovePlayer 39
+RemovePlayer 28
+RemovePlayer 78
+GetGroupsHighestLevel 5
+GetHighestLevel 2
+GetAllPlayersByLevel 0
+AddGroup 5
+GetHighestLevel -1
+GetGroupsHighestLevel 4
+AddGroup -1
+GetHighestLevel 5
+IncreaseLevel 4 48
+AddGroup 3
+AddPlayer 91 -1 -1
+GetAllPlayersByLevel 4
+IncreaseLevel 3 38
+IncreaseLevel 4 78
+GetHighestLevel 0
+ReplaceGroup 0 1
+ReplaceGroup 4 5
+GetGroupsHighestLevel 0
+IncreaseLevel 5 92
+AddPlayer 56 -1 21
+AddGroup 2
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 1
+RemovePlayer 14
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 5
+ReplaceGroup -1 0
+GetAllPlayersByLevel 5
+ReplaceGroup -1 0
+RemovePlayer 60
+AddPlayer 74 1 38
+GetHighestLevel 0
+GetHighestLevel 5
+IncreaseLevel 3 22
+GetAllPlayersByLevel -1
+GetHighestLevel 3
+GetHighestLevel 5
+AddGroup 4
+AddPlayer 98 4 3
+AddGroup 0
+AddPlayer 78 -1 10
+GetGroupsHighestLevel 1
+IncreaseLevel -1 62
+GetAllPlayersByLevel 0
+AddPlayer 36 -1 24
+AddGroup -1
+GetAllPlayersByLevel 4
+ReplaceGroup 4 5
+GetHighestLevel 2
+RemovePlayer 44
+GetHighestLevel 0
+ReplaceGroup 2 3
+GetGroupsHighestLevel 1
+IncreaseLevel 0 15
+AddPlayer 41 4 2
+RemovePlayer 72
+AddPlayer 2 4 30
+GetHighestLevel 4
+AddPlayer 41 0 10
+RemovePlayer 33
+RemovePlayer 32
+GetHighestLevel 4
+IncreaseLevel 0 68
+AddPlayer 0 0 34
+GetGroupsHighestLevel 3
+ReplaceGroup 1 2
+GetGroupsHighestLevel 5
+RemovePlayer 73
+GetHighestLevel -1
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 0
+AddPlayer 93 3 7
+AddPlayer 78 5 17
+GetHighestLevel 4
+GetHighestLevel 4
+IncreaseLevel 1 52
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 3
+IncreaseLevel 1 75
+GetGroupsHighestLevel 2
+IncreaseLevel 5 10
+GetHighestLevel 3
+AddGroup 1
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 1
+AddGroup 0
+GetAllPlayersByLevel -1
+AddPlayer 97 0 13
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 5
+GetHighestLevel 5
+ReplaceGroup -1 0
+IncreaseLevel -1 28
+GetGroupsHighestLevel 1
+GetHighestLevel 4
+GetHighestLevel -1
+GetAllPlayersByLevel 3
+ReplaceGroup 5 6
+RemovePlayer 61
+AddPlayer 0 1 50
+AddGroup 3
+AddPlayer 34 3 3
+GetGroupsHighestLevel 1
+IncreaseLevel 1 97
+RemovePlayer 29
+GetAllPlayersByLevel 5
+GetHighestLevel 4
+IncreaseLevel 0 55
+AddPlayer 35 1 10
+GetGroupsHighestLevel 2
+IncreaseLevel 2 47
+AddGroup 0
+IncreaseLevel -1 26
+IncreaseLevel 5 36
+RemovePlayer 64
+AddGroup -1
+GetHighestLevel 2
+AddPlayer 9 1 10
+GetAllPlayersByLevel 3
+IncreaseLevel 4 56
+AddGroup 1
+RemovePlayer 2
+GetGroupsHighestLevel 1
+IncreaseLevel 3 28
+RemovePlayer 49
+GetGroupsHighestLevel 1
+AddGroup 0
+ReplaceGroup 5 6
+AddPlayer 41 5 2
+AddPlayer 27 5 22
+GetAllPlayersByLevel -1
+IncreaseLevel 5 17
+AddGroup 1
+IncreaseLevel -1 15
+IncreaseLevel -1 5
+RemovePlayer 10
+ReplaceGroup 1 2
+RemovePlayer 30
+GetAllPlayersByLevel 1
+AddGroup -1
+AddGroup 5
+RemovePlayer 36
+GetGroupsHighestLevel 3
+AddGroup -1
+AddPlayer 72 4 22
+GetHighestLevel 1
+IncreaseLevel 1 91
+GetHighestLevel -1
+AddPlayer 18 3 33
+GetHighestLevel 2
+GetGroupsHighestLevel 1
+IncreaseLevel 2 85
+AddPlayer 28 4 9
+ReplaceGroup 0 1
+ReplaceGroup 2 3
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 0
+AddPlayer 26 1 8
+AddPlayer 41 3 13
+RemovePlayer 75
+GetHighestLevel 4
+AddGroup 0
+AddPlayer 37 4 47
+AddGroup 5
+AddGroup 0
+GetAllPlayersByLevel 2
+ReplaceGroup 5 6
+AddPlayer 97 2 17
+RemovePlayer 25
+RemovePlayer 17
+RemovePlayer 48
+AddGroup 3
+AddGroup 1
+GetHighestLevel 0
+AddPlayer 79 -1 39
+AddPlayer 47 4 1
+IncreaseLevel -1 62
+GetAllPlayersByLevel 3
+IncreaseLevel 4 35
+GetHighestLevel 4
+RemovePlayer 0
+GetHighestLevel 1
+GetAllPlayersByLevel 5
+RemovePlayer 6
+AddPlayer -1 0 3
+GetAllPlayersByLevel -1
+AddPlayer 86 0 2
+AddPlayer 70 0 50
+RemovePlayer 85
+GetGroupsHighestLevel 5
+IncreaseLevel 4 20
+AddGroup 0
+GetHighestLevel 3
+ReplaceGroup 3 4
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 2
+GetHighestLevel 1
+GetHighestLevel 4
+IncreaseLevel 3 79
+ReplaceGroup 4 5
+AddPlayer 53 1 6
+GetAllPlayersByLevel 3
+ReplaceGroup 2 3
+ReplaceGroup 2 3
+GetGroupsHighestLevel 1
+GetHighestLevel 3
+RemovePlayer 21
+IncreaseLevel 1 79
+AddPlayer 73 -1 49
+ReplaceGroup 2 3
+AddGroup -1
+RemovePlayer 77
+IncreaseLevel 0 13
+GetHighestLevel -1
+GetHighestLevel 5
+ReplaceGroup 3 4
+IncreaseLevel 4 43
+AddGroup -1
+RemovePlayer 99
+RemovePlayer 88
+IncreaseLevel 4 37
+GetHighestLevel -1
+ReplaceGroup 2 3
+AddPlayer 76 2 23
+AddGroup 0
+RemovePlayer 79
+GetHighestLevel -1
+AddGroup 3
+GetHighestLevel -1
+RemovePlayer 40
+AddGroup 4
+RemovePlayer 57
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel 2
+GetHighestLevel 1
+AddGroup -1
+GetAllPlayersByLevel 1
+ReplaceGroup 5 6
+ReplaceGroup 1 2
+RemovePlayer 37
+IncreaseLevel 5 29
+GetHighestLevel 4
+IncreaseLevel 4 42
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 1
+AddGroup 4
+IncreaseLevel 5 14
+IncreaseLevel 0 38
+ReplaceGroup 1 2
+GetGroupsHighestLevel 0
+AddGroup 5
+AddGroup 5
+GetGroupsHighestLevel -1
+AddPlayer 5 0 23
+AddPlayer 58 2 21
+GetAllPlayersByLevel 3
+IncreaseLevel 0 20
+AddPlayer 20 5 30
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 0
+RemovePlayer 26
+AddPlayer 41 3 -1
+RemovePlayer 65
+ReplaceGroup -1 0
+GetAllPlayersByLevel 0
+ReplaceGroup 2 3
+AddPlayer 28 2 45
+GetHighestLevel 2
+GetGroupsHighestLevel 3
+IncreaseLevel 1 57
+GetAllPlayersByLevel -1
+IncreaseLevel 2 7
+GetAllPlayersByLevel 3
+AddGroup -1
+ReplaceGroup 2 3
+GetAllPlayersByLevel -1
+GetHighestLevel 4
+ReplaceGroup 2 3
+GetAllPlayersByLevel 3
+GetHighestLevel -1
+GetAllPlayersByLevel 5
+GetHighestLevel 3
+IncreaseLevel 5 62
+GetGroupsHighestLevel -1
+ReplaceGroup 0 1
+ReplaceGroup 1 2
+RemovePlayer 64
+IncreaseLevel 5 42
+IncreaseLevel 3 76
+ReplaceGroup 4 5
+ReplaceGroup 5 6
+ReplaceGroup 5 6
+IncreaseLevel 1 31
+ReplaceGroup 1 2
+GetGroupsHighestLevel -1
+AddGroup 1
+RemovePlayer 44
+GetHighestLevel 3
+GetHighestLevel 0
+GetGroupsHighestLevel 2
+AddGroup 1
+GetHighestLevel 0
+RemovePlayer 96
+ReplaceGroup 5 6
+AddPlayer 41 3 29
+AddPlayer 21 4 22
+AddPlayer 1 -1 13
+IncreaseLevel -1 72
+AddPlayer 76 -1 17
+AddPlayer 54 1 24
+AddPlayer 77 1 3
+GetGroupsHighestLevel -1
+IncreaseLevel 0 61
+GetAllPlayersByLevel -1
+AddGroup 5
+GetGroupsHighestLevel -1
+AddGroup 5
+IncreaseLevel 0 61
+RemovePlayer 34
+IncreaseLevel 1 94
+AddGroup 4
+AddGroup -1
+ReplaceGroup 2 3
+GetAllPlayersByLevel 5
+AddPlayer 33 5 4
+RemovePlayer 65
+RemovePlayer 21
+GetGroupsHighestLevel 3
+AddGroup 1
+AddPlayer 43 -1 5
+AddGroup 2
+AddGroup 1
+IncreaseLevel 1 99
+GetGroupsHighestLevel 1
+AddPlayer 70 1 33
+AddGroup 4
+ReplaceGroup 0 1
+ReplaceGroup 0 1
+AddPlayer 45 2 -1
+IncreaseLevel 0 73
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 4
+GetHighestLevel -1
+GetGroupsHighestLevel 3
+ReplaceGroup 0 1
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel -1
+AddPlayer 44 3 29
+ReplaceGroup 5 6
+ReplaceGroup -1 0
+AddPlayer 60 1 3
+AddGroup 5
+ReplaceGroup 4 5
+AddGroup 1
+RemovePlayer 30
+AddGroup 4
+AddPlayer 30 4 26
+ReplaceGroup -1 0
+AddPlayer 20 2 43
+GetHighestLevel 4
+RemovePlayer 70
+AddGroup -1
+GetAllPlayersByLevel 3
+AddPlayer 7 2 34
+GetAllPlayersByLevel 3
+IncreaseLevel 5 7
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 4
+ReplaceGroup 4 5
+GetHighestLevel 0
+RemovePlayer 94
+GetHighestLevel 4
+IncreaseLevel 1 73
+GetHighestLevel -1
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 0
+GetHighestLevel 3
+RemovePlayer 54
+AddPlayer 41 5 37
+IncreaseLevel 3 57
+GetHighestLevel 1
+AddGroup -1
+GetAllPlayersByLevel -1
+RemovePlayer 20
+GetHighestLevel 3
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel -1
+IncreaseLevel 3 57
+IncreaseLevel 5 37
+GetGroupsHighestLevel 5
+GetHighestLevel 1
+GetAllPlayersByLevel -1
+IncreaseLevel 4 26
+GetAllPlayersByLevel 4
+AddPlayer 15 5 29
+AddGroup 4
+RemovePlayer 97
+AddGroup 1
+IncreaseLevel -1 29
+GetHighestLevel 1
+AddPlayer 14 4 4
+AddPlayer 50 3 7
+GetHighestLevel -1
+AddGroup 3
+AddPlayer 85 0 26
+IncreaseLevel 0 61
+GetGroupsHighestLevel 1
+RemovePlayer 97
+IncreaseLevel 3 54
+AddGroup 0
+RemovePlayer 33
+GetAllPlayersByLevel 1
+RemovePlayer 98
+IncreaseLevel 2 64
+GetHighestLevel 4
+AddPlayer 18 4 42
+RemovePlayer 98
+GetAllPlayersByLevel 4
+ReplaceGroup 3 4
+RemovePlayer 25
+GetGroupsHighestLevel 3
+AddPlayer 34 1 22
+ReplaceGroup 4 5
+GetHighestLevel 3
+AddGroup 0
+RemovePlayer 47
+ReplaceGroup 0 1
+GetHighestLevel -1
+RemovePlayer 60
+GetGroupsHighestLevel 1
+IncreaseLevel -1 16
+ReplaceGroup -1 0
+AddGroup 2
+AddPlayer 95 -1 7
+RemovePlayer 73
+AddPlayer 60 4 -1
+RemovePlayer 75
+AddPlayer 87 0 40
+AddGroup 3
+IncreaseLevel 5 40
+GetGroupsHighestLevel 0
+AddGroup 3
+GetHighestLevel -1
+GetAllPlayersByLevel -1
+IncreaseLevel 0 48
+AddPlayer 39 -1 22
+IncreaseLevel 0 9
+GetAllPlayersByLevel -1
+RemovePlayer 10
+RemovePlayer 57
+RemovePlayer 49
+AddPlayer 95 1 11
+AddPlayer 55 5 46
+AddPlayer 28 1 39
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 0
+AddPlayer 9 3 11
+RemovePlayer 28
+AddGroup 1
+GetGroupsHighestLevel 1
+ReplaceGroup 3 4
+ReplaceGroup 4 5
+IncreaseLevel 3 31
+GetGroupsHighestLevel 2
+AddGroup 4
+RemovePlayer 87
+RemovePlayer 20
+GetHighestLevel 2
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel 2
+IncreaseLevel -1 5
+AddGroup 5
+GetGroupsHighestLevel 4
+AddGroup 0
+AddGroup 2
+GetHighestLevel 4
+AddPlayer 54 0 34
+ReplaceGroup 4 5
+GetAllPlayersByLevel 3
+AddGroup 3
+IncreaseLevel 4 2
+RemovePlayer 32
+RemovePlayer 72
+GetHighestLevel 4
+GetAllPlayersByLevel 0
+ReplaceGroup 1 2
+ReplaceGroup 2 3
+GetHighestLevel 4
+GetHighestLevel 5
+RemovePlayer 13
+IncreaseLevel 3 91
+GetAllPlayersByLevel 0
+AddPlayer 100 0 16
+AddPlayer 7 3 27
+AddPlayer 3 4 20
+RemovePlayer 37
+GetHighestLevel 2
+AddGroup 5
+RemovePlayer 69
+AddGroup 0
+GetHighestLevel 0
+AddGroup 1
+IncreaseLevel 1 28
+GetHighestLevel 3
+ReplaceGroup 5 6
+GetGroupsHighestLevel 3
+AddPlayer 83 3 35
+RemovePlayer 93
+GetAllPlayersByLevel 1
+RemovePlayer -1
+RemovePlayer 98
+RemovePlayer 19
+AddPlayer 10 -1 26
+RemovePlayer 42
+GetAllPlayersByLevel 2
+RemovePlayer 81
+GetAllPlayersByLevel 2
+IncreaseLevel 4 0
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 3
+AddPlayer 80 -1 43
+AddGroup 0
+AddGroup -1
+RemovePlayer 10
+IncreaseLevel 5 56
+IncreaseLevel 4 74
+AddGroup 2
+AddGroup 3
+IncreaseLevel 0 39
+AddPlayer 90 2 1
+GetHighestLevel 0
+ReplaceGroup 5 6
+IncreaseLevel 1 6
+AddPlayer 79 3 47
+IncreaseLevel 1 62
+GetHighestLevel -1
+AddPlayer 69 3 40
+GetGroupsHighestLevel 1
+RemovePlayer 41
+AddPlayer 18 4 42
+RemovePlayer 8
+RemovePlayer 20
+AddPlayer 44 -1 32
+AddPlayer 5 -1 40
+AddGroup 4
+GetGroupsHighestLevel 2
+GetHighestLevel 3
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel 3
+AddPlayer 72 0 22
+IncreaseLevel 5 14
+ReplaceGroup 3 4
+IncreaseLevel 1 43
+AddGroup 5
+AddPlayer 68 0 44
+RemovePlayer 95
+GetGroupsHighestLevel 5
+RemovePlayer 50
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel -1
+RemovePlayer 77
+GetHighestLevel -1
+AddPlayer 36 0 45
+ReplaceGroup 0 1
+RemovePlayer 40
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 1
+AddGroup 4
+AddGroup 3
+ReplaceGroup 2 3
+AddPlayer 17 5 27
+GetGroupsHighestLevel 4
+IncreaseLevel -1 89
+AddPlayer 35 5 11
+AddPlayer 58 2 39
+ReplaceGroup 1 2
+GetAllPlayersByLevel 2
+AddGroup 1
+AddGroup 5
+GetGroupsHighestLevel 2
+RemovePlayer 52
+GetHighestLevel 1
+ReplaceGroup 3 4
+GetGroupsHighestLevel 0
+IncreaseLevel 3 96
+IncreaseLevel 1 67
+GetHighestLevel 1
+AddGroup -1
+RemovePlayer 91
+IncreaseLevel 4 64
+GetHighestLevel 3
+RemovePlayer 57
+RemovePlayer 84
+AddGroup 5
+ReplaceGroup 5 6
+GetAllPlayersByLevel -1
+RemovePlayer 37
+AddPlayer 22 -1 43
+AddPlayer 2 5 50
+GetGroupsHighestLevel 0
+ReplaceGroup -1 0
+GetAllPlayersByLevel 2
+IncreaseLevel 1 71
+GetAllPlayersByLevel 4
+AddGroup -1
+RemovePlayer 73
+ReplaceGroup 0 1
+RemovePlayer 71
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 3
+GetHighestLevel 4
+IncreaseLevel 4 26
+AddGroup 4
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 0
+IncreaseLevel 5 0
+RemovePlayer 34
+GetGroupsHighestLevel 4
+IncreaseLevel 0 0
+AddGroup 1
+AddPlayer 62 0 26
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 3
+AddPlayer 57 0 6
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 1
+ReplaceGroup -1 0
+ReplaceGroup 0 1
+ReplaceGroup 4 5
+AddPlayer 3 5 35
+IncreaseLevel 5 40
+IncreaseLevel -1 2
+GetHighestLevel 3
+GetGroupsHighestLevel 1
+AddGroup 4
+ReplaceGroup -1 0
+IncreaseLevel 1 89
+GetGroupsHighestLevel -1
+GetHighestLevel -1
+GetHighestLevel -1
+AddPlayer 23 4 38
+GetAllPlayersByLevel 0
+RemovePlayer 15
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel -1
+ReplaceGroup 2 3
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 2
+GetHighestLevel -1
+GetGroupsHighestLevel 2
+RemovePlayer 46
+AddPlayer 96 2 17
+IncreaseLevel 3 72
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel -1
+IncreaseLevel -1 44
+ReplaceGroup 2 3
+AddGroup 5
+AddPlayer 37 0 45
+AddPlayer 16 3 17
+GetGroupsHighestLevel 3
+GetHighestLevel 2
+GetGroupsHighestLevel -1
+GetHighestLevel 2
+GetGroupsHighestLevel 5
+AddPlayer 46 4 26
+GetGroupsHighestLevel 4
+AddPlayer 5 0 48
+ReplaceGroup 0 1
+GetHighestLevel -1
+AddGroup 1
+RemovePlayer 50
+IncreaseLevel 4 15
+ReplaceGroup 0 1
+RemovePlayer 20
+AddPlayer 9 2 46
+RemovePlayer 41
+AddGroup 1
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 2
+RemovePlayer 100
+IncreaseLevel 0 0
+AddPlayer 51 3 47
+IncreaseLevel 0 22
+ReplaceGroup -1 0
+ReplaceGroup 1 2
+IncreaseLevel 4 15
+AddGroup 5
+IncreaseLevel 4 70
+AddPlayer 40 4 50
+GetHighestLevel 5
+AddPlayer 43 4 49
+IncreaseLevel 5 85
+AddGroup 0
+AddPlayer 15 4 6
+AddPlayer 7 -1 26
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 1
+AddPlayer 54 4 1
+GetGroupsHighestLevel -1
+AddGroup -1
+ReplaceGroup 5 6
+RemovePlayer 31
+AddPlayer 19 4 21
+AddPlayer 92 0 43
+RemovePlayer 69
+AddPlayer 69 0 44
+IncreaseLevel -1 17
+GetGroupsHighestLevel 3
+AddPlayer 75 -1 4
+IncreaseLevel 5 21
+GetAllPlayersByLevel 2
+IncreaseLevel 2 23
+AddGroup -1
+IncreaseLevel 5 3
+ReplaceGroup 4 5
+IncreaseLevel 2 86
+GetHighestLevel 3
+GetAllPlayersByLevel 2
+RemovePlayer 27
+GetAllPlayersByLevel 4
+ReplaceGroup 4 5
+AddPlayer 68 5 16
+ReplaceGroup 4 5
+GetGroupsHighestLevel 5
+GetHighestLevel -1
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 1
+GetHighestLevel 2
+RemovePlayer 92
+IncreaseLevel -1 66
+ReplaceGroup 2 3
+GetGroupsHighestLevel 3
+ReplaceGroup 3 4
+IncreaseLevel 2 18
+GetHighestLevel 5
+GetAllPlayersByLevel 3
+GetHighestLevel -1
+AddPlayer 66 5 13
+GetGroupsHighestLevel 0
+AddPlayer 60 1 6
+AddPlayer 17 5 2
+ReplaceGroup 2 3
+ReplaceGroup 0 1
+ReplaceGroup 2 3
+GetHighestLevel 1
+IncreaseLevel 2 23
+IncreaseLevel 0 65
+GetHighestLevel 1
+AddGroup 0
+GetHighestLevel 0
+AddGroup 2
+AddPlayer 46 2 40
+AddPlayer 39 0 -1
+GetHighestLevel 3
+ReplaceGroup -1 0
+AddGroup 2
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 2
+AddPlayer 94 -1 19
+IncreaseLevel 0 100
+ReplaceGroup 0 1
+ReplaceGroup 4 5
+ReplaceGroup 2 3
+GetAllPlayersByLevel 1
+RemovePlayer 53
+AddPlayer 23 4 23
+GetHighestLevel -1
+AddPlayer 20 4 32
+AddGroup 3
+GetHighestLevel 4
+RemovePlayer 7
+AddPlayer 26 2 24
+GetGroupsHighestLevel 4
+AddPlayer 88 5 8
+AddPlayer 20 0 50
+GetAllPlayersByLevel 1
+AddGroup 2
+RemovePlayer 72
+GetAllPlayersByLevel 2
+ReplaceGroup 5 6
+IncreaseLevel 1 71
+IncreaseLevel 2 40
+AddGroup 5
+IncreaseLevel 3 47
+RemovePlayer 93
+GetHighestLevel 4
+GetHighestLevel 3
+IncreaseLevel 1 11
+GetGroupsHighestLevel 0
+ReplaceGroup 1 2
+ReplaceGroup 4 5
+IncreaseLevel 4 50
+RemovePlayer 97
+GetHighestLevel 0
+GetHighestLevel 4
+GetGroupsHighestLevel 1
+AddPlayer 52 -1 10
+AddGroup -1
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 4
+AddGroup 5
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 1
+AddPlayer 62 3 31
+AddPlayer 89 1 10
+AddPlayer 2 4 21
+GetAllPlayersByLevel 0
+IncreaseLevel 2 28
+GetAllPlayersByLevel 2
+GetHighestLevel 2
+GetAllPlayersByLevel 3
+GetHighestLevel -1
+AddGroup 2
+GetHighestLevel 3
+GetGroupsHighestLevel 1
+RemovePlayer 97
+ReplaceGroup 5 6
+IncreaseLevel 5 20
+ReplaceGroup 4 5
+AddGroup 4
+AddPlayer 100 3 38
+ReplaceGroup 2 3
+ReplaceGroup 5 6
+GetHighestLevel 3
+AddPlayer 56 5 3
+AddPlayer 30 -1 23
+AddGroup 4
+AddPlayer 44 -1 49
+GetGroupsHighestLevel 4
+AddPlayer 52 0 3
+GetGroupsHighestLevel 1
+IncreaseLevel 1 64
+AddPlayer 32 1 7
+AddGroup 1
+GetGroupsHighestLevel 5
+RemovePlayer 14
+AddGroup 5
+IncreaseLevel -1 40
+IncreaseLevel 5 41
+GetHighestLevel 0
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 1
+GetHighestLevel 0
+GetAllPlayersByLevel 1
+ReplaceGroup 5 6
+AddPlayer 56 0 32
+GetGroupsHighestLevel 3
+ReplaceGroup -1 0
+RemovePlayer 3
+IncreaseLevel 5 96
+GetGroupsHighestLevel 0
+AddGroup 5
+ReplaceGroup 5 6
+GetHighestLevel 5
+AddGroup 0
+GetHighestLevel 4
+IncreaseLevel -1 40
+RemovePlayer 69
+AddPlayer 99 3 45
+IncreaseLevel -1 73
+AddPlayer 51 4 -1
+AddPlayer 10 3 6
+GetHighestLevel -1
+IncreaseLevel 0 26
+AddGroup 4
+AddPlayer 68 -1 2
+GetAllPlayersByLevel 0
+GetHighestLevel 0
+GetAllPlayersByLevel 2
+AddPlayer 96 5 42
+RemovePlayer 51
+IncreaseLevel 5 60
+GetGroupsHighestLevel -1
+IncreaseLevel 3 48
+RemovePlayer 82
+GetGroupsHighestLevel 1
+ReplaceGroup 0 1
+GetAllPlayersByLevel 1
+AddGroup 1
+RemovePlayer 5
+IncreaseLevel -1 15
+IncreaseLevel 2 17
+AddGroup 4
+GetHighestLevel 2
+GetGroupsHighestLevel 2
+RemovePlayer 81
+ReplaceGroup 0 1
+ReplaceGroup 1 2
+IncreaseLevel -1 20
+GetHighestLevel 1
+AddPlayer 37 1 25
+GetAllPlayersByLevel 3
+RemovePlayer 8
+RemovePlayer 82
+GetAllPlayersByLevel -1
+IncreaseLevel 1 80
+AddGroup -1
+GetHighestLevel 4
+AddPlayer 69 1 35
+RemovePlayer 36
+IncreaseLevel 3 36
+IncreaseLevel 0 76
+RemovePlayer 12
+IncreaseLevel 4 3
+AddPlayer 46 4 31
+RemovePlayer 34
+AddPlayer 49 4 45
+GetGroupsHighestLevel -1
+GetHighestLevel 4
+AddPlayer 72 -1 21
+GetAllPlayersByLevel 2
+AddPlayer 53 5 39
+GetGroupsHighestLevel 4
+AddGroup 4
+RemovePlayer 11
+GetAllPlayersByLevel 2
+GetHighestLevel 3
+AddPlayer 95 3 22
+ReplaceGroup 2 3
+IncreaseLevel 1 96
+RemovePlayer 57
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel 0
+RemovePlayer -1
+GetAllPlayersByLevel 0
+AddPlayer 70 -1 37
+GetAllPlayersByLevel 4
+RemovePlayer 89
+RemovePlayer 10
+GetHighestLevel 4
+AddPlayer 32 3 18
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 1
+IncreaseLevel 4 91
+ReplaceGroup 5 6
+ReplaceGroup -1 0
+IncreaseLevel 0 0
+GetAllPlayersByLevel 0
+GetHighestLevel 4
+AddPlayer 19 3 5
+GetHighestLevel 4
+AddPlayer 83 -1 4
+GetAllPlayersByLevel 1
+IncreaseLevel 4 40
+GetAllPlayersByLevel 0
+ReplaceGroup 0 1
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 3
+ReplaceGroup 5 6
+AddPlayer 74 5 42
+ReplaceGroup 1 2
+IncreaseLevel 5 100
+IncreaseLevel 0 7
+RemovePlayer 58
+ReplaceGroup 2 3
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 0
+AddGroup 3
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel -1
+AddGroup 3
+AddGroup 3
+GetHighestLevel -1
+ReplaceGroup 2 3
+IncreaseLevel 0 21
+GetGroupsHighestLevel 2
+GetHighestLevel 4
+GetAllPlayersByLevel 4
+AddGroup 5
+RemovePlayer 84
+AddPlayer 100 -1 2
+RemovePlayer 54
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 5
+ReplaceGroup 4 5
+GetGroupsHighestLevel -1
+RemovePlayer 93
+IncreaseLevel 2 35
+GetGroupsHighestLevel 5
+AddPlayer 96 2 38
+IncreaseLevel 1 34
+ReplaceGroup 4 5
+GetHighestLevel 4
+GetAllPlayersByLevel 5
+RemovePlayer 40
+GetHighestLevel 0
+GetGroupsHighestLevel 3
+AddPlayer 45 3 26
+IncreaseLevel 0 59
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 4
+AddPlayer 23 -1 13
+IncreaseLevel 2 96
+AddGroup 0
+IncreaseLevel 5 7
+GetHighestLevel -1
+ReplaceGroup -1 0
+IncreaseLevel 0 83
+RemovePlayer 25
+AddGroup -1
+RemovePlayer 95
+ReplaceGroup 2 3
+IncreaseLevel -1 72
+GetHighestLevel 1
+GetAllPlayersByLevel 1
+AddGroup 3
+GetGroupsHighestLevel 0
+AddPlayer 1 1 1
+GetAllPlayersByLevel 3
+RemovePlayer 15
+RemovePlayer 56
+AddGroup 1
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 2
+ReplaceGroup 1 2
+RemovePlayer 88
+AddPlayer 0 3 1
+GetGroupsHighestLevel 0
+AddPlayer 4 4 31
+GetHighestLevel 4
+GetGroupsHighestLevel 1
+GetHighestLevel -1
+IncreaseLevel -1 91
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 0
+AddPlayer 75 -1 38
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 0
+ReplaceGroup -1 0
+GetAllPlayersByLevel 0
+ReplaceGroup 3 4
+RemovePlayer 49
+GetHighestLevel 5
+AddPlayer 61 3 48
+AddGroup 4
+GetHighestLevel 4
+GetGroupsHighestLevel -1
+AddPlayer 42 1 12
+AddGroup 5
+GetGroupsHighestLevel 5
+AddGroup -1
+RemovePlayer 55
+AddGroup 2
+GetGroupsHighestLevel 5
+ReplaceGroup -1 0
+AddPlayer 66 4 3
+RemovePlayer 36
+AddGroup -1
+GetHighestLevel 2
+RemovePlayer 14
+GetHighestLevel 1
+GetGroupsHighestLevel 2
+IncreaseLevel 3 18
+IncreaseLevel 3 84
+ReplaceGroup 0 1
+ReplaceGroup 5 6
+GetHighestLevel 2
+GetAllPlayersByLevel 5
+GetHighestLevel 5
+GetAllPlayersByLevel 0
+GetHighestLevel 2
+GetGroupsHighestLevel -1
+IncreaseLevel 4 14
+RemovePlayer 30
+GetHighestLevel -1
+RemovePlayer 74
+IncreaseLevel 4 23
+ReplaceGroup 0 1
+AddGroup 1
+GetHighestLevel 3
+GetAllPlayersByLevel 0
+AddGroup 0
+AddPlayer 20 -1 29
+IncreaseLevel 0 35
+ReplaceGroup 0 1
+AddPlayer 66 1 42
+RemovePlayer 33
+GetAllPlayersByLevel 1
+AddGroup -1
+RemovePlayer 51
+GetHighestLevel -1
+GetAllPlayersByLevel 5
+GetHighestLevel 5
+GetGroupsHighestLevel 5
+GetHighestLevel 5
+RemovePlayer 78
+RemovePlayer 86
+RemovePlayer 74
+GetAllPlayersByLevel 5
+RemovePlayer 42
+AddPlayer 93 5 49
+GetGroupsHighestLevel 3
+RemovePlayer 31
+GetHighestLevel 0
+GetGroupsHighestLevel 4
+AddGroup 3
+RemovePlayer 69
+GetHighestLevel 0
+ReplaceGroup 1 2
+IncreaseLevel 2 87
+RemovePlayer 96
+AddGroup 0
+AddPlayer 43 1 22
+RemovePlayer 81
+AddPlayer 53 0 12
+RemovePlayer 56
+AddGroup -1
+IncreaseLevel 4 8
+IncreaseLevel 5 82
+AddGroup 0
+GetAllPlayersByLevel 1
+AddPlayer 19 4 39
+AddGroup 0
+GetGroupsHighestLevel 5
+ReplaceGroup 2 3
+ReplaceGroup -1 0
+AddPlayer 16 5 36
+IncreaseLevel 5 89
+GetAllPlayersByLevel 1
+ReplaceGroup -1 0
+RemovePlayer 65
+AddGroup 2
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 1
+RemovePlayer 69
+AddPlayer 77 0 42
+ReplaceGroup 0 1
+IncreaseLevel -1 65
+GetGroupsHighestLevel 4
+GetHighestLevel 3
+ReplaceGroup 1 2
+ReplaceGroup -1 0
+AddGroup 5
+AddPlayer 26 3 5
+GetGroupsHighestLevel 4
+GetHighestLevel 3
+GetHighestLevel -1
+GetAllPlayersByLevel -1
+GetHighestLevel 4
+GetHighestLevel 5
+GetHighestLevel 1
+AddGroup 5
+RemovePlayer 18
+ReplaceGroup 4 5
+GetHighestLevel 1
+AddGroup 0
+IncreaseLevel 4 10
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 0
+GetHighestLevel -1
+RemovePlayer 36
+GetAllPlayersByLevel 2
+AddGroup 2
+ReplaceGroup 3 4
+RemovePlayer 52
+RemovePlayer 77
+RemovePlayer 38
+GetAllPlayersByLevel 4
+GetHighestLevel -1
+IncreaseLevel 1 3
+GetGroupsHighestLevel 3
+ReplaceGroup 1 2
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 2
+IncreaseLevel 0 79
+RemovePlayer 33
+AddPlayer 54 0 31
+AddPlayer 33 0 16
+GetAllPlayersByLevel 3
+AddGroup 1
+AddGroup 2
+GetHighestLevel 1
+GetGroupsHighestLevel 3
+AddGroup 4
+RemovePlayer 16
+AddGroup 2
+AddPlayer 80 5 39
+ReplaceGroup 0 1
+IncreaseLevel 1 18
+GetHighestLevel 3
+IncreaseLevel 2 81
+AddPlayer 100 1 13
+IncreaseLevel -1 10
+AddGroup 4
+IncreaseLevel 3 82
+AddGroup 3
+GetGroupsHighestLevel 3
+AddGroup 0
+IncreaseLevel 3 75
+AddGroup 0
+GetGroupsHighestLevel 4
+AddGroup 4
+ReplaceGroup 0 1
+AddPlayer 36 0 37
+ReplaceGroup 0 1
+AddGroup 2
+AddPlayer -1 5 -1
+AddGroup 4
+IncreaseLevel 5 66
+AddPlayer 66 1 15
+GetHighestLevel 4
+RemovePlayer 74
+GetGroupsHighestLevel 0
+GetHighestLevel 1
+GetHighestLevel 1
+AddGroup 4
+AddPlayer 42 5 46
+GetAllPlayersByLevel -1
+GetHighestLevel 1
+IncreaseLevel 5 62
+IncreaseLevel 4 35
+ReplaceGroup 3 4
+AddPlayer 5 3 3
+GetAllPlayersByLevel 1
+GetHighestLevel 0
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 5
+ReplaceGroup 0 1
+AddPlayer 93 3 26
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 3
+RemovePlayer -1
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel 3
+AddGroup 3
+ReplaceGroup 5 6
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 2
+AddGroup 2
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 2
+IncreaseLevel 5 48
+AddPlayer 5 2 31
+GetHighestLevel 4
+AddGroup -1
+AddPlayer 21 5 2
+GetHighestLevel 0
+IncreaseLevel 2 2
+AddPlayer 23 3 26
+AddGroup -1
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 2
+AddPlayer 45 -1 19
+AddPlayer 93 1 10
+IncreaseLevel 5 19
+AddGroup 0
+GetGroupsHighestLevel -1
+GetHighestLevel 5
+RemovePlayer 26
+GetHighestLevel 2
+IncreaseLevel 1 11
+AddPlayer 24 5 12
+AddGroup 3
+GetAllPlayersByLevel 5
+AddPlayer 60 2 43
+IncreaseLevel 1 24
+AddGroup 2
+ReplaceGroup 2 3
+RemovePlayer 24
+RemovePlayer 14
+AddPlayer 89 0 22
+AddPlayer 2 5 0
+AddGroup 2
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel -1
+AddPlayer 84 2 1
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel 0
+RemovePlayer 66
+IncreaseLevel 2 46
+IncreaseLevel 4 1
+AddGroup 2
+GetGroupsHighestLevel 1
+RemovePlayer 2
+AddGroup -1
+GetAllPlayersByLevel -1
+AddPlayer 16 4 -1
+RemovePlayer 21
+ReplaceGroup 0 1
+AddGroup 1
+GetGroupsHighestLevel 5
+AddGroup -1
+ReplaceGroup 0 1
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 5
+AddPlayer 53 0 11
+AddPlayer 35 5 41
+AddPlayer 32 1 0
+ReplaceGroup 5 6
+GetGroupsHighestLevel -1
+AddGroup -1
+GetHighestLevel -1
+ReplaceGroup 1 2
+IncreaseLevel -1 25
+ReplaceGroup 3 4
+GetAllPlayersByLevel 0
+AddPlayer 88 0 23
+RemovePlayer 67
+IncreaseLevel 2 46
+IncreaseLevel 1 -1
+AddPlayer 79 0 1
+GetGroupsHighestLevel 0
+AddGroup 4
+GetHighestLevel 2
+IncreaseLevel 5 48
+RemovePlayer 22
+RemovePlayer 49
+AddPlayer 54 4 28
+RemovePlayer 89
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 2
+IncreaseLevel 1 38
+ReplaceGroup 0 1
+GetHighestLevel 3
+AddPlayer 5 0 32
+GetHighestLevel 2
+AddPlayer 17 5 0
+GetHighestLevel 1
+ReplaceGroup -1 0
+GetHighestLevel 4
+ReplaceGroup 2 3
+GetHighestLevel 5
+AddGroup 4
+ReplaceGroup 4 5
+GetHighestLevel 5
+RemovePlayer 19
+AddGroup 3
+IncreaseLevel 2 29
+GetHighestLevel 3
+AddGroup 2
+RemovePlayer 47
+GetHighestLevel -1
+AddPlayer 12 2 14
+AddPlayer 15 5 44
+RemovePlayer 3
+GetGroupsHighestLevel 3
+GetHighestLevel 1
+ReplaceGroup 4 5
+RemovePlayer 32
+GetHighestLevel -1
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 1
+ReplaceGroup 3 4
+IncreaseLevel 4 20
+RemovePlayer 20
+GetGroupsHighestLevel -1
+AddPlayer 45 4 47
+ReplaceGroup -1 0
+ReplaceGroup 3 4
+AddPlayer 95 5 38
+AddGroup 4
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 4
+ReplaceGroup 5 6
+GetHighestLevel 1
+GetAllPlayersByLevel -1
+AddGroup 1
+GetAllPlayersByLevel 1
+IncreaseLevel 1 57
+AddGroup 2
+AddGroup 0
+GetAllPlayersByLevel 0
+IncreaseLevel 2 91
+GetGroupsHighestLevel 0
+IncreaseLevel 4 11
+ReplaceGroup 1 2
+GetGroupsHighestLevel 0
+GetHighestLevel 2
+ReplaceGroup 0 1
+GetHighestLevel 2
+ReplaceGroup 4 5
+RemovePlayer 43
+AddGroup 1
+GetHighestLevel 1
+ReplaceGroup 1 2
+RemovePlayer 39
+GetAllPlayersByLevel 1
+AddPlayer 65 4 42
+RemovePlayer 31
+GetAllPlayersByLevel 1
+AddGroup 3
+GetAllPlayersByLevel 2
+AddGroup -1
+GetHighestLevel 2
+IncreaseLevel 1 2
+IncreaseLevel 0 47
+IncreaseLevel 2 3
+GetGroupsHighestLevel 1
+AddPlayer 61 4 27
+ReplaceGroup 5 6
+GetGroupsHighestLevel -1
+AddGroup 0
+GetHighestLevel 5
+GetAllPlayersByLevel 4
+GetHighestLevel 2
+RemovePlayer 83
+AddGroup 2
+IncreaseLevel 2 58
+RemovePlayer 79
+AddGroup 2
+AddPlayer 46 4 31
+ReplaceGroup -1 0
+GetHighestLevel 0
+AddGroup -1
+AddGroup 2
+ReplaceGroup 0 1
+GetHighestLevel 1
+IncreaseLevel 4 45
+AddPlayer 87 1 8
+GetHighestLevel 3
+AddGroup 0
+GetGroupsHighestLevel -1
+GetHighestLevel 5
+AddGroup -1
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 0
+AddGroup 1
+GetAllPlayersByLevel 5
+AddGroup 0
+IncreaseLevel -1 75
+GetHighestLevel 0
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel -1
+RemovePlayer 47
+RemovePlayer 28
+RemovePlayer 50
+GetAllPlayersByLevel 0
+RemovePlayer 53
+AddPlayer 2 5 11
+RemovePlayer 57
+RemovePlayer 85
+GetHighestLevel 4
+ReplaceGroup 3 4
+IncreaseLevel -1 35
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 2
+AddPlayer 29 5 14
+AddGroup 3
+GetHighestLevel -1
+IncreaseLevel 5 42
+AddGroup 2
+AddPlayer 48 4 2
+AddPlayer 64 1 26
+IncreaseLevel 5 84
+AddGroup 4
+ReplaceGroup 4 5
+AddPlayer 91 1 24
+GetAllPlayersByLevel 5
+AddPlayer 80 0 16
+AddPlayer 39 1 39
+GetAllPlayersByLevel 2
+RemovePlayer 6
+IncreaseLevel 2 16
+GetHighestLevel 3
+GetHighestLevel 5
+GetHighestLevel 1
+ReplaceGroup -1 0
+IncreaseLevel 5 62
+GetGroupsHighestLevel 3
+IncreaseLevel 5 13
+AddPlayer 94 5 8
+GetAllPlayersByLevel 2
+ReplaceGroup 3 4
+RemovePlayer 90
+GetHighestLevel 5
+GetHighestLevel 3
+IncreaseLevel -1 15
+IncreaseLevel 1 37
+IncreaseLevel -1 56
+ReplaceGroup 1 2
+GetAllPlayersByLevel 4
+AddPlayer 93 0 46
+RemovePlayer 97
+ReplaceGroup 3 4
+AddPlayer 48 4 34
+AddGroup -1
+ReplaceGroup 3 4
+RemovePlayer 95
+GetAllPlayersByLevel 2
+AddPlayer 5 4 43
+GetGroupsHighestLevel 3
+RemovePlayer 27
+GetGroupsHighestLevel 0
+AddGroup 1
+ReplaceGroup 2 3
+GetGroupsHighestLevel 5
+IncreaseLevel -1 94
+IncreaseLevel 0 67
+ReplaceGroup 3 4
+AddPlayer 75 5 42
+RemovePlayer 37
+GetAllPlayersByLevel 5
+GetHighestLevel 4
+IncreaseLevel 3 41
+IncreaseLevel 0 60
+GetAllPlayersByLevel 1
+AddPlayer 100 2 5
+RemovePlayer 66
+AddPlayer 76 0 23
+GetAllPlayersByLevel 0
+GetHighestLevel -1
+IncreaseLevel 1 22
+IncreaseLevel -1 78
+GetHighestLevel 4
+GetGroupsHighestLevel 0
+RemovePlayer 50
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel -1
+AddPlayer 50 4 22
+GetGroupsHighestLevel 5
+AddGroup 0
+IncreaseLevel 4 33
+GetAllPlayersByLevel -1
+RemovePlayer 27
+GetHighestLevel -1
+AddPlayer 13 1 4
+IncreaseLevel 4 19
+IncreaseLevel 3 0
+AddGroup 5
+IncreaseLevel -1 29
+GetHighestLevel 5
+AddPlayer 60 5 35
+RemovePlayer 25
+IncreaseLevel 0 71
+IncreaseLevel 4 3
+AddPlayer 48 2 14
+GetHighestLevel 3
+RemovePlayer 60
+RemovePlayer 12
+RemovePlayer 89
+IncreaseLevel 3 54
+ReplaceGroup 3 4
+IncreaseLevel 5 1
+RemovePlayer 85
+GetAllPlayersByLevel 4
+ReplaceGroup 4 5
+AddGroup 0
+ReplaceGroup 4 5
+IncreaseLevel 2 2
+GetGroupsHighestLevel 5
+GetHighestLevel 4
+GetHighestLevel 3
+ReplaceGroup -1 0
+AddGroup 0
+AddPlayer 1 0 15
+RemovePlayer 45
+IncreaseLevel 4 36
+GetHighestLevel 3
+AddPlayer 10 4 0
+AddGroup 4
+AddPlayer 85 2 9
+AddPlayer 64 2 50
+GetAllPlayersByLevel 0
+AddPlayer 32 -1 22
+RemovePlayer 55
+GetAllPlayersByLevel 1
+IncreaseLevel 0 57
+ReplaceGroup 2 3
+GetGroupsHighestLevel 3
+IncreaseLevel 3 25
+GetAllPlayersByLevel -1
+AddPlayer 13 3 50
+GetAllPlayersByLevel 1
+AddGroup -1
+ReplaceGroup 0 1
+ReplaceGroup 4 5
+GetHighestLevel 2
+ReplaceGroup 5 6
+ReplaceGroup 4 5
+AddPlayer 49 4 35
+RemovePlayer 73
+AddGroup 3
+GetGroupsHighestLevel 4
+IncreaseLevel 0 60
+GetGroupsHighestLevel 4
+RemovePlayer 3
+IncreaseLevel 4 23
+AddPlayer 70 -1 1
+RemovePlayer 17
+GetAllPlayersByLevel -1
+RemovePlayer 82
+GetHighestLevel 1
+AddPlayer 61 2 21
+GetAllPlayersByLevel 5
+GetHighestLevel -1
+GetHighestLevel -1
+AddPlayer 50 0 38
+AddPlayer 40 2 31
+GetHighestLevel 0
+ReplaceGroup 1 2
+GetGroupsHighestLevel 2
+ReplaceGroup 1 2
+AddPlayer 86 0 38
+AddGroup 3
+ReplaceGroup 4 5
+ReplaceGroup -1 0
+GetGroupsHighestLevel 5
+IncreaseLevel 1 18
+GetGroupsHighestLevel 3
+RemovePlayer 28
+RemovePlayer 38
+RemovePlayer 9
+GetGroupsHighestLevel 0
+AddGroup 3
+GetHighestLevel 0
+RemovePlayer 78
+RemovePlayer 67
+IncreaseLevel 3 89
+GetAllPlayersByLevel 1
+AddGroup -1
+AddGroup 2
+GetHighestLevel 0
+AddPlayer 0 4 27
+AddGroup 4
+IncreaseLevel 1 34
+GetGroupsHighestLevel 5
+AddGroup 5
+AddPlayer 39 5 17
+GetHighestLevel 2
+AddPlayer 17 3 50
+GetHighestLevel 1
+GetGroupsHighestLevel 4
+AddPlayer 43 2 37
+GetHighestLevel 5
+RemovePlayer 21
+AddGroup 1
+AddPlayer 25 1 48
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 0
+AddPlayer 33 -1 29
+IncreaseLevel 3 18
+GetHighestLevel 5
+ReplaceGroup -1 0
+AddPlayer 37 1 18
+GetHighestLevel 1
+AddGroup -1
+IncreaseLevel 5 62
+AddGroup -1
+RemovePlayer 97
+AddGroup 4
+IncreaseLevel 1 73
+AddGroup 3
+GetHighestLevel 0
+IncreaseLevel 0 37
+GetHighestLevel -1
+AddGroup 4
+GetGroupsHighestLevel 5
+ReplaceGroup 0 1
+RemovePlayer 41
+GetAllPlayersByLevel 4
+RemovePlayer 8
+GetAllPlayersByLevel 1
+IncreaseLevel 3 62
+RemovePlayer 89
+RemovePlayer 29
+IncreaseLevel 4 54
+AddGroup 1
+GetHighestLevel 0
+GetAllPlayersByLevel 3
+ReplaceGroup 4 5
+IncreaseLevel 3 86
+AddPlayer 13 -1 25
+GetAllPlayersByLevel 3
+RemovePlayer 7
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 0
+ReplaceGroup 0 1
+RemovePlayer 8
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel -1
+GetHighestLevel 0
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel -1
+IncreaseLevel 2 57
+AddGroup 4
+IncreaseLevel -1 21
+IncreaseLevel 5 37
+GetHighestLevel 2
+AddPlayer 91 4 36
+AddPlayer 38 1 4
+AddGroup 2
+RemovePlayer 89
+AddGroup 3
+GetGroupsHighestLevel 1
+GetHighestLevel 5
+RemovePlayer 21
+GetHighestLevel 2
+AddPlayer 98 0 3
+GetHighestLevel 3
+GetGroupsHighestLevel 5
+AddPlayer 57 0 17
+IncreaseLevel 2 69
+AddGroup 1
+ReplaceGroup -1 0
+AddGroup 5
+RemovePlayer 12
+IncreaseLevel 0 99
+ReplaceGroup -1 0
+AddGroup 1
+GetAllPlayersByLevel 4
+GetHighestLevel 1
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 5
+AddGroup 5
+AddPlayer 20 5 41
+ReplaceGroup 2 3
+AddPlayer 21 -1 44
+GetHighestLevel 1
+GetGroupsHighestLevel 5
+GetHighestLevel -1
+RemovePlayer 15
+ReplaceGroup -1 0
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 2
+GetHighestLevel 2
+AddGroup 1
+AddPlayer 74 4 11
+ReplaceGroup 0 1
+AddGroup 5
+RemovePlayer 46
+IncreaseLevel 3 9
+RemovePlayer 33
+IncreaseLevel 5 70
+GetAllPlayersByLevel 3
+AddPlayer 58 1 30
+RemovePlayer 65
+RemovePlayer 40
+AddPlayer 61 5 5
+GetAllPlayersByLevel 0
+RemovePlayer 24
+GetAllPlayersByLevel 0
+GetHighestLevel 2
+GetAllPlayersByLevel 2
+GetHighestLevel 5
+GetGroupsHighestLevel -1
+AddPlayer 87 3 38
+GetHighestLevel 5
+RemovePlayer 74
+GetAllPlayersByLevel -1
+IncreaseLevel 5 45
+IncreaseLevel 5 4
+GetGroupsHighestLevel 4
+IncreaseLevel 1 71
+GetAllPlayersByLevel 5
+ReplaceGroup 2 3
+AddGroup 1
+GetAllPlayersByLevel 5
+AddPlayer 12 1 30
+GetHighestLevel 3
+AddPlayer 14 4 37
+RemovePlayer 28
+IncreaseLevel 5 35
+IncreaseLevel 2 5
+IncreaseLevel 2 50
+ReplaceGroup 4 5
+AddGroup 4
+ReplaceGroup 3 4
+GetHighestLevel 2
+GetGroupsHighestLevel 4
+GetHighestLevel 0
+RemovePlayer 51
+IncreaseLevel -1 55
+RemovePlayer 98
+IncreaseLevel 3 34
+ReplaceGroup 5 6
+ReplaceGroup 1 2
+GetGroupsHighestLevel 1
+ReplaceGroup 5 6
+AddGroup 3
+GetHighestLevel 5
+GetHighestLevel 4
+AddGroup 2
+AddGroup 3
+ReplaceGroup 4 5
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 1
+AddPlayer 64 3 11
+GetHighestLevel 5
+AddGroup -1
+ReplaceGroup 5 6
+AddPlayer 73 4 24
+AddPlayer 52 5 38
+GetGroupsHighestLevel 4
+RemovePlayer 24
+AddGroup 4
+AddPlayer 72 4 9
+RemovePlayer 15
+GetAllPlayersByLevel 2
+IncreaseLevel 3 95
+GetGroupsHighestLevel -1
+IncreaseLevel -1 7
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel -1
+AddPlayer 86 2 47
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 0
+AddGroup 5
+GetHighestLevel 1
+RemovePlayer 17
+GetHighestLevel 1
+GetAllPlayersByLevel 0
+RemovePlayer 19
+GetGroupsHighestLevel 1
+ReplaceGroup 2 3
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 2
+AddPlayer 83 1 30
+GetAllPlayersByLevel 2
+RemovePlayer 30
+GetGroupsHighestLevel 5
+AddGroup 5
+AddGroup 2
+GetAllPlayersByLevel 4
+AddGroup 3
+AddPlayer 6 0 15
+ReplaceGroup 2 3
+RemovePlayer 91
+RemovePlayer 91
+GetHighestLevel 5
+ReplaceGroup -1 0
+IncreaseLevel 3 41
+GetHighestLevel 1
+IncreaseLevel 3 25
+IncreaseLevel 2 71
+GetHighestLevel 3
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 4
+AddGroup 5
+GetAllPlayersByLevel 3
+RemovePlayer 71
+GetAllPlayersByLevel 5
+RemovePlayer 45
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 3
+ReplaceGroup 1 2
+RemovePlayer 68
+IncreaseLevel 3 92
+GetHighestLevel -1
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel -1
+AddPlayer 4 0 17
+GetAllPlayersByLevel -1
+IncreaseLevel 1 63
+GetAllPlayersByLevel 5
+AddGroup 2
+AddPlayer 62 -1 34
+GetAllPlayersByLevel 2
+GetHighestLevel 2
+IncreaseLevel 0 31
+ReplaceGroup 5 6
+AddPlayer 87 0 11
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 0
+AddGroup 3
+GetAllPlayersByLevel 5
+ReplaceGroup 5 6
+RemovePlayer 32
+AddGroup 1
+IncreaseLevel 1 28
+ReplaceGroup 4 5
+RemovePlayer 42
+AddPlayer 4 5 20
+AddPlayer 19 0 0
+IncreaseLevel 1 13
+RemovePlayer 46
+RemovePlayer 13
+AddPlayer 35 5 30
+IncreaseLevel 2 31
+IncreaseLevel 3 99
+IncreaseLevel 1 18
+RemovePlayer 21
+GetGroupsHighestLevel -1
+AddGroup 2
+GetAllPlayersByLevel 3
+RemovePlayer 47
+IncreaseLevel 5 89
+GetHighestLevel -1
+ReplaceGroup 3 4
+ReplaceGroup 5 6
+RemovePlayer 44
+GetHighestLevel 4
+RemovePlayer 84
+IncreaseLevel 4 -1
+AddGroup 2
+AddGroup 0
+AddGroup 2
+ReplaceGroup 5 6
+IncreaseLevel 1 90
+AddPlayer 53 -1 36
+RemovePlayer 45
+GetHighestLevel 0
+AddPlayer 98 3 11
+IncreaseLevel 1 31
+IncreaseLevel 5 84
+ReplaceGroup -1 0
+RemovePlayer 92
+GetAllPlayersByLevel 3
+ReplaceGroup 4 5
+AddGroup 3
+RemovePlayer 49
+IncreaseLevel 2 73
+GetAllPlayersByLevel 1
+AddGroup 0
+RemovePlayer 57
+GetHighestLevel 1
+ReplaceGroup 0 1
+GetHighestLevel 0
+ReplaceGroup 3 4
+GetHighestLevel 3
+GetAllPlayersByLevel 2
+AddGroup -1
+AddGroup 1
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 4
+RemovePlayer 97
+AddPlayer 44 5 27
+GetAllPlayersByLevel -1
+ReplaceGroup 5 6
+AddPlayer 69 1 44
+GetGroupsHighestLevel 0
+AddGroup 0
+GetAllPlayersByLevel 2
+AddGroup 3
+ReplaceGroup 0 1
+ReplaceGroup 5 6
+RemovePlayer 71
+RemovePlayer 56
+IncreaseLevel 2 20
+AddPlayer 96 1 0
+GetAllPlayersByLevel 3
+AddPlayer 21 1 27
+RemovePlayer 91
+GetHighestLevel 4
+RemovePlayer 85
+AddGroup 4
+GetAllPlayersByLevel 4
+AddGroup 5
+AddGroup 3
+GetHighestLevel 1
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 3
+ReplaceGroup 2 3
+AddPlayer 74 -1 15
+AddPlayer 66 -1 18
+AddPlayer 83 4 32
+GetHighestLevel 2
+AddGroup 2
+AddPlayer 56 5 -1
+GetGroupsHighestLevel 2
+AddPlayer 9 0 48
+IncreaseLevel 3 11
+ReplaceGroup 5 6
+GetHighestLevel 0
+AddGroup 2
+RemovePlayer 7
+AddPlayer 85 1 17
+AddGroup 1
+IncreaseLevel 1 25
+GetHighestLevel 2
+AddPlayer 26 4 46
+IncreaseLevel 5 98
+ReplaceGroup 4 5
+RemovePlayer 48
+AddPlayer 39 1 25
+AddGroup -1
+RemovePlayer 46
+RemovePlayer 8
+GetHighestLevel -1
+GetHighestLevel 4
+AddPlayer 58 5 23
+GetHighestLevel 4
+AddGroup 0
+AddGroup 3
+GetHighestLevel 3
+GetHighestLevel 0
+GetGroupsHighestLevel 2
+RemovePlayer 1
+GetAllPlayersByLevel 0
+RemovePlayer 15
+GetGroupsHighestLevel 2
+IncreaseLevel 3 51
+AddGroup 2
+RemovePlayer 3
+GetAllPlayersByLevel 4
+ReplaceGroup -1 0
+GetAllPlayersByLevel 2
+IncreaseLevel 4 20
+ReplaceGroup 1 2
+GetHighestLevel 3
+GetGroupsHighestLevel 3
+AddPlayer 21 4 -1
+GetAllPlayersByLevel 4
+IncreaseLevel 5 100
+GetAllPlayersByLevel 3
+AddPlayer 35 2 7
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 4
+RemovePlayer 28
+AddPlayer 48 0 29
+ReplaceGroup 3 4
+RemovePlayer 88
+ReplaceGroup 0 1
+GetAllPlayersByLevel -1
+RemovePlayer 80
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel -1
+AddGroup 5
+GetGroupsHighestLevel 5
+ReplaceGroup 0 1
+GetGroupsHighestLevel 3
+IncreaseLevel 3 92
+GetHighestLevel 0
+IncreaseLevel 2 19
+AddGroup 5
+RemovePlayer 1
+GetGroupsHighestLevel 3
+GetHighestLevel 1
+ReplaceGroup 5 6
+RemovePlayer 57
+IncreaseLevel 2 35
+RemovePlayer 53
+GetAllPlayersByLevel 4
+RemovePlayer 30
+AddPlayer 78 -1 5
+AddGroup 4
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 0
+AddGroup 4
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 0
+GetHighestLevel 3
+AddGroup 3
+ReplaceGroup 4 5
+IncreaseLevel 2 30
+GetHighestLevel 3
+IncreaseLevel 4 9
+GetHighestLevel 0
+AddGroup 1
+IncreaseLevel 2 92
+RemovePlayer 90
+IncreaseLevel 5 51
+RemovePlayer -1
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 4
+AddPlayer 44 2 36
+GetGroupsHighestLevel 2
+RemovePlayer 0
+RemovePlayer 84
+AddGroup 3
+ReplaceGroup -1 0
+AddPlayer 81 5 44
+GetHighestLevel 0
+AddGroup 0
+RemovePlayer 28
+RemovePlayer 79
+IncreaseLevel 5 7
+RemovePlayer 2
+RemovePlayer 26
+ReplaceGroup 4 5
+GetHighestLevel 2
+GetGroupsHighestLevel 5
+ReplaceGroup -1 0
+ReplaceGroup 0 1
+RemovePlayer 44
+GetGroupsHighestLevel 2
+AddPlayer 26 4 28
+AddPlayer 98 3 32
+GetHighestLevel 2
+GetGroupsHighestLevel 2
+AddPlayer 43 4 21
+GetHighestLevel -1
+AddPlayer 49 4 3
+IncreaseLevel -1 57
+AddPlayer 80 5 14
+GetGroupsHighestLevel 2
+AddPlayer 53 3 34
+IncreaseLevel 3 83
+AddPlayer 16 3 0
+GetHighestLevel 4
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 4
+GetHighestLevel 4
+RemovePlayer 16
+AddGroup 5
+RemovePlayer 41
+RemovePlayer 35
+GetAllPlayersByLevel 4
+IncreaseLevel 1 50
+AddPlayer 50 4 33
+AddPlayer 33 4 39
+GetAllPlayersByLevel 3
+AddGroup 2
+GetGroupsHighestLevel 2
+ReplaceGroup 1 2
+GetHighestLevel 3
+GetHighestLevel 5
+AddPlayer 54 2 39
+GetAllPlayersByLevel 2
+RemovePlayer 50
+AddPlayer 14 4 37
+RemovePlayer 62
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 5
+AddPlayer 96 5 25
+RemovePlayer 56
+GetAllPlayersByLevel 5
+IncreaseLevel 3 80
+ReplaceGroup 1 2
+IncreaseLevel 5 81
+RemovePlayer 84
+IncreaseLevel 2 30
+AddGroup -1
+IncreaseLevel 2 76
+IncreaseLevel -1 78
+ReplaceGroup 1 2
+GetGroupsHighestLevel 5
+AddPlayer 66 4 9
+GetGroupsHighestLevel 3
+AddGroup -1
+ReplaceGroup 3 4
+AddPlayer 93 4 49
+ReplaceGroup 5 6
+AddPlayer 82 -1 2
+GetHighestLevel -1
+ReplaceGroup 2 3
+ReplaceGroup 0 1
+GetAllPlayersByLevel 4
+AddGroup 0
+AddPlayer 21 3 26
+GetGroupsHighestLevel 0
+GetHighestLevel 5
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 1
+IncreaseLevel -1 59
+AddPlayer 88 5 24
+AddGroup 5
+AddGroup -1
+IncreaseLevel 2 72
+AddPlayer 72 1 32
+GetGroupsHighestLevel 3
+ReplaceGroup 1 2
+AddGroup -1
+GetAllPlayersByLevel 1
+AddGroup -1
+GetAllPlayersByLevel -1
+AddGroup 2
+RemovePlayer 91
+GetAllPlayersByLevel 4
+RemovePlayer 53
+IncreaseLevel 1 86
+AddPlayer 1 5 1
+ReplaceGroup 4 5
+IncreaseLevel 1 48
+RemovePlayer 7
+IncreaseLevel -1 78
+IncreaseLevel 4 43
+RemovePlayer 4
+GetGroupsHighestLevel 3
+ReplaceGroup 2 3
+RemovePlayer 100
+GetGroupsHighestLevel 2
+AddPlayer 5 0 27
+GetHighestLevel 5
+AddGroup 0
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 1
+RemovePlayer 53
+GetGroupsHighestLevel -1
+RemovePlayer 46
+ReplaceGroup -1 0
+GetAllPlayersByLevel 1
+AddPlayer 15 3 5
+IncreaseLevel 4 32
+IncreaseLevel 1 18
+GetAllPlayersByLevel 1
+AddGroup -1
+AddGroup 3
+IncreaseLevel 5 87
+ReplaceGroup 1 2
+IncreaseLevel 4 92
+GetAllPlayersByLevel 3
+IncreaseLevel 3 25
+GetAllPlayersByLevel 2
+RemovePlayer 4
+RemovePlayer 53
+AddPlayer 28 4 9
+IncreaseLevel -1 17
+IncreaseLevel -1 55
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 1
+ReplaceGroup 4 5
+AddPlayer 9 5 3
+GetGroupsHighestLevel -1
+RemovePlayer 83
+GetAllPlayersByLevel 3
+IncreaseLevel 0 32
+AddPlayer 52 5 34
+GetHighestLevel 3
+AddPlayer 26 5 9
+GetAllPlayersByLevel 2
+RemovePlayer 3
+GetGroupsHighestLevel -1
+IncreaseLevel 4 82
+IncreaseLevel 1 20
+GetHighestLevel 3
+AddGroup 1
+GetAllPlayersByLevel 1
+RemovePlayer 30
+IncreaseLevel 0 60
+RemovePlayer 88
+AddPlayer 52 2 29
+AddGroup 1
+RemovePlayer 35
+AddGroup 5
+AddGroup 1
+AddPlayer 42 4 43
+IncreaseLevel 5 84
+ReplaceGroup 1 2
+IncreaseLevel 2 46
+GetHighestLevel 3
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 1
+AddGroup 2
+ReplaceGroup 2 3
+GetHighestLevel 1
+ReplaceGroup 2 3
+RemovePlayer 52
+ReplaceGroup 1 2
+AddGroup 5
+GetHighestLevel -1
+AddGroup 3
+GetHighestLevel 5
+IncreaseLevel 4 92
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 1
+IncreaseLevel 0 62
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel -1
+ReplaceGroup 5 6
+GetGroupsHighestLevel 4
+ReplaceGroup -1 0
+AddPlayer -1 2 35
+ReplaceGroup 4 5
+AddPlayer 86 4 19
+AddGroup 4
+GetAllPlayersByLevel 0
+AddPlayer 51 1 35
+RemovePlayer -1
+GetHighestLevel -1
+GetHighestLevel 2
+GetGroupsHighestLevel 2
+GetHighestLevel 3
+GetGroupsHighestLevel 5
+AddGroup -1
+GetHighestLevel 3
+AddPlayer 52 1 2
+AddPlayer 36 -1 49
+GetHighestLevel 5
+GetAllPlayersByLevel 2
+GetHighestLevel 4
+AddPlayer 99 3 41
+GetHighestLevel 4
+ReplaceGroup 4 5
+GetAllPlayersByLevel 0
+RemovePlayer 63
+AddGroup 4
+RemovePlayer 12
+ReplaceGroup 2 3
+AddGroup 4
+GetAllPlayersByLevel 4
+AddPlayer 44 2 13
+IncreaseLevel 0 90
+ReplaceGroup 0 1
+IncreaseLevel 3 49
+ReplaceGroup 1 2
+ReplaceGroup -1 0
+RemovePlayer 73
+GetGroupsHighestLevel 2
+GetHighestLevel 1
+GetGroupsHighestLevel 5
+AddPlayer 54 3 29
+GetAllPlayersByLevel 2
+IncreaseLevel 2 21
+AddGroup 1
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 4
+AddPlayer 4 4 34
+RemovePlayer 22
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 4
+ReplaceGroup 1 2
+IncreaseLevel 0 74
+RemovePlayer 32
+GetHighestLevel 5
+ReplaceGroup 3 4
+ReplaceGroup 5 6
+AddPlayer 84 3 11
+AddPlayer 91 1 43
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel -1
+GetHighestLevel 5
+GetHighestLevel 2
+AddGroup 3
+AddPlayer 71 3 9
+RemovePlayer 5
+GetHighestLevel 2
+GetAllPlayersByLevel -1
+RemovePlayer 11
+GetGroupsHighestLevel 5
+GetHighestLevel 4
+GetHighestLevel 2
+GetAllPlayersByLevel 3
+IncreaseLevel 2 57
+ReplaceGroup 3 4
+ReplaceGroup 3 4
+RemovePlayer 16
+GetAllPlayersByLevel 4
+ReplaceGroup 5 6
+GetAllPlayersByLevel 2
+ReplaceGroup 0 1
+IncreaseLevel 3 2
+GetHighestLevel 5
+IncreaseLevel 3 7
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel -1
+IncreaseLevel 5 29
+ReplaceGroup 1 2
+AddPlayer 55 -1 10
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel -1
+GetHighestLevel -1
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 0
+ReplaceGroup 3 4
+GetGroupsHighestLevel 1
+AddPlayer 62 4 14
+GetAllPlayersByLevel 4
+ReplaceGroup 1 2
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 2
+RemovePlayer 28
+AddGroup 1
+ReplaceGroup -1 0
+AddPlayer 76 0 15
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 0
+AddGroup 4
+IncreaseLevel 3 4
+IncreaseLevel 4 54
+AddPlayer 52 4 22
+AddPlayer 79 1 27
+AddGroup 2
+ReplaceGroup -1 0
+GetGroupsHighestLevel 5
+AddPlayer 82 2 40
+AddGroup 4
+GetGroupsHighestLevel 5
+IncreaseLevel 4 63
+GetHighestLevel -1
+GetHighestLevel -1
+AddGroup 0
+GetAllPlayersByLevel -1
+RemovePlayer 4
+IncreaseLevel 3 64
+GetGroupsHighestLevel 4
+AddGroup 2
+GetHighestLevel 5
+GetGroupsHighestLevel -1
+GetHighestLevel 2
+RemovePlayer 2
+AddPlayer 10 1 14
+IncreaseLevel 2 58
+IncreaseLevel 2 58
+IncreaseLevel 0 95
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 1
+IncreaseLevel -1 18
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 3
+ReplaceGroup 4 5
+ReplaceGroup 2 3
+AddPlayer 89 5 44
+GetAllPlayersByLevel 4
+GetHighestLevel 2
+IncreaseLevel 5 99
+RemovePlayer 85
+GetAllPlayersByLevel 2
+RemovePlayer 16
+GetAllPlayersByLevel -1
+AddPlayer 18 2 30
+GetAllPlayersByLevel 3
+AddPlayer 34 5 11
+GetHighestLevel 4
+AddPlayer 38 -1 36
+GetAllPlayersByLevel -1
+IncreaseLevel 3 24
+ReplaceGroup -1 0
+AddPlayer 58 -1 2
+GetAllPlayersByLevel 5
+AddGroup 3
+AddGroup 3
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 3
+RemovePlayer 18
+AddGroup 1
+AddGroup 1
+ReplaceGroup -1 0
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 3
+AddPlayer -1 5 15
+IncreaseLevel 3 24
+GetAllPlayersByLevel 3
+AddPlayer 17 5 31
+AddGroup 4
+GetGroupsHighestLevel -1
+RemovePlayer 18
+IncreaseLevel 4 34
+IncreaseLevel 3 73
+GetGroupsHighestLevel 1
+ReplaceGroup -1 0
+AddGroup 2
+GetGroupsHighestLevel 0
+AddPlayer 45 5 3
+ReplaceGroup -1 0
+GetAllPlayersByLevel 3
+RemovePlayer 31
+IncreaseLevel 5 1
+AddGroup 0
+GetGroupsHighestLevel 3
+AddGroup 0
+ReplaceGroup 5 6
+RemovePlayer 71
+GetGroupsHighestLevel -1
+AddGroup 1
+AddPlayer 54 3 41
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 3
+RemovePlayer 1
+GetGroupsHighestLevel 5
+IncreaseLevel 4 9
+ReplaceGroup 0 1
+AddGroup 4
+GetHighestLevel 0
+GetHighestLevel 0
+IncreaseLevel 3 64
+RemovePlayer 10
+RemovePlayer 94
+RemovePlayer 90
+ReplaceGroup 3 4
+GetHighestLevel 5
+GetAllPlayersByLevel 2
+ReplaceGroup 4 5
+RemovePlayer 38
+AddGroup 5
+IncreaseLevel -1 37
+AddGroup 1
+GetGroupsHighestLevel 0
+IncreaseLevel 4 27
+GetGroupsHighestLevel -1
+IncreaseLevel 4 27
+GetGroupsHighestLevel 2
+AddPlayer 18 0 22
+AddGroup -1
+IncreaseLevel 3 95
+ReplaceGroup -1 0
+IncreaseLevel 2 96
+IncreaseLevel 2 83
+GetHighestLevel -1
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel 0
+ReplaceGroup 3 4
+RemovePlayer 17
+IncreaseLevel 0 9
+GetAllPlayersByLevel -1
+IncreaseLevel -1 77
+IncreaseLevel 5 20
+IncreaseLevel 2 51
+AddGroup 4
+GetGroupsHighestLevel 4
+GetHighestLevel 1
+GetAllPlayersByLevel 5
+ReplaceGroup 5 6
+GetAllPlayersByLevel 0
+AddPlayer 53 2 30
+AddPlayer 56 3 41
+AddGroup 3
+ReplaceGroup 0 1
+GetHighestLevel -1
+RemovePlayer 6
+GetHighestLevel 0
+ReplaceGroup 0 1
+RemovePlayer 62
+ReplaceGroup 1 2
+GetHighestLevel -1
+IncreaseLevel 5 32
+RemovePlayer 21
+AddPlayer 71 4 22
+GetGroupsHighestLevel 5
+AddGroup 4
+RemovePlayer 6
+AddPlayer 82 4 37
+GetAllPlayersByLevel 5
+IncreaseLevel -1 11
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 3
+ReplaceGroup 3 4
+GetAllPlayersByLevel 1
+AddGroup 0
+GetHighestLevel 0
+AddGroup 1
+RemovePlayer 65
+AddGroup 1
+AddPlayer 27 4 3
+AddPlayer 89 2 3
+IncreaseLevel 2 67
+GetAllPlayersByLevel 2
+GetHighestLevel -1
+RemovePlayer 31
+GetHighestLevel 4
+GetGroupsHighestLevel 4
+AddPlayer 82 3 25
+GetAllPlayersByLevel 5
+ReplaceGroup 2 3
+GetHighestLevel 3
+GetHighestLevel 0
+ReplaceGroup 5 6
+RemovePlayer 28
+RemovePlayer 39
+ReplaceGroup 0 1
+GetGroupsHighestLevel 1
+ReplaceGroup -1 0
+IncreaseLevel 5 80
+GetGroupsHighestLevel 3
+RemovePlayer 39
+GetAllPlayersByLevel 3
+AddGroup 4
+GetGroupsHighestLevel -1
+AddPlayer 4 0 14
+IncreaseLevel 0 10
+GetHighestLevel 2
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 4
+AddPlayer 73 4 7
+GetGroupsHighestLevel 3
+ReplaceGroup 3 4
+GetGroupsHighestLevel 2
+RemovePlayer 44
+GetAllPlayersByLevel 5
+RemovePlayer 54
+ReplaceGroup -1 0
+RemovePlayer 25
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel 3
+IncreaseLevel -1 48
+IncreaseLevel -1 87
+GetHighestLevel 0
+GetHighestLevel 0
+IncreaseLevel 1 96
+GetHighestLevel 2
+GetHighestLevel 3
+GetHighestLevel 5
+AddGroup 5
+AddPlayer 57 0 3
+GetHighestLevel 0
+AddGroup 2
+RemovePlayer 5
+ReplaceGroup 1 2
+GetHighestLevel 3
+ReplaceGroup 4 5
+ReplaceGroup -1 0
+ReplaceGroup 4 5
+AddGroup 1
+AddGroup 4
+GetAllPlayersByLevel 4
+AddGroup 1
+AddGroup 4
+AddPlayer 88 4 7
+IncreaseLevel 4 100
+AddPlayer 53 4 45
+AddPlayer 51 4 6
+RemovePlayer 95
+AddPlayer 6 2 35
+AddGroup 4
+GetGroupsHighestLevel 2
+IncreaseLevel 5 15
+GetHighestLevel 5
+GetGroupsHighestLevel 0
+AddGroup 0
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 1
+AddPlayer 61 2 32
+AddPlayer 67 0 41
+IncreaseLevel 1 8
+RemovePlayer 12
+RemovePlayer 94
+IncreaseLevel 3 66
+GetHighestLevel 1
+AddPlayer 10 0 22
+AddGroup -1
+ReplaceGroup 0 1
+GetHighestLevel 3
+IncreaseLevel 2 90
+AddPlayer 5 -1 17
+AddPlayer 17 1 32
+GetHighestLevel 0
+GetGroupsHighestLevel 0
+AddPlayer 35 3 27
+AddGroup 2
+AddGroup 0
+GetGroupsHighestLevel -1
+AddGroup -1
+GetGroupsHighestLevel 1
+AddGroup 1
+IncreaseLevel 3 7
+RemovePlayer 1
+GetHighestLevel 3
+IncreaseLevel 1 9
+GetHighestLevel 3
+ReplaceGroup 3 4
+IncreaseLevel 1 87
+GetHighestLevel 2
+AddPlayer 53 -1 6
+RemovePlayer 1
+AddPlayer 46 -1 6
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 5
+ReplaceGroup 1 2
+IncreaseLevel -1 97
+AddPlayer 79 4 24
+GetAllPlayersByLevel 5
+RemovePlayer 61
+GetAllPlayersByLevel 1
+AddPlayer 87 2 35
+AddPlayer 69 3 42
+ReplaceGroup 0 1
+AddGroup 2
+ReplaceGroup 0 1
+ReplaceGroup -1 0
+GetGroupsHighestLevel 3
+AddGroup 1
+RemovePlayer 0
+ReplaceGroup 1 2
+AddPlayer 17 0 8
+ReplaceGroup -1 0
+GetHighestLevel 0
+GetHighestLevel 1
+AddPlayer 37 0 9
+GetHighestLevel 0
+AddGroup -1
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 0
+IncreaseLevel 3 77
+ReplaceGroup 1 2
+GetGroupsHighestLevel 4
+ReplaceGroup 3 4
+IncreaseLevel 1 49
+GetHighestLevel -1
+GetHighestLevel 1
+GetAllPlayersByLevel 1
+AddPlayer 64 2 40
+AddPlayer 30 3 50
+RemovePlayer 3
+IncreaseLevel -1 60
+AddGroup 3
+GetGroupsHighestLevel 4
+ReplaceGroup 3 4
+GetAllPlayersByLevel 1
+AddPlayer 39 5 35
+GetHighestLevel 4
+ReplaceGroup 4 5
+GetAllPlayersByLevel 0
+RemovePlayer 19
+GetAllPlayersByLevel 5
+GetHighestLevel 0
+GetHighestLevel 4
+GetAllPlayersByLevel 3
+ReplaceGroup 3 4
+GetGroupsHighestLevel 0
+ReplaceGroup 5 6
+ReplaceGroup 0 1
+GetHighestLevel 0
+AddGroup 2
+RemovePlayer 80
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 5
+AddPlayer 85 0 49
+GetAllPlayersByLevel 4
+RemovePlayer 35
+IncreaseLevel 3 56
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel 5
+AddPlayer 41 3 11
+RemovePlayer 21
+RemovePlayer 4
+RemovePlayer 94
+IncreaseLevel 4 78
+IncreaseLevel 4 57
+GetGroupsHighestLevel -1
+AddGroup 5
+AddGroup 4
+AddPlayer 87 1 34
+AddPlayer 9 4 2
+AddPlayer 0 2 23
+AddGroup 1
+RemovePlayer 67
+IncreaseLevel -1 70
+RemovePlayer 12
+AddGroup -1
+AddGroup 2
+GetAllPlayersByLevel 0
+AddPlayer 2 1 8
+RemovePlayer 28
+GetHighestLevel 1
+RemovePlayer 32
+ReplaceGroup 3 4
+GetHighestLevel 4
+AddPlayer 99 -1 49
+GetGroupsHighestLevel 4
+RemovePlayer 56
+RemovePlayer 48
+ReplaceGroup 5 6
+RemovePlayer 10
+AddGroup 5
+AddPlayer 12 5 19
+GetAllPlayersByLevel 0
+AddGroup 0
+AddPlayer 66 -1 41
+AddGroup 5
+RemovePlayer 89
+IncreaseLevel 3 35
+AddPlayer 81 3 17
+GetHighestLevel 0
+GetAllPlayersByLevel 2
+RemovePlayer 81
+AddGroup 2
+GetGroupsHighestLevel 4
+IncreaseLevel 3 6
+GetAllPlayersByLevel 5
+AddPlayer 42 3 15
+AddGroup 4
+ReplaceGroup -1 0
+ReplaceGroup 5 6
+AddPlayer 45 1 16
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 5
+RemovePlayer 94
+AddGroup 5
+IncreaseLevel 2 4
+AddPlayer 54 1 41
+RemovePlayer 36
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 3
+AddPlayer 70 3 37
+ReplaceGroup 3 4
+AddPlayer 8 4 48
+GetAllPlayersByLevel 5
+IncreaseLevel 0 53
+GetAllPlayersByLevel 4
+AddGroup -1
+GetHighestLevel 5
+RemovePlayer 50
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 2
+ReplaceGroup 4 5
+IncreaseLevel 2 -1
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 4
+GetHighestLevel 5
+AddPlayer 98 2 15
+RemovePlayer 72
+RemovePlayer 93
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 2
+ReplaceGroup 1 2
+AddPlayer 93 0 27
+ReplaceGroup 0 1
+AddGroup -1
+GetAllPlayersByLevel 4
+AddGroup -1
+ReplaceGroup 3 4
+GetGroupsHighestLevel -1
+GetHighestLevel 2
+IncreaseLevel -1 55
+ReplaceGroup 1 2
+IncreaseLevel -1 72
+IncreaseLevel 0 31
+AddGroup 4
+RemovePlayer 49
+AddGroup -1
+GetAllPlayersByLevel 2
+IncreaseLevel 0 11
+AddGroup 0
+IncreaseLevel 1 73
+GetAllPlayersByLevel 4
+AddGroup 4
+RemovePlayer 49
+IncreaseLevel 5 62
+GetHighestLevel 1
+GetAllPlayersByLevel 4
+RemovePlayer 91
+RemovePlayer 32
+GetGroupsHighestLevel 1
+GetHighestLevel 3
+ReplaceGroup -1 0
+ReplaceGroup 0 1
+AddGroup 4
+IncreaseLevel 3 6
+ReplaceGroup 5 6
+AddGroup 3
+GetHighestLevel 5
+GetAllPlayersByLevel 5
+AddGroup 1
+RemovePlayer 49
+AddGroup 5
+GetHighestLevel -1
+IncreaseLevel 5 67
+GetHighestLevel 3
+IncreaseLevel 5 70
+RemovePlayer 1
+GetAllPlayersByLevel 4
+GetHighestLevel 2
+GetGroupsHighestLevel 4
+GetHighestLevel 4
+AddPlayer 52 4 14
+AddPlayer 68 4 43
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 2
+RemovePlayer 4
+GetHighestLevel 1
+IncreaseLevel 3 23
+AddGroup 5
+AddPlayer 19 5 30
+ReplaceGroup 2 3
+GetAllPlayersByLevel 3
+AddPlayer 1 5 36
+AddPlayer 3 3 10
+GetAllPlayersByLevel 1
+AddPlayer 45 -1 19
+AddPlayer 82 5 3
+ReplaceGroup 3 4
+AddGroup 0
+RemovePlayer 9
+RemovePlayer 4
+GetAllPlayersByLevel 0
+AddGroup 0
+ReplaceGroup 5 6
+ReplaceGroup 4 5
+RemovePlayer 47
+ReplaceGroup 0 1
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 3
+ReplaceGroup 3 4
+GetGroupsHighestLevel 3
+AddPlayer 47 1 27
+GetHighestLevel 4
+ReplaceGroup 0 1
+GetGroupsHighestLevel 0
+GetHighestLevel -1
+AddGroup 4
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 1
+GetHighestLevel -1
+GetGroupsHighestLevel 1
+AddPlayer 57 1 1
+IncreaseLevel 0 66
+IncreaseLevel -1 92
+ReplaceGroup 0 1
+GetAllPlayersByLevel 3
+IncreaseLevel 0 22
+AddGroup 3
+AddGroup 3
+RemovePlayer 17
+ReplaceGroup 2 3
+AddPlayer 62 0 4
+GetAllPlayersByLevel 5
+ReplaceGroup 5 6
+AddPlayer 56 3 42
+AddGroup 5
+AddPlayer 68 2 35
+RemovePlayer 5
+IncreaseLevel 1 37
+AddPlayer 47 -1 50
+ReplaceGroup 0 1
+AddPlayer 22 5 44
+RemovePlayer 81
+RemovePlayer 17
+GetHighestLevel 1
+AddPlayer 15 5 34
+AddPlayer 38 2 36
+AddGroup 0
+IncreaseLevel 0 50
+GetHighestLevel 5
+ReplaceGroup 3 4
+GetHighestLevel 1
+GetGroupsHighestLevel 2
+GetHighestLevel 4
+RemovePlayer 23
+ReplaceGroup 2 3
+GetHighestLevel 4
+IncreaseLevel -1 79
+GetAllPlayersByLevel 5
+AddPlayer 97 -1 8
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel -1
+AddPlayer 93 2 23
+GetGroupsHighestLevel 2
+AddGroup 4
+ReplaceGroup 3 4
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 3
+ReplaceGroup 3 4
+GetHighestLevel 4
+AddGroup 5
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 3
+AddGroup 0
+RemovePlayer 1
+GetHighestLevel 0
+RemovePlayer 25
+AddPlayer 88 3 23
+ReplaceGroup -1 0
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 3
+IncreaseLevel 3 59
+GetGroupsHighestLevel 2
+AddGroup 1
+GetHighestLevel 4
+RemovePlayer 35
+RemovePlayer 64
+GetHighestLevel 4
+ReplaceGroup 1 2
+RemovePlayer 35
+RemovePlayer 14
+RemovePlayer 33
+RemovePlayer 75
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel -1
+AddPlayer 64 3 41
+GetHighestLevel -1
+RemovePlayer 50
+RemovePlayer 39
+AddPlayer 32 1 10
+AddGroup 0
+GetHighestLevel 1
+AddPlayer 81 0 21
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel -1
+AddGroup 2
+GetAllPlayersByLevel 5
+AddGroup -1
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 4
+IncreaseLevel -1 92
+AddGroup 5
+AddGroup 3
+IncreaseLevel 1 26
+RemovePlayer 57
+GetGroupsHighestLevel 0
+IncreaseLevel 2 21
+GetHighestLevel 1
+AddGroup -1
+RemovePlayer 3
+ReplaceGroup 4 5
+RemovePlayer 68
+IncreaseLevel 4 61
+AddPlayer 79 -1 44
+AddGroup 4
+GetHighestLevel 3
+AddGroup 1
+GetHighestLevel 0
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 2
+ReplaceGroup -1 0
+AddPlayer 88 0 18
+IncreaseLevel 2 24
+IncreaseLevel 0 10
+AddPlayer 94 0 38
+AddGroup -1
+RemovePlayer 5
+GetHighestLevel 0
+RemovePlayer 83
+IncreaseLevel 4 9
+IncreaseLevel 2 0
+ReplaceGroup 0 1
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 5
+GetHighestLevel 2
+GetGroupsHighestLevel -1
+RemovePlayer 57
+AddGroup 0
+GetHighestLevel 4
+AddPlayer 70 3 9
+ReplaceGroup 1 2
+AddPlayer 21 4 30
+AddGroup -1
+ReplaceGroup 5 6
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 2
+RemovePlayer 84
+GetGroupsHighestLevel 2
+IncreaseLevel 3 89
+IncreaseLevel 4 11
+AddGroup 5
+AddGroup 3
+GetGroupsHighestLevel 1
+ReplaceGroup 3 4
+RemovePlayer 10
+ReplaceGroup 3 4
+RemovePlayer 67
+ReplaceGroup 5 6
+GetAllPlayersByLevel 0
+GetHighestLevel -1
+AddPlayer 66 2 32
+IncreaseLevel -1 93
+GetHighestLevel 0
+RemovePlayer 92
+AddPlayer 49 1 48
+AddGroup -1
+RemovePlayer 19
+IncreaseLevel 0 48
+RemovePlayer 65
+GetGroupsHighestLevel 2
+AddPlayer 41 -1 28
+AddPlayer 14 2 34
+GetGroupsHighestLevel 0
+GetHighestLevel 4
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 5
+GetHighestLevel 1
+ReplaceGroup 5 6
+ReplaceGroup 4 5
+AddPlayer 18 -1 4
+AddPlayer 89 1 11
+GetHighestLevel 1
+GetHighestLevel 0
+GetHighestLevel 1
+RemovePlayer 87
+RemovePlayer 90
+AddPlayer 28 2 1
+GetAllPlayersByLevel 1
+GetHighestLevel 1
+AddGroup 4
+RemovePlayer 91
+GetAllPlayersByLevel 5
+ReplaceGroup 5 6
+GetHighestLevel 0
+AddPlayer 63 3 50
+GetHighestLevel -1
+IncreaseLevel -1 89
+AddGroup 4
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel -1
+AddPlayer 82 3 39
+IncreaseLevel 0 64
+AddGroup -1
+GetGroupsHighestLevel 5
+ReplaceGroup 4 5
+IncreaseLevel 4 67
+AddGroup 1
+GetGroupsHighestLevel 4
+AddGroup 1
+IncreaseLevel 0 52
+IncreaseLevel 2 80
+AddPlayer 63 1 41
+AddPlayer 34 -1 9
+RemovePlayer 5
+ReplaceGroup 1 2
+AddGroup 1
+ReplaceGroup 2 3
+GetGroupsHighestLevel 0
+IncreaseLevel 2 44
+AddGroup -1
+GetAllPlayersByLevel 5
+RemovePlayer 25
+GetGroupsHighestLevel 4
+GetHighestLevel 0
+GetHighestLevel 3
+ReplaceGroup 4 5
+GetAllPlayersByLevel 1
+ReplaceGroup 5 6
+GetGroupsHighestLevel -1
+AddGroup -1
+ReplaceGroup 4 5
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 3
+GetHighestLevel -1
+AddGroup 5
+AddPlayer 1 5 9
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 1
+ReplaceGroup 1 2
+IncreaseLevel 5 47
+ReplaceGroup 1 2
+GetHighestLevel 2
+IncreaseLevel -1 86
+GetHighestLevel 5
+GetHighestLevel -1
+GetGroupsHighestLevel -1
+ReplaceGroup 0 1
+GetAllPlayersByLevel 2
+AddGroup 2
+IncreaseLevel 2 14
+AddPlayer 0 3 36
+AddPlayer 16 -1 23
+ReplaceGroup 5 6
+RemovePlayer 84
+GetAllPlayersByLevel 2
+AddGroup 1
+IncreaseLevel 2 50
+ReplaceGroup 3 4
+GetHighestLevel -1
+GetHighestLevel -1
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 2
+GetHighestLevel 5
+AddPlayer 31 5 34
+GetAllPlayersByLevel -1
+AddGroup 5
+IncreaseLevel 3 28
+ReplaceGroup -1 0
+IncreaseLevel 3 15
+ReplaceGroup 5 6
+RemovePlayer 99
+GetHighestLevel -1
+GetHighestLevel 2
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 4
+AddGroup 4
+ReplaceGroup 5 6
+GetHighestLevel 0
+IncreaseLevel -1 95
+GetHighestLevel 5
+GetGroupsHighestLevel 5
+RemovePlayer 26
+ReplaceGroup 0 1
+AddGroup -1
+RemovePlayer 20
+IncreaseLevel 3 92
+IncreaseLevel 0 79
+ReplaceGroup 0 1
+GetHighestLevel 1
+ReplaceGroup 3 4
+ReplaceGroup 5 6
+IncreaseLevel 2 51
+GetGroupsHighestLevel 1
+RemovePlayer 39
+IncreaseLevel 3 64
+GetAllPlayersByLevel 4
+AddGroup -1
+GetHighestLevel 2
+RemovePlayer -1
+RemovePlayer 56
+GetHighestLevel 3
+GetAllPlayersByLevel 4
+IncreaseLevel 5 50
+IncreaseLevel 0 38
+IncreaseLevel 5 80
+GetAllPlayersByLevel 5
+RemovePlayer 34
+GetAllPlayersByLevel 4
+AddGroup 2
+ReplaceGroup 4 5
+ReplaceGroup -1 0
+ReplaceGroup 4 5
+GetHighestLevel 5
+ReplaceGroup 5 6
+AddGroup 3
+GetHighestLevel 1
+AddPlayer 64 5 2
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel 1
+ReplaceGroup 2 3
+ReplaceGroup 4 5
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 5
+GetHighestLevel 3
+GetGroupsHighestLevel 5
+IncreaseLevel 1 13
+GetAllPlayersByLevel 0
+IncreaseLevel 0 65
+GetHighestLevel 5
+AddGroup -1
+AddGroup 1
+GetAllPlayersByLevel 0
+IncreaseLevel 5 51
+GetGroupsHighestLevel 1
+GetHighestLevel -1
+RemovePlayer 46
+GetGroupsHighestLevel 2
+ReplaceGroup 5 6
+IncreaseLevel 2 75
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel 1
+IncreaseLevel 2 -1
+GetGroupsHighestLevel 2
+IncreaseLevel 2 99
+AddGroup -1
+ReplaceGroup -1 0
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel -1
+IncreaseLevel 3 34
+ReplaceGroup 5 6
+ReplaceGroup 1 2
+GetHighestLevel 4
+AddPlayer 78 5 30
+GetHighestLevel 1
+ReplaceGroup 1 2
+GetGroupsHighestLevel 4
+AddPlayer 18 1 21
+AddGroup -1
+GetHighestLevel 5
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 4
+IncreaseLevel -1 20
+RemovePlayer 1
+GetGroupsHighestLevel 2
+RemovePlayer 1
+GetGroupsHighestLevel 3
+ReplaceGroup 1 2
+AddPlayer 86 3 30
+GetAllPlayersByLevel -1
+IncreaseLevel 4 5
+AddPlayer 46 -1 1
+RemovePlayer -1
+ReplaceGroup 0 1
+GetHighestLevel 4
+ReplaceGroup 3 4
+AddGroup 5
+AddPlayer 2 -1 1
+GetHighestLevel 0
+GetGroupsHighestLevel 5
+IncreaseLevel 3 25
+GetGroupsHighestLevel 2
+RemovePlayer 58
+IncreaseLevel 5 74
+GetHighestLevel 3
+AddGroup 2
+GetAllPlayersByLevel -1
+GetHighestLevel 2
+AddGroup 0
+AddPlayer 68 0 9
+IncreaseLevel 4 4
+RemovePlayer 58
+ReplaceGroup 5 6
+GetHighestLevel 4
+ReplaceGroup 0 1
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 1
+RemovePlayer 62
+GetGroupsHighestLevel 5
+RemovePlayer 82
+GetGroupsHighestLevel 1
+AddGroup 0
+GetGroupsHighestLevel -1
+AddPlayer 6 1 40
+GetHighestLevel 5
+IncreaseLevel 4 10
+IncreaseLevel 4 83
+RemovePlayer 39
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 5
+AddGroup 0
+IncreaseLevel 5 39
+ReplaceGroup 4 5
+IncreaseLevel 2 82
+ReplaceGroup 0 1
+GetHighestLevel 5
+GetHighestLevel -1
+GetGroupsHighestLevel 1
+AddPlayer 92 5 5
+GetHighestLevel 3
+GetAllPlayersByLevel -1
+RemovePlayer 58
+ReplaceGroup 0 1
+IncreaseLevel -1 49
+GetAllPlayersByLevel 3
+AddGroup 0
+GetAllPlayersByLevel -1
+AddPlayer 35 2 41
+GetGroupsHighestLevel 0
+RemovePlayer 98
+ReplaceGroup 4 5
+GetGroupsHighestLevel 4
+IncreaseLevel -1 9
+ReplaceGroup 1 2
+ReplaceGroup 1 2
+RemovePlayer 40
+GetHighestLevel 0
+ReplaceGroup 3 4
+ReplaceGroup 1 2
+AddGroup 5
+RemovePlayer 80
+RemovePlayer 28
+AddPlayer 40 3 10
+IncreaseLevel 1 91
+AddGroup 4
+RemovePlayer 2
+ReplaceGroup 5 6
+GetHighestLevel 2
+GetHighestLevel 1
+GetAllPlayersByLevel 5
+ReplaceGroup 5 6
+GetGroupsHighestLevel 2
+AddGroup 5
+IncreaseLevel 4 18
+AddPlayer 44 3 29
+IncreaseLevel -1 21
+RemovePlayer 41
+RemovePlayer 28
+IncreaseLevel 0 73
+ReplaceGroup 2 3
+AddPlayer 40 -1 7
+ReplaceGroup -1 0
+AddPlayer 22 1 47
+IncreaseLevel 4 48
+GetGroupsHighestLevel 2
+RemovePlayer 69
+IncreaseLevel 0 75
+AddGroup 2
+GetHighestLevel 0
+AddPlayer 38 1 21
+GetHighestLevel 0
+IncreaseLevel 1 5
+AddPlayer 3 4 43
+IncreaseLevel 3 95
+AddGroup 5
+AddPlayer 45 4 46
+GetGroupsHighestLevel 4
+RemovePlayer 44
+GetGroupsHighestLevel 3
+ReplaceGroup 4 5
+RemovePlayer 27
+IncreaseLevel 5 56
+GetGroupsHighestLevel 0
+RemovePlayer 78
+GetAllPlayersByLevel 2
+RemovePlayer 21
+ReplaceGroup -1 0
+GetHighestLevel 5
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 5
+GetHighestLevel 5
+AddPlayer 2 2 49
+GetAllPlayersByLevel 1
+ReplaceGroup 4 5
+GetGroupsHighestLevel -1
+IncreaseLevel -1 52
+AddGroup 4
+GetAllPlayersByLevel 0
+ReplaceGroup 4 5
+GetHighestLevel 5
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 0
+AddPlayer 7 -1 36
+IncreaseLevel 3 38
+IncreaseLevel 1 98
+GetHighestLevel 0
+GetAllPlayersByLevel 0
+RemovePlayer 53
+GetAllPlayersByLevel 2
+IncreaseLevel 2 12
+GetHighestLevel 2
+ReplaceGroup -1 0
+AddPlayer 73 4 38
+GetAllPlayersByLevel 2
+GetHighestLevel 4
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 1
+AddGroup 5
+AddGroup 1
+AddGroup 2
+AddGroup -1
+RemovePlayer 86
+AddGroup 1
+GetAllPlayersByLevel 5
+GetHighestLevel -1
+GetGroupsHighestLevel 4
+ReplaceGroup 1 2
+IncreaseLevel 2 30
+GetGroupsHighestLevel 5
+GetHighestLevel 3
+GetGroupsHighestLevel 3
+AddPlayer 50 3 20
+ReplaceGroup -1 0
+GetGroupsHighestLevel 0
+ReplaceGroup 1 2
+IncreaseLevel 1 -1
+IncreaseLevel 4 39
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 4
+GetHighestLevel 4
+IncreaseLevel 2 74
+RemovePlayer 78
+ReplaceGroup -1 0
+AddPlayer 72 5 49
+AddGroup 5
+AddGroup 1
+RemovePlayer 19
+RemovePlayer -1
+ReplaceGroup 2 3
+GetHighestLevel 3
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 2
+GetHighestLevel 3
+AddGroup 2
+GetAllPlayersByLevel 0
+IncreaseLevel 1 52
+IncreaseLevel 0 34
+AddPlayer 67 1 23
+AddGroup 2
+AddPlayer 99 4 30
+AddGroup 5
+AddGroup 2
+AddGroup 5
+AddPlayer 28 -1 18
+AddGroup -1
+GetAllPlayersByLevel 1
+GetHighestLevel -1
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel -1
+GetHighestLevel 4
+AddGroup 4
+RemovePlayer 42
+ReplaceGroup 0 1
+AddGroup 0
+AddPlayer 27 1 10
+GetGroupsHighestLevel -1
+AddPlayer 90 5 42
+RemovePlayer 99
+GetHighestLevel 3
+GetHighestLevel 1
+GetHighestLevel 1
+GetHighestLevel 3
+IncreaseLevel 4 52
+AddPlayer 39 3 23
+AddPlayer 19 3 41
+AddGroup -1
+AddPlayer 73 2 16
+AddPlayer 61 5 15
+AddPlayer 23 0 7
+GetGroupsHighestLevel 3
+AddGroup 2
+IncreaseLevel 2 50
+AddGroup -1
+RemovePlayer 86
+AddGroup 3
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 3
+ReplaceGroup 1 2
+AddGroup 0
+GetHighestLevel 3
+ReplaceGroup 4 5
+AddPlayer 97 -1 22
+IncreaseLevel -1 73
+ReplaceGroup 3 4
+AddGroup 5
+GetGroupsHighestLevel -1
+ReplaceGroup 1 2
+GetGroupsHighestLevel 5
+GetHighestLevel 2
+AddGroup 5
+IncreaseLevel 1 95
+GetAllPlayersByLevel 0
+RemovePlayer 60
+AddPlayer 7 -1 28
+AddGroup 5
+GetAllPlayersByLevel 4
+AddGroup 0
+AddGroup -1
+ReplaceGroup 3 4
+AddGroup 3
+AddPlayer 36 4 36
+GetHighestLevel 5
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel -1
+ReplaceGroup 1 2
+GetHighestLevel 2
+GetAllPlayersByLevel 3
+IncreaseLevel 4 79
+ReplaceGroup 1 2
+IncreaseLevel 2 21
+GetHighestLevel 4
+RemovePlayer 58
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 2
+AddPlayer 54 3 18
+AddGroup 4
+ReplaceGroup -1 0
+RemovePlayer 96
+GetAllPlayersByLevel 3
+AddPlayer 82 2 12
+ReplaceGroup 4 5
+GetHighestLevel 2
+ReplaceGroup -1 0
+IncreaseLevel 1 42
+AddPlayer 99 1 38
+GetAllPlayersByLevel 3
+ReplaceGroup 4 5
+GetGroupsHighestLevel 5
+ReplaceGroup 0 1
+GetHighestLevel 0
+GetGroupsHighestLevel -1
+GetHighestLevel 4
+GetAllPlayersByLevel 4
+AddPlayer 48 -1 34
+IncreaseLevel 2 63
+GetHighestLevel 4
+ReplaceGroup 3 4
+AddPlayer 5 5 6
+RemovePlayer 48
+IncreaseLevel 5 78
+AddGroup 0
+RemovePlayer 42
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 5
+ReplaceGroup 1 2
+AddGroup -1
+AddPlayer 5 2 23
+AddPlayer 45 0 5
+IncreaseLevel 1 64
+GetGroupsHighestLevel 0
+RemovePlayer 52
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 3
+AddPlayer 8 4 7
+AddPlayer 95 3 27
+GetHighestLevel 4
+AddGroup -1
+IncreaseLevel 2 27
+GetHighestLevel 4
+ReplaceGroup 4 5
+ReplaceGroup 5 6
+IncreaseLevel 4 36
+ReplaceGroup 4 5
+RemovePlayer 70
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel -1
+AddGroup 5
+GetGroupsHighestLevel 2
+GetHighestLevel -1
+AddGroup 2
+ReplaceGroup 0 1
+GetAllPlayersByLevel -1
+GetHighestLevel -1
+IncreaseLevel 2 66
+GetHighestLevel 4
+AddGroup 1
+GetGroupsHighestLevel 3
+GetHighestLevel 2
+IncreaseLevel 1 5
+GetGroupsHighestLevel 0
+AddGroup 0
+RemovePlayer 11
+GetAllPlayersByLevel 3
+GetHighestLevel 5
+GetGroupsHighestLevel 3
+RemovePlayer 47
+RemovePlayer 47
+GetGroupsHighestLevel -1
+IncreaseLevel 5 90
+IncreaseLevel 4 24
+IncreaseLevel 3 9
+GetGroupsHighestLevel 5
+AddGroup 4
+GetGroupsHighestLevel 0
+AddGroup 4
+RemovePlayer 5
+ReplaceGroup 1 2
+RemovePlayer 88
+GetHighestLevel 2
+IncreaseLevel 4 93
+RemovePlayer 76
+GetHighestLevel -1
+ReplaceGroup 5 6
+RemovePlayer 59
+RemovePlayer 44
+GetAllPlayersByLevel 1
+IncreaseLevel -1 81
+ReplaceGroup 1 2
+GetHighestLevel 5
+GetHighestLevel 0
+GetHighestLevel 4
+IncreaseLevel 2 1
+AddPlayer 97 4 23
+ReplaceGroup 0 1
+AddPlayer 100 0 44
+GetAllPlayersByLevel 4
+RemovePlayer 5
+RemovePlayer 51
+GetGroupsHighestLevel 5
+AddPlayer 53 2 44
+GetHighestLevel 2
+ReplaceGroup 4 5
+GetGroupsHighestLevel 0
+RemovePlayer 36
+GetGroupsHighestLevel 1
+IncreaseLevel 0 79
+AddGroup 1
+GetGroupsHighestLevel -1
+GetHighestLevel 3
+GetHighestLevel 2
+GetHighestLevel 3
+ReplaceGroup 2 3
+IncreaseLevel 3 60
+ReplaceGroup 3 4
+GetHighestLevel 5
+ReplaceGroup 1 2
+GetAllPlayersByLevel 3
+ReplaceGroup 2 3
+RemovePlayer 88
+ReplaceGroup 1 2
+AddPlayer 36 1 40
+RemovePlayer 8
+AddPlayer 0 1 26
+AddPlayer 47 2 48
+GetHighestLevel 1
+GetAllPlayersByLevel 2
+AddPlayer 43 4 50
+RemovePlayer 14
+GetHighestLevel 2
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 1
+GetHighestLevel 1
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 0
+ReplaceGroup -1 0
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 2
+IncreaseLevel 1 40
+GetGroupsHighestLevel -1
+GetHighestLevel 2
+ReplaceGroup 2 3
+AddGroup 3
+GetAllPlayersByLevel 2
+RemovePlayer 65
+GetAllPlayersByLevel 5
+ReplaceGroup 5 6
+ReplaceGroup 5 6
+IncreaseLevel 0 -1
+GetGroupsHighestLevel 0
+IncreaseLevel 5 54
+AddGroup 5
+AddGroup 3
+ReplaceGroup 0 1
+ReplaceGroup 2 3
+GetGroupsHighestLevel 5
+IncreaseLevel 2 96
+AddGroup 0
+IncreaseLevel -1 24
+AddPlayer 64 2 34
+AddGroup 2
+AddPlayer 58 3 0
+AddPlayer 76 -1 22
+ReplaceGroup 0 1
+AddPlayer 95 3 -1
+AddGroup 1
+RemovePlayer 56
+IncreaseLevel 2 19
+GetAllPlayersByLevel 2
+AddPlayer 93 2 12
+GetAllPlayersByLevel 4
+ReplaceGroup 1 2
+GetAllPlayersByLevel 5
+RemovePlayer 90
+RemovePlayer 12
+ReplaceGroup 4 5
+ReplaceGroup 2 3
+GetGroupsHighestLevel 5
+RemovePlayer 92
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 0
+RemovePlayer 27
+RemovePlayer 41
+GetAllPlayersByLevel -1
+IncreaseLevel 5 59
+AddPlayer 26 -1 14
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 4
+AddPlayer 98 1 48
+GetHighestLevel 0
+IncreaseLevel 4 67
+RemovePlayer 9
+IncreaseLevel 0 23
+GetGroupsHighestLevel 5
+ReplaceGroup 0 1
+GetGroupsHighestLevel 1
+AddPlayer 27 4 34
+IncreaseLevel 5 10
+RemovePlayer 15
+ReplaceGroup 1 2
+IncreaseLevel 3 25
+GetGroupsHighestLevel -1
+ReplaceGroup 2 3
+IncreaseLevel 0 68
+GetGroupsHighestLevel 2
+AddGroup 4
+RemovePlayer 96
+AddGroup 4
+IncreaseLevel 5 88
+IncreaseLevel 0 99
+GetGroupsHighestLevel 4
+RemovePlayer 67
+GetHighestLevel 5
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel -1
+AddGroup 2
+RemovePlayer 46
+RemovePlayer 54
+GetGroupsHighestLevel 3
+RemovePlayer 4
+ReplaceGroup 5 6
+AddGroup 3
+GetAllPlayersByLevel 4
+ReplaceGroup 3 4
+RemovePlayer 17
+GetAllPlayersByLevel 3
+AddPlayer 21 4 41
+ReplaceGroup 2 3
+ReplaceGroup 0 1
+IncreaseLevel 0 29
+ReplaceGroup 4 5
+AddGroup 3
+IncreaseLevel 5 88
+GetGroupsHighestLevel 2
+ReplaceGroup 5 6
+IncreaseLevel 3 50
+GetHighestLevel 4
+RemovePlayer 61
+ReplaceGroup 1 2
+AddPlayer 15 2 0
+ReplaceGroup 1 2
+GetGroupsHighestLevel 3
+AddPlayer 89 2 0
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 1
+ReplaceGroup 0 1
+AddGroup 2
+IncreaseLevel -1 34
+RemovePlayer 57
+RemovePlayer 37
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 5
+GetHighestLevel 1
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 2
+IncreaseLevel 3 35
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 4
+AddGroup 1
+RemovePlayer 100
+ReplaceGroup 3 4
+GetGroupsHighestLevel 5
+AddGroup 3
+RemovePlayer 4
+AddPlayer 71 1 17
+AddGroup 4
+GetGroupsHighestLevel 4
+RemovePlayer 7
+AddGroup 2
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 2
+GetHighestLevel 5
+GetHighestLevel 5
+IncreaseLevel 2 19
+GetHighestLevel 5
+GetGroupsHighestLevel 1
+RemovePlayer 51
+AddGroup 3
+GetGroupsHighestLevel 4
+IncreaseLevel -1 90
+RemovePlayer 69
+GetHighestLevel 1
+IncreaseLevel 2 69
+ReplaceGroup -1 0
+RemovePlayer 100
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 4
+IncreaseLevel -1 42
+RemovePlayer 7
+AddPlayer 44 -1 -1
+ReplaceGroup 1 2
+RemovePlayer 4
+GetHighestLevel 0
+IncreaseLevel -1 22
+GetGroupsHighestLevel 5
+GetHighestLevel 2
+AddGroup 1
+GetAllPlayersByLevel 3
+ReplaceGroup 0 1
+RemovePlayer 73
+RemovePlayer 55
+AddGroup 3
+AddGroup 5
+GetAllPlayersByLevel -1
+GetHighestLevel 4
+RemovePlayer 73
+GetHighestLevel 5
+AddPlayer 69 2 20
+IncreaseLevel 0 76
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel 4
+IncreaseLevel 1 38
+AddGroup 1
+IncreaseLevel 4 47
+ReplaceGroup 2 3
+IncreaseLevel 0 7
+ReplaceGroup 2 3
+IncreaseLevel 1 85
+ReplaceGroup 5 6
+GetAllPlayersByLevel 1
+IncreaseLevel 5 38
+IncreaseLevel 0 57
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 5
+RemovePlayer 32
+RemovePlayer 3
+RemovePlayer 34
+GetHighestLevel 0
+GetHighestLevel 1
+GetGroupsHighestLevel 5
+AddGroup 5
+GetHighestLevel 2
+ReplaceGroup -1 0
+AddPlayer 14 5 9
+AddGroup 2
+AddGroup 1
+GetHighestLevel 0
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 4
+RemovePlayer 44
+GetHighestLevel 2
+AddPlayer 93 3 7
+ReplaceGroup -1 0
+RemovePlayer 73
+GetGroupsHighestLevel 2
+IncreaseLevel 4 60
+ReplaceGroup 5 6
+AddGroup 2
+AddPlayer 79 2 46
+AddGroup -1
+ReplaceGroup 2 3
+GetAllPlayersByLevel 2
+AddPlayer 32 0 38
+AddPlayer 98 2 24
+IncreaseLevel 5 61
+GetGroupsHighestLevel 1
+IncreaseLevel -1 64
+GetAllPlayersByLevel -1
+AddPlayer 14 -1 24
+AddPlayer 39 4 5
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel -1
+GetHighestLevel 1
+GetGroupsHighestLevel 4
+GetHighestLevel 0
+GetGroupsHighestLevel 0
+IncreaseLevel 1 40
+AddPlayer 50 0 35
+GetGroupsHighestLevel 5
+RemovePlayer 73
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 2
+IncreaseLevel 5 51
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 4
+AddPlayer 95 3 37
+GetHighestLevel 3
+GetHighestLevel 5
+RemovePlayer 39
+GetGroupsHighestLevel 0
+AddPlayer 53 2 19
+GetHighestLevel 2
+ReplaceGroup 3 4
+GetGroupsHighestLevel 1
+AddGroup 3
+IncreaseLevel 2 72
+IncreaseLevel 1 91
+IncreaseLevel -1 55
+RemovePlayer 12
+GetAllPlayersByLevel -1
+AddGroup 0
+GetHighestLevel 2
+GetAllPlayersByLevel 3
+RemovePlayer 58
+GetAllPlayersByLevel 3
+ReplaceGroup 0 1
+AddGroup 1
+RemovePlayer 42
+ReplaceGroup 5 6
+ReplaceGroup 0 1
+ReplaceGroup 3 4
+GetAllPlayersByLevel 1
+ReplaceGroup 1 2
+IncreaseLevel 5 97
+AddPlayer 68 5 4
+RemovePlayer 84
+GetHighestLevel 4
+ReplaceGroup 2 3
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 1
+RemovePlayer 55
+IncreaseLevel 1 4
+GetHighestLevel 0
+RemovePlayer 55
+AddGroup 1
+GetAllPlayersByLevel 4
+AddGroup 3
+AddPlayer 73 0 0
+AddGroup 4
+AddGroup 2
+GetGroupsHighestLevel 5
+GetHighestLevel 4
+GetGroupsHighestLevel 4
+ReplaceGroup 5 6
+AddPlayer 22 2 17
+AddPlayer 59 0 10
+GetGroupsHighestLevel 2
+IncreaseLevel 4 0
+ReplaceGroup 0 1
+GetAllPlayersByLevel -1
+GetHighestLevel 5
+AddPlayer 53 4 38
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 2
+ReplaceGroup 5 6
+AddGroup 1
+AddGroup 0
+GetGroupsHighestLevel 0
+ReplaceGroup 4 5
+AddPlayer 75 -1 24
+IncreaseLevel 5 37
+AddPlayer 97 4 47
+AddPlayer 22 -1 18
+AddGroup 1
+GetGroupsHighestLevel 1
+AddPlayer 90 0 2
+AddPlayer 0 4 18
+GetAllPlayersByLevel 3
+IncreaseLevel 3 9
+ReplaceGroup 2 3
+ReplaceGroup 1 2
+AddPlayer 31 2 42
+GetGroupsHighestLevel 5
+AddGroup 2
+IncreaseLevel 3 1
+ReplaceGroup 4 5
+GetAllPlayersByLevel 2
+IncreaseLevel 2 50
+ReplaceGroup 2 3
+ReplaceGroup 3 4
+IncreaseLevel 0 15
+GetAllPlayersByLevel 3
+ReplaceGroup 0 1
+RemovePlayer 51
+IncreaseLevel 3 35
+GetAllPlayersByLevel 1
+AddGroup 1
+GetAllPlayersByLevel 3
+IncreaseLevel 2 74
+RemovePlayer 88
+AddGroup 3
+GetHighestLevel 4
+RemovePlayer 81
+RemovePlayer 37
+AddGroup 1
+IncreaseLevel 5 74
+GetHighestLevel 1
+GetGroupsHighestLevel 2
+IncreaseLevel 4 4
+ReplaceGroup -1 0
+AddPlayer 38 1 31
+RemovePlayer 63
+AddPlayer 15 2 6
+GetHighestLevel 5
+AddGroup -1
+AddPlayer 18 3 10
+AddGroup 0
+AddGroup 1
+RemovePlayer 60
+GetAllPlayersByLevel 2
+IncreaseLevel 3 72
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 2
+RemovePlayer 29
+GetAllPlayersByLevel 5
+AddGroup -1
+ReplaceGroup 5 6
+GetGroupsHighestLevel 5
+ReplaceGroup 4 5
+GetGroupsHighestLevel 5
+AddGroup 4
+AddGroup 4
+RemovePlayer 94
+GetGroupsHighestLevel 3
+RemovePlayer 14
+AddPlayer 55 2 9
+ReplaceGroup 2 3
+GetAllPlayersByLevel -1
+ReplaceGroup 1 2
+IncreaseLevel 4 68
+RemovePlayer 25
+GetHighestLevel -1
+GetGroupsHighestLevel 3
+AddGroup 4
+GetAllPlayersByLevel 2
+AddGroup 1
+RemovePlayer 14
+GetGroupsHighestLevel -1
+RemovePlayer 44
+AddGroup 4
+GetAllPlayersByLevel 3
+RemovePlayer 45
+IncreaseLevel 1 17
+AddPlayer 9 -1 27
+AddGroup -1
+AddGroup 2
+AddGroup 2
+RemovePlayer 97
+ReplaceGroup 1 2
+AddGroup 0
+AddPlayer 27 2 11
+RemovePlayer 5
+RemovePlayer 61
+AddPlayer 74 -1 0
+GetGroupsHighestLevel -1
+IncreaseLevel 4 50
+RemovePlayer 53
+GetHighestLevel 1
+GetHighestLevel 1
+GetGroupsHighestLevel -1
+RemovePlayer 61
+ReplaceGroup 2 3
+AddGroup 4
+IncreaseLevel -1 70
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 4
+AddPlayer 11 0 42
+AddPlayer 98 3 16
+GetHighestLevel 2
+GetGroupsHighestLevel 1
+IncreaseLevel 1 19
+IncreaseLevel 5 45
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 1
+AddGroup -1
+GetGroupsHighestLevel 0
+ReplaceGroup 3 4
+IncreaseLevel 4 31
+RemovePlayer 17
+AddPlayer 52 2 31
+GetHighestLevel 3
+ReplaceGroup -1 0
+GetGroupsHighestLevel 2
+IncreaseLevel -1 93
+IncreaseLevel 1 87
+IncreaseLevel 0 42
+GetGroupsHighestLevel 2
+AddPlayer 52 5 28
+AddGroup 1
+GetAllPlayersByLevel -1
+AddGroup 2
+GetGroupsHighestLevel 2
+IncreaseLevel 0 24
+IncreaseLevel 1 1
+AddGroup 1
+GetHighestLevel 1
+IncreaseLevel 1 91
+RemovePlayer 27
+RemovePlayer 70
+IncreaseLevel 4 34
+GetHighestLevel 0
+GetHighestLevel 1
+IncreaseLevel 1 58
+IncreaseLevel -1 13
+AddGroup 4
+RemovePlayer 73
+GetHighestLevel 1
+AddPlayer 7 -1 5
+IncreaseLevel 4 10
+GetHighestLevel 2
+AddPlayer 87 4 37
+ReplaceGroup 0 1
+ReplaceGroup 4 5
+GetAllPlayersByLevel 3
+GetHighestLevel 3
+GetAllPlayersByLevel 3
+RemovePlayer 44
+IncreaseLevel 1 49
+ReplaceGroup 1 2
+AddPlayer 27 1 14
+ReplaceGroup 4 5
+RemovePlayer 30
+GetAllPlayersByLevel 3
+IncreaseLevel 3 46
+AddGroup 2
+GetGroupsHighestLevel 4
+GetHighestLevel 0
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 3
+GetHighestLevel 5
+GetGroupsHighestLevel 3
+AddPlayer 22 5 50
+GetHighestLevel 4
+RemovePlayer 65
+AddGroup 1
+GetHighestLevel 3
+IncreaseLevel 0 70
+RemovePlayer 77
+ReplaceGroup 0 1
+AddPlayer 72 3 37
+GetGroupsHighestLevel 3
+ReplaceGroup -1 0
+RemovePlayer 51
+AddGroup 0
+AddGroup 0
+IncreaseLevel 5 73
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 0
+ReplaceGroup -1 0
+ReplaceGroup 3 4
+GetGroupsHighestLevel 2
+RemovePlayer 31
+IncreaseLevel 5 26
+ReplaceGroup -1 0
+GetHighestLevel 1
+IncreaseLevel 5 65
+ReplaceGroup 0 1
+RemovePlayer 16
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 4
+ReplaceGroup 5 6
+GetHighestLevel -1
+GetAllPlayersByLevel 1
+AddPlayer 70 0 9
+ReplaceGroup -1 0
+ReplaceGroup 1 2
+RemovePlayer 35
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 3
+IncreaseLevel 5 11
+AddPlayer 22 5 47
+GetHighestLevel 0
+GetGroupsHighestLevel 2
+AddGroup 4
+IncreaseLevel 4 5
+GetGroupsHighestLevel 0
+AddGroup 3
+AddPlayer 43 4 5
+ReplaceGroup 2 3
+IncreaseLevel -1 7
+IncreaseLevel 0 85
+RemovePlayer 93
+AddGroup 4
+RemovePlayer 1
+GetHighestLevel -1
+IncreaseLevel 1 16
+AddGroup 2
+AddGroup 4
+RemovePlayer 0
+GetGroupsHighestLevel 4
+IncreaseLevel 2 81
+IncreaseLevel 1 44
+GetGroupsHighestLevel 5
+GetHighestLevel 0
+GetHighestLevel 0
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel 5
+GetHighestLevel -1
+AddGroup 1
+AddPlayer 78 2 25
+IncreaseLevel 3 68
+IncreaseLevel 5 23
+GetHighestLevel 4
+ReplaceGroup 4 5
+IncreaseLevel -1 31
+AddPlayer 39 3 17
+ReplaceGroup 0 1
+GetGroupsHighestLevel 1
+ReplaceGroup -1 0
+IncreaseLevel 3 93
+ReplaceGroup 3 4
+ReplaceGroup 2 3
+IncreaseLevel -1 10
+ReplaceGroup 1 2
+ReplaceGroup 0 1
+GetAllPlayersByLevel 4
+IncreaseLevel 1 32
+GetHighestLevel 0
+ReplaceGroup 4 5
+GetHighestLevel 5
+RemovePlayer 47
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 0
+IncreaseLevel 2 53
+AddPlayer 44 5 43
+GetAllPlayersByLevel 3
+AddGroup 1
+AddPlayer 98 -1 8
+ReplaceGroup 1 2
+IncreaseLevel 3 24
+AddGroup 2
+RemovePlayer 88
+GetAllPlayersByLevel 3
+RemovePlayer 86
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel 3
+RemovePlayer 72
+AddGroup 0
+ReplaceGroup 2 3
+IncreaseLevel 1 85
+AddGroup 0
+GetGroupsHighestLevel 0
+RemovePlayer 58
+AddGroup 3
+AddGroup 5
+IncreaseLevel 5 34
+ReplaceGroup 0 1
+GetGroupsHighestLevel 0
+AddPlayer 74 5 20
+GetHighestLevel 2
+GetGroupsHighestLevel 0
+ReplaceGroup 1 2
+AddGroup 0
+GetGroupsHighestLevel 1
+IncreaseLevel 4 3
+IncreaseLevel -1 8
+GetGroupsHighestLevel 2
+RemovePlayer 23
+IncreaseLevel 4 71
+AddPlayer 2 1 -1
+GetAllPlayersByLevel 3
+RemovePlayer 82
+GetGroupsHighestLevel -1
+GetHighestLevel 4
+RemovePlayer 22
+ReplaceGroup 4 5
+AddGroup 2
+IncreaseLevel 2 36
+GetHighestLevel 5
+AddPlayer 24 -1 22
+IncreaseLevel 2 75
+ReplaceGroup 3 4
+GetGroupsHighestLevel 4
+AddGroup 1
+AddGroup 4
+RemovePlayer 67
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 3
+ReplaceGroup 5 6
+GetGroupsHighestLevel 2
+GetHighestLevel -1
+IncreaseLevel 5 99
+ReplaceGroup 1 2
+GetHighestLevel 1
+GetAllPlayersByLevel 2
+AddGroup 4
+GetHighestLevel -1
+RemovePlayer 30
+AddPlayer 87 4 3
+AddPlayer 52 1 31
+AddPlayer 56 1 45
+GetHighestLevel 2
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 0
+ReplaceGroup 3 4
+RemovePlayer 47
+IncreaseLevel 0 16
+GetAllPlayersByLevel 5
+IncreaseLevel 0 10
+AddGroup 3
+IncreaseLevel 1 25
+GetAllPlayersByLevel 4
+ReplaceGroup 0 1
+AddPlayer 72 1 41
+AddGroup 5
+GetHighestLevel 0
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel 0
+RemovePlayer 14
+GetAllPlayersByLevel 0
+GetHighestLevel 3
+AddPlayer 15 3 27
+AddPlayer 19 3 14
+GetGroupsHighestLevel 1
+IncreaseLevel 5 44
+AddPlayer 94 3 25
+IncreaseLevel 5 15
+AddPlayer 80 3 48
+AddPlayer 7 0 24
+ReplaceGroup 2 3
+RemovePlayer 16
+GetAllPlayersByLevel 1
+RemovePlayer 97
+AddGroup 3
+ReplaceGroup 1 2
+GetHighestLevel 5
+GetHighestLevel 5
+IncreaseLevel 1 50
+IncreaseLevel 0 97
+ReplaceGroup -1 0
+GetAllPlayersByLevel 3
+AddPlayer 34 1 44
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 2
+IncreaseLevel 5 48
+RemovePlayer 68
+GetGroupsHighestLevel 5
+GetAllPlayersByLevel 2
+IncreaseLevel 5 42
+GetAllPlayersByLevel 1
+AddGroup 3
+IncreaseLevel 1 76
+GetHighestLevel 3
+GetAllPlayersByLevel 4
+GetHighestLevel 3
+GetAllPlayersByLevel 2
+RemovePlayer 54
+ReplaceGroup 3 4
+IncreaseLevel 0 54
+GetAllPlayersByLevel 0
+AddGroup 0
+ReplaceGroup -1 0
+ReplaceGroup 0 1
+GetHighestLevel 0
+GetGroupsHighestLevel -1
+GetHighestLevel 2
+GetAllPlayersByLevel 2
+ReplaceGroup 0 1
+AddGroup -1
+RemovePlayer 20
+RemovePlayer 93
+IncreaseLevel 5 19
+GetAllPlayersByLevel 1
+RemovePlayer 11
+RemovePlayer 13
+GetHighestLevel -1
+GetGroupsHighestLevel 4
+IncreaseLevel 3 9
+AddGroup 4
+RemovePlayer 24
+GetGroupsHighestLevel 2
+GetHighestLevel 4
+ReplaceGroup 0 1
+AddGroup 3
+RemovePlayer 40
+RemovePlayer 96
+RemovePlayer 100
+ReplaceGroup 5 6
+GetHighestLevel 3
+AddPlayer 47 4 11
+AddGroup 2
+ReplaceGroup 1 2
+GetHighestLevel 5
+GetAllPlayersByLevel 4
+IncreaseLevel 5 51
+GetHighestLevel 5
+GetGroupsHighestLevel 2
+AddGroup 2
+ReplaceGroup 3 4
+AddGroup 1
+GetGroupsHighestLevel 0
+GetHighestLevel 0
+IncreaseLevel 0 36
+AddGroup 5
+ReplaceGroup -1 0
+AddPlayer 74 4 19
+GetHighestLevel 5
+RemovePlayer 99
+RemovePlayer 98
+GetAllPlayersByLevel -1
+GetHighestLevel 1
+AddPlayer 53 5 -1
+GetHighestLevel 0
+GetHighestLevel 2
+ReplaceGroup 0 1
+GetGroupsHighestLevel 4
+GetAllPlayersByLevel 1
+IncreaseLevel 4 58
+AddPlayer 41 4 48
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 0
+ReplaceGroup 0 1
+AddGroup 1
+AddPlayer 83 -1 37
+GetHighestLevel 5
+RemovePlayer 75
+GetGroupsHighestLevel 1
+RemovePlayer 58
+ReplaceGroup -1 0
+GetHighestLevel 4
+GetHighestLevel 3
+GetHighestLevel 5
+ReplaceGroup -1 0
+ReplaceGroup 2 3
+GetGroupsHighestLevel 2
+AddPlayer 67 4 36
+GetGroupsHighestLevel 2
+RemovePlayer 37
+IncreaseLevel 3 10
+GetGroupsHighestLevel -1
+ReplaceGroup 2 3
+RemovePlayer 74
+GetAllPlayersByLevel 5
+RemovePlayer 63
+ReplaceGroup 0 1
+GetGroupsHighestLevel 4
+IncreaseLevel 5 49
+GetAllPlayersByLevel 2
+RemovePlayer 67
+GetHighestLevel 1
+RemovePlayer 41
+IncreaseLevel 0 83
+AddGroup 5
+GetHighestLevel 2
+RemovePlayer 81
+AddPlayer 76 5 13
+IncreaseLevel 4 7
+GetGroupsHighestLevel 1
+GetHighestLevel 3
+GetGroupsHighestLevel 3
+IncreaseLevel 4 53
+GetGroupsHighestLevel -1
+AddPlayer 25 4 37
+AddGroup 5
+IncreaseLevel 1 88
+ReplaceGroup 1 2
+AddGroup 0
+RemovePlayer 20
+AddPlayer 61 -1 38
+AddGroup 5
+AddGroup 0
+GetHighestLevel 1
+GetGroupsHighestLevel 1
+IncreaseLevel 4 38
+IncreaseLevel 3 57
+AddPlayer 13 4 -1
+GetGroupsHighestLevel 4
+GetHighestLevel 3
+ReplaceGroup 1 2
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel -1
+AddPlayer 18 1 16
+RemovePlayer 33
+GetAllPlayersByLevel 2
+RemovePlayer 34
+ReplaceGroup 1 2
+GetHighestLevel 0
+GetHighestLevel -1
+GetAllPlayersByLevel -1
+ReplaceGroup 4 5
+GetHighestLevel 0
+AddPlayer 23 5 6
+GetGroupsHighestLevel 3
+GetGroupsHighestLevel 0
+AddGroup 5
+AddGroup 3
+GetGroupsHighestLevel 1
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 3
+AddGroup 3
+GetHighestLevel 1
+ReplaceGroup 0 1
+AddPlayer 68 2 29
+GetAllPlayersByLevel 0
+ReplaceGroup 4 5
+GetGroupsHighestLevel 0
+AddGroup -1
+IncreaseLevel -1 37
+GetHighestLevel 0
+GetAllPlayersByLevel 5
+RemovePlayer 78
+ReplaceGroup 4 5
+AddPlayer 66 4 44
+IncreaseLevel 3 43
+ReplaceGroup 1 2
+RemovePlayer 9
+RemovePlayer 24
+AddPlayer 92 1 18
+GetHighestLevel 1
+GetGroupsHighestLevel 4
+GetHighestLevel 4
+RemovePlayer 23
+RemovePlayer 22
+AddPlayer 88 5 12
+ReplaceGroup 0 1
+ReplaceGroup 2 3
+ReplaceGroup 4 5
+GetGroupsHighestLevel 1
+ReplaceGroup -1 0
+RemovePlayer 90
+AddGroup 4
+GetHighestLevel 5
+AddPlayer 85 -1 20
+AddGroup 5
+RemovePlayer 99
+GetGroupsHighestLevel 3
+ReplaceGroup 5 6
+ReplaceGroup -1 0
+RemovePlayer 2
+RemovePlayer 39
+GetGroupsHighestLevel 2
+GetHighestLevel -1
+GetHighestLevel 3
+ReplaceGroup 0 1
+IncreaseLevel 1 48
+IncreaseLevel 1 76
+RemovePlayer 66
+AddGroup 3
+GetAllPlayersByLevel 0
+RemovePlayer 68
+RemovePlayer 12
+AddPlayer 47 -1 19
+GetGroupsHighestLevel -1
+RemovePlayer 66
+GetHighestLevel 5
+ReplaceGroup -1 0
+GetGroupsHighestLevel 0
+IncreaseLevel -1 26
+AddGroup 1
+AddGroup 2
+IncreaseLevel -1 40
+AddPlayer 12 1 12
+AddPlayer 57 1 11
+AddGroup 0
+IncreaseLevel 1 46
+AddPlayer 91 3 49
+AddPlayer 96 2 22
+AddPlayer 51 5 12
+GetHighestLevel 5
+GetGroupsHighestLevel 4
+ReplaceGroup 5 6
+ReplaceGroup 2 3
+ReplaceGroup -1 0
+ReplaceGroup 5 6
+RemovePlayer 20
+RemovePlayer 11
+AddPlayer 67 3 16
+GetHighestLevel 1
+IncreaseLevel 1 21
+AddPlayer 47 5 45
+AddGroup 4
+IncreaseLevel 2 13
+IncreaseLevel 1 73
+GetHighestLevel 1
+AddPlayer 12 4 13
+GetAllPlayersByLevel 5
+GetHighestLevel 5
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 1
+IncreaseLevel 5 87
+AddPlayer 92 5 50
+GetGroupsHighestLevel 1
+GetHighestLevel 4
+GetGroupsHighestLevel 0
+AddPlayer 58 0 40
+GetAllPlayersByLevel 1
+ReplaceGroup 3 4
+GetAllPlayersByLevel 1
+RemovePlayer 81
+AddPlayer 16 1 17
+GetHighestLevel 4
+AddPlayer 37 4 48
+ReplaceGroup 3 4
+AddGroup -1
+GetGroupsHighestLevel 4
+AddPlayer 96 2 39
+RemovePlayer 91
+AddGroup -1
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 4
+GetHighestLevel 2
+AddGroup 4
+RemovePlayer 97
+AddGroup -1
+ReplaceGroup 1 2
+RemovePlayer 0
+AddGroup 3
+GetHighestLevel 1
+GetGroupsHighestLevel 2
+ReplaceGroup 2 3
+GetGroupsHighestLevel 5
+GetHighestLevel 3
+RemovePlayer 19
+ReplaceGroup -1 0
+GetHighestLevel 4
+IncreaseLevel 3 39
+GetHighestLevel 3
+AddGroup -1
+ReplaceGroup 2 3
+IncreaseLevel 4 25
+RemovePlayer 31
+GetHighestLevel 2
+IncreaseLevel 5 10
+AddPlayer 52 5 30
+IncreaseLevel -1 87
+RemovePlayer 2
+AddGroup -1
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 0
+ReplaceGroup 2 3
+AddGroup 2
+GetAllPlayersByLevel 1
+AddPlayer 47 -1 39
+GetAllPlayersByLevel -1
+IncreaseLevel 0 93
+AddPlayer 5 -1 15
+ReplaceGroup 3 4
+RemovePlayer 3
+AddGroup -1
+IncreaseLevel -1 93
+RemovePlayer 53
+RemovePlayer 16
+ReplaceGroup 1 2
+GetHighestLevel 3
+GetGroupsHighestLevel -1
+AddGroup 1
+GetHighestLevel 0
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 2
+AddGroup 0
+ReplaceGroup 5 6
+AddGroup 3
+GetGroupsHighestLevel 2
+IncreaseLevel 5 56
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 5
+GetGroupsHighestLevel -1
+AddPlayer 7 0 28
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 2
+AddPlayer 54 -1 28
+AddPlayer 99 2 17
+GetGroupsHighestLevel 1
+AddPlayer 5 4 39
+GetGroupsHighestLevel 0
+AddPlayer 98 0 31
+ReplaceGroup 3 4
+AddGroup 1
+IncreaseLevel 1 83
+ReplaceGroup 4 5
+RemovePlayer 36
+AddGroup 0
+RemovePlayer 77
+IncreaseLevel -1 91
+GetAllPlayersByLevel 1
+GetHighestLevel 5
+AddGroup 2
+GetGroupsHighestLevel 2
+AddPlayer 54 2 30
+IncreaseLevel -1 72
+AddGroup 4
+AddGroup 1
+IncreaseLevel 1 44
+AddGroup -1
+GetAllPlayersByLevel 2
+GetGroupsHighestLevel 4
+AddGroup -1
+AddGroup 0
+ReplaceGroup 1 2
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 4
+RemovePlayer 21
+IncreaseLevel 2 75
+RemovePlayer 57
+ReplaceGroup 2 3
+GetGroupsHighestLevel 0
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel 5
+RemovePlayer 1
+AddPlayer 30 1 41
+RemovePlayer 71
+IncreaseLevel -1 28
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel 2
+IncreaseLevel 5 13
+AddGroup 2
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 1
+ReplaceGroup 1 2
+GetHighestLevel 4
+AddPlayer 90 1 44
+AddGroup 0
+RemovePlayer 85
+AddGroup 3
+AddPlayer 79 4 18
+AddPlayer 100 4 9
+AddGroup 5
+ReplaceGroup 1 2
+AddGroup 2
+RemovePlayer 49
+GetAllPlayersByLevel -1
+GetHighestLevel 1
+AddGroup 3
+GetHighestLevel 5
+AddPlayer 28 3 8
+IncreaseLevel 2 15
+GetAllPlayersByLevel 5
+RemovePlayer 77
+IncreaseLevel 3 96
+ReplaceGroup 2 3
+ReplaceGroup 1 2
+RemovePlayer 88
+GetHighestLevel 2
+AddPlayer 36 4 36
+RemovePlayer 72
+ReplaceGroup 2 3
+GetHighestLevel 1
+IncreaseLevel 0 89
+GetGroupsHighestLevel 1
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 3
+GetHighestLevel 4
+GetHighestLevel 0
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 1
+AddGroup 3
+AddPlayer 15 5 19
+GetHighestLevel -1
+RemovePlayer 78
+AddPlayer 46 1 5
+AddGroup 2
+GetAllPlayersByLevel 0
+IncreaseLevel 4 35
+RemovePlayer 66
+GetGroupsHighestLevel -1
+AddGroup 4
+ReplaceGroup -1 0
+RemovePlayer 48
+GetAllPlayersByLevel 3
+AddPlayer 76 2 49
+GetAllPlayersByLevel 3
+AddGroup 0
+GetAllPlayersByLevel 4
+ReplaceGroup 1 2
+GetAllPlayersByLevel -1
+AddPlayer 72 2 50
+GetAllPlayersByLevel -1
+IncreaseLevel 3 -1
+IncreaseLevel 0 -1
+GetAllPlayersByLevel 3
+ReplaceGroup 2 3
+GetGroupsHighestLevel 1
+GetHighestLevel 1
+ReplaceGroup 4 5
+IncreaseLevel 2 13
+AddPlayer 79 3 1
+ReplaceGroup 3 4
+AddPlayer 100 5 48
+GetAllPlayersByLevel -1
+IncreaseLevel 3 87
+IncreaseLevel 1 30
+GetHighestLevel 1
+AddPlayer 60 3 47
+RemovePlayer 40
+GetHighestLevel -1
+GetGroupsHighestLevel 4
+GetHighestLevel 3
+AddPlayer 71 0 15
+ReplaceGroup 3 4
+GetHighestLevel 5
+GetHighestLevel 3
+AddGroup 3
+AddPlayer 99 3 23
+GetHighestLevel -1
+AddPlayer 83 0 26
+GetAllPlayersByLevel -1
+AddPlayer 38 5 16
+AddPlayer 75 -1 42
+RemovePlayer 3
+GetHighestLevel 0
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 0
+AddPlayer 41 0 13
+AddGroup -1
+ReplaceGroup -1 0
+GetHighestLevel 5
+RemovePlayer 8
+GetAllPlayersByLevel 4
+ReplaceGroup 5 6
+IncreaseLevel 1 59
+GetHighestLevel 0
+IncreaseLevel 5 46
+IncreaseLevel 4 72
+AddGroup 3
+IncreaseLevel 0 50
+AddPlayer 19 1 28
+GetAllPlayersByLevel 2
+IncreaseLevel 2 61
+GetAllPlayersByLevel 4
+AddGroup -1
+AddGroup 1
+IncreaseLevel 3 75
+GetGroupsHighestLevel 4
+IncreaseLevel 1 17
+GetHighestLevel 5
+IncreaseLevel 2 23
+IncreaseLevel -1 22
+ReplaceGroup 0 1
+AddPlayer 100 3 6
+GetGroupsHighestLevel -1
+GetGroupsHighestLevel 5
+RemovePlayer 21
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel 1
+IncreaseLevel 3 72
+GetGroupsHighestLevel -1
+AddGroup 5
+IncreaseLevel 2 1
+GetHighestLevel 5
+GetHighestLevel -1
+IncreaseLevel -1 16
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel 4
+RemovePlayer 60
+GetGroupsHighestLevel -1
+AddGroup 2
+AddGroup 2
+AddGroup -1
+GetAllPlayersByLevel 3
+GetHighestLevel 1
+GetHighestLevel 4
+GetGroupsHighestLevel 5
+GetGroupsHighestLevel 5
+GetHighestLevel 4
+AddGroup 5
+GetHighestLevel 4
+AddGroup 2
+AddPlayer 7 -1 42
+AddGroup 2
+ReplaceGroup 0 1
+AddPlayer 80 5 34
+GetAllPlayersByLevel 2
+IncreaseLevel 4 0
+AddGroup 5
+GetAllPlayersByLevel 2
+ReplaceGroup 5 6
+AddPlayer 36 5 33
+ReplaceGroup 4 5
+GetAllPlayersByLevel 4
+IncreaseLevel 5 49
+GetAllPlayersByLevel -1
+AddGroup 5
+GetGroupsHighestLevel 1
+AddGroup 1
+RemovePlayer 50
+GetGroupsHighestLevel 5
+ReplaceGroup 3 4
+IncreaseLevel 5 30
+ReplaceGroup 5 6
+RemovePlayer 10
+AddPlayer 78 0 35
+GetHighestLevel 1
+GetAllPlayersByLevel -1
+GetHighestLevel 0
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 2
+AddGroup 2
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 4
+GetHighestLevel 3
+AddPlayer 41 3 9
+RemovePlayer 82
+GetGroupsHighestLevel 5
+ReplaceGroup 5 6
+RemovePlayer 63
+AddPlayer 4 1 38
+IncreaseLevel 5 13
+ReplaceGroup -1 0
+ReplaceGroup 2 3
+AddPlayer 95 0 31
+IncreaseLevel 0 47
+IncreaseLevel 2 38
+IncreaseLevel -1 88
+ReplaceGroup -1 0
+AddGroup 0
+AddPlayer 41 4 36
+AddGroup 4
+ReplaceGroup -1 0
+IncreaseLevel 0 67
+IncreaseLevel 5 80
+GetHighestLevel 0
+GetHighestLevel 4
+RemovePlayer 98
+GetAllPlayersByLevel -1
+AddPlayer 73 3 27
+GetGroupsHighestLevel 5
+RemovePlayer 38
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 3
+GetHighestLevel -1
+IncreaseLevel 2 45
+AddPlayer 56 4 38
+AddGroup 4
+AddGroup 3
+AddPlayer 25 4 22
+ReplaceGroup 0 1
+AddPlayer 59 4 8
+GetHighestLevel 2
+GetGroupsHighestLevel 2
+RemovePlayer 82
+IncreaseLevel 3 84
+AddPlayer 12 2 15
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel -1
+IncreaseLevel 1 27
+AddPlayer 48 3 6
+AddGroup 1
+AddGroup 4
+IncreaseLevel 5 92
+IncreaseLevel 4 94
+AddPlayer 12 -1 29
+GetGroupsHighestLevel 4
+AddPlayer 88 4 32
+AddPlayer 15 3 49
+RemovePlayer 2
+AddPlayer 41 5 39
+GetAllPlayersByLevel 1
+GetGroupsHighestLevel 4
+AddPlayer 79 0 15
+IncreaseLevel 2 90
+AddGroup 2
+ReplaceGroup 0 1
+GetHighestLevel 3
+GetHighestLevel 2
+GetAllPlayersByLevel -1
+RemovePlayer 60
+GetAllPlayersByLevel 4
+AddPlayer 82 1 37
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 1
+RemovePlayer 97
+ReplaceGroup 4 5
+AddGroup 5
+AddGroup 5
+RemovePlayer 74
+ReplaceGroup 3 4
+AddGroup 1
+AddPlayer 61 5 21
+GetAllPlayersByLevel -1
+IncreaseLevel 3 31
+GetHighestLevel 3
+AddGroup 3
+GetAllPlayersByLevel 3
+GetAllPlayersByLevel 5
+IncreaseLevel -1 63
+GetGroupsHighestLevel 4
+RemovePlayer 65
+AddPlayer 26 2 31
+RemovePlayer 52
+RemovePlayer 93
+GetGroupsHighestLevel 1
+ReplaceGroup 2 3
+ReplaceGroup 1 2
+IncreaseLevel 5 15
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel 0
+ReplaceGroup 4 5
+GetAllPlayersByLevel 1
+GetHighestLevel 2
+IncreaseLevel 3 37
+GetGroupsHighestLevel 5
+AddGroup 1
+GetGroupsHighestLevel 4
+ReplaceGroup 4 5
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 4
+AddGroup 3
+RemovePlayer 89
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 5
+IncreaseLevel 3 79
+AddGroup 3
+IncreaseLevel 5 61
+ReplaceGroup 3 4
+AddPlayer 67 2 20
+AddGroup 2
+RemovePlayer 62
+RemovePlayer 6
+AddPlayer 99 2 33
+GetGroupsHighestLevel 0
+RemovePlayer 58
+GetHighestLevel 1
+GetGroupsHighestLevel -1
+AddGroup 5
+ReplaceGroup 0 1
+GetAllPlayersByLevel 4
+ReplaceGroup 2 3
+AddPlayer 48 -1 42
+IncreaseLevel 5 86
+ReplaceGroup -1 0
+IncreaseLevel 4 26
+GetHighestLevel -1
+RemovePlayer 49
+GetGroupsHighestLevel 4
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel -1
+AddPlayer 28 3 18
+AddGroup 5
+ReplaceGroup 1 2
+RemovePlayer 34
+GetHighestLevel 3
+IncreaseLevel -1 7
+RemovePlayer 78
+GetAllPlayersByLevel 3
+AddGroup 2
+AddGroup 3
+AddGroup 4
+GetGroupsHighestLevel 5
+ReplaceGroup 4 5
+GetAllPlayersByLevel 2
+AddPlayer 44 2 46
+GetHighestLevel -1
+GetGroupsHighestLevel 0
+ReplaceGroup 2 3
+GetAllPlayersByLevel 0
+AddGroup 1
+GetGroupsHighestLevel 0
+RemovePlayer 74
+IncreaseLevel 2 92
+GetGroupsHighestLevel -1
+GetAllPlayersByLevel 4
+IncreaseLevel 2 80
+AddGroup 3
+GetHighestLevel -1
+GetGroupsHighestLevel 3
+IncreaseLevel 1 69
+GetHighestLevel 5
+RemovePlayer 3
+GetGroupsHighestLevel -1
+AddPlayer 7 1 5
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel 1
+AddPlayer 26 -1 30
+ReplaceGroup 4 5
+ReplaceGroup 2 3
+GetGroupsHighestLevel 3
+RemovePlayer 44
+AddGroup 1
+GetHighestLevel 2
+IncreaseLevel 5 56
+ReplaceGroup 3 4
+ReplaceGroup -1 0
+AddGroup 0
+AddGroup 4
+AddGroup 5
+IncreaseLevel 5 85
+RemovePlayer 20
+GetHighestLevel -1
+RemovePlayer 70
+GetAllPlayersByLevel 0
+AddGroup 1
+GetGroupsHighestLevel 2
+RemovePlayer 87
+RemovePlayer 72
+ReplaceGroup -1 0
+ReplaceGroup 4 5
+GetGroupsHighestLevel 0
+AddGroup 5
+RemovePlayer 26
+GetAllPlayersByLevel 5
+GetHighestLevel 2
+ReplaceGroup 4 5
+IncreaseLevel 0 88
+RemovePlayer 30
+AddPlayer 5 4 4
+AddGroup -1
+ReplaceGroup -1 0
+AddGroup 4
+IncreaseLevel 5 22
+IncreaseLevel 2 17
+AddPlayer 86 -1 4
+AddPlayer 38 3 42
+ReplaceGroup 5 6
+GetAllPlayersByLevel -1
+AddPlayer 75 1 10
+IncreaseLevel 1 11
+IncreaseLevel 4 65
+ReplaceGroup 0 1
+GetHighestLevel 0
+GetAllPlayersByLevel 2
+GetAllPlayersByLevel 5
+RemovePlayer 80
+RemovePlayer 23
+ReplaceGroup 3 4
+GetHighestLevel 2
+GetHighestLevel 0
+IncreaseLevel 1 71
+GetAllPlayersByLevel 5
+IncreaseLevel -1 44
+AddPlayer 19 0 0
+ReplaceGroup 1 2
+AddGroup 2
+AddPlayer 78 4 31
+AddGroup 0
+IncreaseLevel 3 38
+IncreaseLevel -1 88
+GetHighestLevel 3
+GetHighestLevel 4
+GetHighestLevel 5
+ReplaceGroup 1 2
+RemovePlayer -1
+IncreaseLevel 3 73
+IncreaseLevel 3 55
+IncreaseLevel 2 23
+RemovePlayer 41
+RemovePlayer 1
+ReplaceGroup 4 5
+ReplaceGroup 5 6
+GetHighestLevel 0
+ReplaceGroup 4 5
+GetGroupsHighestLevel 2
+RemovePlayer 21
+GetGroupsHighestLevel 2
+AddPlayer 65 5 31
+GetHighestLevel 2
+GetAllPlayersByLevel 2
+AddGroup -1
+GetHighestLevel 0
+AddPlayer 13 5 5
+AddPlayer 44 -1 39
+GetGroupsHighestLevel -1
+AddPlayer 7 2 14
+GetHighestLevel 3
+ReplaceGroup -1 0
+IncreaseLevel -1 1
+AddPlayer 4 4 7
+IncreaseLevel 4 40
+AddPlayer 10 1 31
+GetHighestLevel 4
+GetHighestLevel -1
+AddPlayer 17 3 34
+GetAllPlayersByLevel 5
+AddPlayer 83 4 5
+GetAllPlayersByLevel 0
+GetAllPlayersByLevel 0
+IncreaseLevel 4 6
+GetGroupsHighestLevel 3
+RemovePlayer 36
+ReplaceGroup -1 0
+AddGroup 0
+GetAllPlayersByLevel 0
+AddGroup -1
+AddPlayer 22 2 -1
+AddGroup 3
+AddPlayer 46 3 13
+AddPlayer 12 0 44
+IncreaseLevel 4 72
+GetAllPlayersByLevel 5
+IncreaseLevel 3 45
+ReplaceGroup -1 0
+AddPlayer 52 0 23
+RemovePlayer 62
+GetGroupsHighestLevel -1
+AddPlayer 6 2 7
+GetGroupsHighestLevel 1
+AddPlayer 2 -1 19
+GetGroupsHighestLevel -1
+AddGroup 0
+GetHighestLevel 2
+GetGroupsHighestLevel -1
+RemovePlayer 57
+AddGroup 5
+GetHighestLevel 1
+GetAllPlayersByLevel 3
+GetGroupsHighestLevel 0
+IncreaseLevel 0 20
+GetAllPlayersByLevel 0
+IncreaseLevel 2 50
+GetHighestLevel 4
+RemovePlayer 92
+GetGroupsHighestLevel 2
+GetAllPlayersByLevel -1
+AddPlayer 32 1 48
+AddGroup 2
+GetHighestLevel 2
+AddPlayer -1 2 28
+AddGroup 4
+GetHighestLevel 2
+GetAllPlayersByLevel -1
+GetHighestLevel 3
+AddPlayer 85 0 23
+IncreaseLevel 0 6
+GetHighestLevel 0
+GetAllPlayersByLevel 1
+AddGroup 5
+ReplaceGroup 2 3
+ReplaceGroup 4 5
+GetHighestLevel 5
+RemovePlayer 31
+RemovePlayer 0
+AddGroup 3
+AddGroup 2
+GetGroupsHighestLevel 0
+RemovePlayer 21
+AddPlayer 96 1 29
+GetAllPlayersByLevel 3
+RemovePlayer 30
+AddGroup 5
+GetAllPlayersByLevel 3
+RemovePlayer 7
+GetHighestLevel 3
+RemovePlayer 63
+AddPlayer 2 0 4
+GetGroupsHighestLevel 1
+IncreaseLevel 4 15
+GetHighestLevel 1
+GetAllPlayersByLevel 4
+GetAllPlayersByLevel 4
+GetGroupsHighestLevel -1
+AddPlayer 89 5 28
+GetAllPlayersByLevel 5
+IncreaseLevel -1 18
+GetHighestLevel 0
+ReplaceGroup 1 2
+GetHighestLevel 4
+RemovePlayer 60
+GetAllPlayersByLevel 1
+ReplaceGroup 2 3
+GetHighestLevel -1
+AddPlayer 48 4 44
+AddPlayer 8 5 6
+IncreaseLevel 0 77
+AddGroup 5
+IncreaseLevel 1 18
+GetGroupsHighestLevel 5
+IncreaseLevel -1 48
+AddPlayer 69 4 33
+GetAllPlayersByLevel 3
+GetHighestLevel 4
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel 0
+ReplaceGroup 0 1
+AddPlayer 98 4 36
+GetHighestLevel 1
+GetAllPlayersByLevel 1
+GetAllPlayersByLevel 0
+IncreaseLevel 3 26
+IncreaseLevel 2 86
+ReplaceGroup 0 1
+GetGroupsHighestLevel -1
+RemovePlayer 15
+AddGroup 2
+AddPlayer 18 0 46
+AddGroup 4
+GetGroupsHighestLevel 3
+AddPlayer 0 3 47
+RemovePlayer 16
+RemovePlayer 97
+IncreaseLevel 3 19
+AddGroup 0
+IncreaseLevel 5 54
+GetHighestLevel 1
+AddGroup 0
+AddPlayer 37 -1 20
+GetAllPlayersByLevel 2
+IncreaseLevel 4 76
+GetGroupsHighestLevel -1
+ReplaceGroup 0 1
+GetGroupsHighestLevel 3
+GetHighestLevel 5
+RemovePlayer 47
+GetGroupsHighestLevel 0
+GetAllPlayersByLevel -1
+GetGroupsHighestLevel 5
+AddPlayer 20 1 31
+AddPlayer 17 4 5
+GetGroupsHighestLevel 4
+AddPlayer 9 1 45
+GetGroupsHighestLevel 3
+GetAllPlayersByLevel 1
+AddPlayer 10 0 45
+AddGroup 2
+GetHighestLevel 4
+GetGroupsHighestLevel 5
+IncreaseLevel 5 30
+IncreaseLevel 3 7
+RemovePlayer 76
+AddPlayer 61 -1 6
+AddPlayer 14 3 31
+IncreaseLevel 5 22
+IncreaseLevel 3 0
+IncreaseLevel 2 61
+AddGroup -1
+GetHighestLevel -1
+GetGroupsHighestLevel -1
+GetHighestLevel 2
+GetGroupsHighestLevel -1
+AddPlayer 71 1 48
+ReplaceGroup 4 5
+IncreaseLevel 5 35
+GetAllPlayersByLevel 5
+IncreaseLevel 3 22
+AddPlayer 61 3 7
+GetGroupsHighestLevel 2
+ReplaceGroup 0 1
+RemovePlayer 50
+GetAllPlayersByLevel 4
+GetHighestLevel 0
+GetAllPlayersByLevel 5
+GetAllPlayersByLevel 0
+GetGroupsHighestLevel -1
+IncreaseLevel -1 49
+AddPlayer 95 -1 8
+GetGroupsHighestLevel 5
+ReplaceGroup 0 1
+GetAllPlayersByLevel -1
+GetAllPlayersByLevel 2
+GetHighestLevel 2
+GetHighestLevel 4
+GetGroupsHighestLevel 2
+GetGroupsHighestLevel -1
+IncreaseLevel 4 74
+GetGroupsHighestLevel -1
+AddGroup 3
+GetGroupsHighestLevel 2
+AddGroup 3
+GetGroupsHighestLevel -1
+IncreaseLevel -1 61
+Quit 
